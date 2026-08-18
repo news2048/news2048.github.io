@@ -105,6 +105,11 @@ def main() -> int:
         "note": "",
         "data": TEMPLATES[mtype],
     }
+    if mtype == "compare":
+        module["source_manifest"] = {
+            "path": f"analysis/sources/{mid}.json",
+            "count": 0,
+        }
 
     target.mkdir(parents=True)
     out = target / "module.json"

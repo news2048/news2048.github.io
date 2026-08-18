@@ -1,0 +1,2392 @@
+{
+  "module_id": "universal-cash-media-framing",
+  "captured_at": "2026-08-18 15:25 Asia/Taipei",
+  "method": "2025 代表新聞與社論逐筆回查；2026 Google News RSS 網域檢索後去重並排除標籤頁與明顯無關頁面。",
+  "count": 298,
+  "articles": [
+    {
+      "period": "2025 藍白推動",
+      "outlet": "中時電子報",
+      "date": "2025-07-04",
+      "title": "「普發1萬」今立院激戰！他提小英曾發3次酸賴：國家被掏空了？",
+      "url": "https://www.chinatimes.com/realtimenews/20250704001651-260407",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "中時電子報",
+      "date": "2025-07-11",
+      "title": "全民普發現金1萬 立院三讀通過 要求政院10月底前執行",
+      "url": "https://www.chinatimes.com/realtimenews/20250711003453-260407",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "中時電子報",
+      "date": "2025-08-14",
+      "title": "昔喊天人交戰 卓揆何以改挺普發1萬沒排富？政院全說了",
+      "url": "https://www.chinatimes.com/realtimenews/20250814002991-260407",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "聯合新聞網",
+      "date": "2025-07-11",
+      "title": "給定了！國民黨推全民普發一萬 5450億特別條例三讀通過",
+      "url": "https://udn.com/news/story/6656/8866607",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "聯合新聞網",
+      "date": "2025-07-13",
+      "title": "聯合報社論／關稅紓困振興、還財於民，才是更大的民主",
+      "url": "https://udn.com/news/story/7338/8868608",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "聯合新聞網",
+      "date": "2025-07-16",
+      "title": "聯合報社論／救災惹民怨，賴政府竟還想沒收萬元現金",
+      "url": "https://udn.com/news/story/7338/8874857",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "聯合新聞網",
+      "date": "2025-07-18",
+      "title": "卓榮泰：普發現金需舉債千億 內心交戰",
+      "url": "https://udn.com/news/story/124539/8879938",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "自由時報電子報",
+      "date": "2025-07-15",
+      "title": "普發現金1萬 基市議長童子瑋：政策性買票無法無天",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5108401",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "自由時報電子報",
+      "date": "2025-07-15",
+      "title": "國民黨加碼預算普發1萬 卓冠廷：李煥、林洋港35年前就說違憲",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5108393",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "自由時報電子報",
+      "date": "2025-08-15",
+      "title": "焦點評論》附和藍白勒索 棄守戰場",
+      "url": "https://news.ltn.com.tw/news/politics/paper/1720234",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "民視新聞網",
+      "date": "2025-07-11",
+      "title": "快新聞／藍白硬闖關！立院通過普發現金1萬元 撥補台電千億慘遭封殺",
+      "url": "https://finance.ftvnews.com.tw/news/detail/2025711W0669",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "民視新聞網",
+      "date": "2025-07-13",
+      "title": "快新聞／藍白三讀通過普發現金1萬元！林楚茵、黃捷轟：掏空國庫救罷免",
+      "url": "https://finance.ftvnews.com.tw/news/detail/2025713W0211",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "民視新聞網",
+      "date": "2025-07-14",
+      "title": "快新聞／藍白強推普發1萬 吳思瑤轟撒幣救罷免：預算能做「這些建設」",
+      "url": "https://www.ftvnews.com.tw/news/detail/2025714W0106",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "三立新聞網",
+      "date": "2025-07-12",
+      "title": "普發1萬是「癱瘓台灣第3招」先窮台再統一 沈伯洋：台灣在笑聲中被拍賣",
+      "url": "https://www.setn.com/News.aspx?NewsID=1686418",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "三立新聞網",
+      "date": "2025-07-13",
+      "title": "國民黨強推普發1萬、不撥補台電！矢板明夫轟：台灣國力衰退北京最高興",
+      "url": "https://www.setn.com/News.aspx?NewsID=1686863",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2025 藍白推動",
+      "outlet": "三立新聞網",
+      "date": "2025-07-14",
+      "title": "不滿藍白強推普發現金「想回捐1萬怎麼辦」？捐款國庫4方法一次看",
+      "url": "https://www.setn.com/News.aspx?NewsID=1687019",
+      "url_kind": "媒體原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "快訊》賴清德宣布明年普發1萬元！喊「AI紅利全民共享」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBcHNXUVNyRVdvall4bDlQd2pwT2RYbllkdWNRQjBidUE0ZVo4T00yTmJtV3ZWdHhXQmsxVVVqQ2dyc0hjLWc5ZExUZnEyandVMWNuWnozcDFYU2xkcGo1T0Q1Rzk3TG9kQVZIc0dn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬是「AI紅利」！林國漳讚全民共享 不宜單純從選戰角度解讀",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IMkFpZGJidFg0NXNQbU51TDRtNENoaGlocE9LTWMyQ2xJVi00U0Ztc3dTZjlmUGtVUFoyVVhIdTYyRVFuZ1dWV3RsZnVsRWRxSXJ0VTJubzVQUFJOYVZtdlZOc2g1bXBDQ0wxaUpB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "賴清德普發1萬釋昭慧氣罵「有樣學樣」：礙難忍受- 生活",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FNkpjaW1ydFVpZEpwOXlkOG54anlDdmhrcE96VHdvbTZDUWpCOFlCOU42cjlqU3V2by1CUWc4YjRGYjRpVUhZX1k5bDBaVVlFbVFfUUNqanUtaXhILWMzTUpJZHp0dkE2TjZTYWhB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊普發2萬！綠議員幫提案加碼 北市財政局回應了",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9weUVsbGNjSGo0a0F5dWJSNDJJQXoyR1hvbmdjOTV6d3U2UlpYa2V1dGJwM1d3aTFNZndaSF9MR0U4a2tFSWVKa1VFd0p2dEZvZ0F4Q2I3M3dZM1Fnc0k2aEcwN0tLX0F3TUZnczNB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬卻無心照顧公教？公教團體批中央政府沒誠信",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fWXNzd1pCUnUtZFNoYnUxakNpSGV5UmNBOUFwZ3B0SlJ5SFk3N0lZM1RkQ3NxM2ZabzFMRE9GRVQwdUphdjFsdTQwRGI0ZWNweTRxM2JZOHBzZlRhWW1uNm1GaC1EcW1oOTdIb2hB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬元還超徵剩餘5000多億 如何使用？盧秀燕盼多與立院對話",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbVF1WUp6RmI4NTZjVm1EbVowUm5WX0JiZTNnemZDcmhaekJzbENKa3RlQnlFZUF5U2U4MmkwRl9LOHdIaS1FbzdlS1RBVUpYZHRqdzlzVHR6eXdqelZTd3lZYWNTay0tbE8yejZ3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬成政策回力鏢？ 殷瑋翻賴清德、卓榮泰等人昔日言論開轟",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSanlEZzZmTGE3UEo5QW1WVE5fMVA3Y043NWwzM0tVOEFxSHFUeVlqSGpRcS16ZjJVdl9NUHN3Z3h5X0VPUjJkRnBtLUtlemVRWG9HZGR6VDBxLWdIdzNKNUxFWWpteVVDcXpmZmNB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "賴清德明年普發1萬 國民黨酸為德不卒：要發就發2萬",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NWnRua0xmOEpnWEtwcTUtZFc3Z0tGczlCby1MN0p3cFZ2VnlQbUVGUGRSeWNqclFMTkE4dzRtcXhtZzExaW1PX09LckFhQkYtU3lVVFVOVHB6SjhVSVhzX2o5QzZON2JLMkY1NHhn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "賴政府拍板普發1萬作家翻綠營昔日狠話：再度打臉自己- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKRGR0LU93Q1A5YlNIWkNxN1JQdEFiSmpFVWxyUzZvdFl1cldPTU1DZGFQSnU2V2tyX2R6Wm5ZRk0yMEdVVjZWVUtYXzhqT2NyWS14UkZockZwOFQ1QWczVUh6V3pMbXpSbnZtRTZB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發一萬不夠看？專家拋震撼提案：這群人加碼送1張台積電- 財經",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MaXJ6bE5MRERydjkwQW5NTFlidjNiTmdGTlhBSUktYS1GRkhzaDZjcnU5dzNKYzd6RzcwUlFKUHliVFg4RzBSUk1UWXFLSDRNTmFGRDJlSVliNkFvRWpTczA5OEM0cTBOMkY0UDhB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "「怎麼可以普發1萬？」吳子嘉氣炸轟賴清德「買票」：非常低級惡劣- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVkhNUEJVcGdIczF3UzFkcjhEc0RVWkF1MFhibjlmeXZqdGxPZ3M1LTN6NTVTZXVzQlpObXRUVlpGZngtTTFteGg2ZUpqaVpybzJLOFJSdW0tUUdCcDNJLWlWRW5lbUN0c0tNejB3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "卓揆釋普發財源歲入歲出平衡- 財經要聞- 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSX2ctSEdPVnVadTQ3U09RcGUwaXhCbXhjMnhZcDhpZVJRS050dlJHdDJvTmJoT01FRWkxdElaMFlLa2M0N21uVHdtUE1CLVZ3aE0yMElQQnVBX2JubW9wal9adUpuV1dlMUZB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "去年痛罵普發1萬李四川競辦主任轟民進黨如今跟著藍白走- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jb3NVZW1sQU9oMk9GNnpVbXlTVEpHR2h3RFlCRUcwTE1TbUxJTTFYOEw3Z1lrTHRVLTdkWk5uUnlkME9rNmxxY25KbjE4bnNKVlRMa2ZmemM5bV9lblRFUFUxQmtVVFUwVmJ5T2tB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬立場轉彎？沈伯洋稱3原則沒變 陳揮文狠酸「唬爛」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWjdwOHE2ZWc5T25Na3F1MDNhRGpBVDFScE4yZEJ4VzV3ZGxzNy1nbkM5NHVrQUdhWFJBb0FSMlc3WXB3NnVGZ19XNE1aUXRxWExVT1U0SDBRMFpTRGpVXzd4Nm4xYUtKNXFLYzdR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "釋昭慧砲轟賴政府普發1萬媒體人「給讚」：至少沒見風轉舵- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yUll1V2xkRWctSUJXMUQ2NEJiOW5ONEk2eXlNOFdJN3U1S1NjUVlhb2ZnMkp4NDFTTXZVbVlCSWlSeXk3SDVYNE5SNlV0NEhyV01rbmJTQVZmTlNCUUNCaVpERzE2X0dESndlMlVB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊普發兩萬元確實有所本？羅廷瑋這樣算出來了- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1eWczbTRCeHZ0Vmt4RE5ncGFnZ3J1RFQxUTNhbV90NTFSa09Gd1M4LWtQb1BRdVFSTVkyblFJODFpVWQ4emF4WmozYlZXbFlTeEVKS0ExcDZQbFU2amFONlNwVFZuOXJlZThBSGtR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "明年再普發1萬元！蘇巧慧喊「過年大紅包」 籲在野黨速審總預算",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQUtLQ1pvcGhPcUFVdS1IUGVkdWg5RndLeXFSRDl0YjE3bXpyWEpFcno4SHNwVVh2bUROZkc0ZGJhUzhXRjRoQnBfdDQxWFM5bGtMV3J3bEZZX1JnT3B0VEpGVXA0MXJDSUNoVGFn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "共享AI紅利 總統宣布明年普發1萬元",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxWFFPN2NKRVRaTVlWb0xtSlBKVnBXenc1dEVpS3M1X3h6VENvMVU5LUhZVFBSNlpfenF0dkl0OUYtZ21XakgyUDZ6ZmJoaV9rSzhOY0J2MG9CRUFFbXFyS0VOTGdpc21NREw4?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安諷應普發2萬 陳其邁暗酸有錢人想著吃鮑魚、魚翅",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RZGJYMmw2eFJTaFN2N3BSQWt1TUxXRjRXWTllYWQ5RXY2QnpxZXRmbzN5Nmd2X2R1aUp2WmxWTlJ0MnRlODB4R0tFd0dXTFFxWm45b25TRTRWMHp3dXJ4Sks5Q3hfYXhYM0xONVdB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "明年普發1萬最強菜農驚「綠連環招」：在野該感謝韓擎天一怒- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZOW9uYnV2c01YSmdaRWJ5MmFGNXFDUWFLelVYeVctZk1VSk9jejMxMTlCM0tXeVZrZVZxTnl6TTB0MHNaVS1MVGpoLUtPel9fTWExWFpWQUNwZjBYcVMya3BlLXZuMm5nak9sbU93?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "明年普發1萬韋淳祐譏「真人聲偽賴清德」：刑事局快查- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yWkFZVGJLV2ZzcFlyUXNIOGR4YWtaNEVFdkxWNXpUU1NETlJqYkt6QWFXWnJsV25vYnRrSXZOMFZyVFJkdFVvSXotYlRaOG5Tei1BMDhCdUdRa1ZKNVpSYmVNTVJsdElWUjBYeXpn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布普發1萬元不夠 藍委建議每人至少發2萬",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfMVZJS3BCWXFncUhWTWROUERvSHZLZ0VHVlMzYzMzRlItZmVJSFZyYUxTNHp3dEw2OG8xX2FDRDFhcjJ6Z0FlWDhtbVVJQ0VkNXpnLUF1d1ZKVnprM3VQejBqaFMzRkJvcjJQbmZ3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "青鳥昔喊拒領普發1萬迴力鏢狂砸網呼叫釋昭慧：出來說話- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wcFJ5Tm50UDlpRDZ5VkNrM2w4bC1FMFBUT3lkbFBiTG1ocnlQamdGX3FfUkVFeldaMV9aaWlvWU0zTnFZMXVEWkl0WVVjT0FjV1JrdUhDekpJZGdTXzE4am5DUGhEZ0gtVVRLR2FB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬 Cheap翻沈伯洋驚句嗆問1句",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9idlBtdTgyUjhscFhGNHFoSW9SaTlSMG1kOVJpOTV2UFFnLTBqSUFFbWQ4V29WNmtqOXJfQW5uVlJCb2dBSUVGSTBYeThTTm5XazcwOTRIU3NCYnRpVVhic21RSGNUcnNjRGo4bGtR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴宣布普發1萬粉專翻「團結十講」這段話：只會操作政治對立- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jUFZFRENDRk9xUTdmZllwZXBCbmxRNXlNQ2pyQ3FuWVJLMURUaE9Nejh1dldIUFpxMGhHRWY0ZnRPeENNdndJMGF6TGh1T2lBcmV0UnNkc1dCY1dRdmxIblNnNjdvb1RpejN5cjJn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "明年普發1萬元涉賄選買票？新黨告發總統賴清德涉犯選罷法",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvSmpnU0xBZGVvVGZyMTF6U19sZXZuZ2ZhS0l4RVd1U3dSSTVxM1ZPS2szcFptdGZKQzBoNU82eFRVVUR4YlZxZEIxcXNWb0p1WnpTSmNYX3BxYlpYNVk3R1l3eUFGamhkeFR3WXlB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "何欣純喊當選推動普發現金 江啟臣辦公室呼籲：中央應考量至少2萬",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sd0RKZ1Vaa0YwRkxrTjEzR2NXdG1WT3BLdWJDXzF0WUM4aG45WFFGQzN2VFJiZWRvYWk5azNPSU5XVmtwMF9XSENLTFhzTUZUd2hHZnFwV21qaG5DMm5VbUZURi1RT1VESld1WnpR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬！王鴻薇揭1數字喊太少了：可變成2萬",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11T2FySFcwaGl3Yi1KSXNxMldJbXRPRFVyd0ZEVF8ySFh1NHdFSnR3Tmw4VGhWRVMzOWdqb2ZFZUxXazRaQTJMaTZMaG50R2FIdW9tal8zLUstOEM5RVBMeVN1TXBMUFBkcThWQ0N3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "卓榮泰：普發1萬不排擠施政 明年撥補勞保1300億、健保600億",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRVAyWVRoUTExTDFvWFV6V215RW5QaXNZWHB5OGhUYU55OG1SSlIzT1p5THFaMVg2RF81LVBsajRXd0RCV0E1c0ZLUTE5OFQ0MUVlMEN5c1ctRl9talVKSG83anA4N3RpSmg1a2xn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴清德拍板普發1萬 蔣萬安：不是說買個菜就沒了？應普發2萬",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44WUZVUWFXQWZwNHAwY0J1VF93d2VRZlNIN0dSNEJ5YlRKa01aZldkZzBTLVFDcGs1RW1VNlBJZ1A4a1ZNNmhzdnN1RXFnUG0ySWNBc3dPRjN0ankwT3VXVWkyUlhzMFhoaDVLRmVn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "昔罵藍白「窮台統一」 今普發1萬 民眾黨諷綠：為何用共產黨的招？",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdHNaQS1vVC1UdjljV1l3OFB6a1duUG5LN0NWczY1MUtEcnd2MEE5ajNOQXQ0eWwzT0tWdVY1NjZyenpsRGpnTlBqdV9ha2VtUmI2REtSWUtuVkdvTTNCcktLc3JreVB0cEZpbl9B?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "普發1萬大轉彎 柯志恩轟賴瑞隆：去年反對今喊讚 根本救選情",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mU0NXS3ZPUFBMU2VRM3Rlb1NKQl9rSzZtb1cyY2RscWp0dS1kZFR0Yjlhd29hQkh3VUxJSEd3UDRjTlhjM3dSaUpNSHBfTWJSdGItTFRMVGxucWkteGx2QTZNNTBWLU94Q1ZWSjJB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "明年普發1萬 藍營酸綠「髮夾彎」：先為過去抹黑道歉",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iNHRkY3FpTXRiaDV6WmI4SWJfLWhENW5Kb2RUNFJRcnFRRUltOWwyekQ4X19vUkw4anpEVk1sYlV2bER5enllQmpQUGhGYWVVOW9iZFl0RzF0dVpYSHU4NEozam02djBiUktzbDhn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "沈伯洋曾批普發1萬「窮台賣國」 社群嘲：不是要舉債？",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xRkJjVHFaQnN6eXpnSEV3VkgwYUFGWDRueFBnR1FoaF9VcnBONDJ1M25yVkI2NDVfM09yZFNvN0gwOWVsbzZ0NVlReXA1X1JnTUthSUc4NllJNUF0aW1oMkRjVDlLTU5MVy1kbGlB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布普發1萬 李四川競辦：蘇巧慧昔喊會搞垮台灣",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GenpKYW5jUDNzcV9VUzlOZWlVTEozVl9HNDlueV9Gd0NMaFFaUFZBUElZZ1dOeWdiSFJ2OEFtaWc3LXlzbVdKd3I4WktEa3RwakdfTzdhUEZjMWJidzNMLUNqelU4Y1JzVFFJajRB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴宣布普發1萬 凌濤列「綠營雙標語錄」：何時向全民道歉？",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rNHplaGdxZW1TMUg1VTN4dmxBb3ByRGk3M0RZWUhJQkt3c050Ml94aFVySmxlN1pmZTNJTTE0djNQdnNXNDFuemg2MTA0MFVHdXpaVHUtUDFnMnEwbGxXdDdCcGl5S0RfMTVNY0h3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "1分鐘看政治》賴總統宣布明年普發1萬元！陳幸妤控趙建銘占2300萬育兒金- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16RjZuNDd4bzl0ZFFnVkMtNnpVQ2pJaWlzZ1UxSnZ2ODQ0TWlBdk92RHNHcGlaRFRJQTJNQ2FERk9DWmVWeDVsRnB4Tms4VFJTZHh5aHdka0tSeUFYa3lVeG5uU19tM09tZnBhVmNn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "中央有錢普發1萬 鄭照新：捷運藍線補助款快還給台中鄉親",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wVk1NcTFuNXhDV1ZuQzRQRkU5WjdScnd6VU9BSUh3RzNEMUlEYm40c1NBQldLbnpCZWpaMWZhNzlDLXl4dExVUGxWb1VaamhiRXZpY1FYekN4Rlhla3VwaW9STmNCcksxNXU5bEFR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "綠營喊若議會支持、財政許可推普發現金 盧秀燕：台中歲收不足",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MU0R3aktaOHpZTWtzOXA4UW9zanZsaFpzV2ZSWldZRzZhdzlSYy1Ga21seWFkaVVXN2Z3NmtDcS11Sk5maFdqRkVFdmIzVXdjRFFRX21QZXlzYXFVTVgzaEJmaEF1VHlETG51RllR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發現金1萬 陳其邁回應了！",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sX2NfeksyTDN5dFVGNTd2YUJ2V29FZVh3bU1sczAxN2hUMGxBbFNucWV5N1VXdENmNUZxTWQ1MWJ3TFVWYndQdlZnVlJ3MFhaZ1d4bkxrWXg5THFidFpsNWxxNTc3MjhRV1V3QkRB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "昔反對普發現金1萬元今搶發錢 民進黨團回應了",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lckhMZTBLYVdFV01uM2NBUWJDUnhQeWtianNNeDUtQW5SVDMwb1dPcUFDZmdaR2xqNWhXYk1xV056TktpYzhuMEhuSzFMck1GZl9sMWhqWjM0S0FYbHpxNHpZa0VhNmV4bzYwYldn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "民進黨想用普發1萬元綁3.6兆總預算？藍營將出這招反制",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tbnNNZVJnVDNBZDNmZkZBU3NQdUpVdDZCVEtlaVNCNENPLVRtZXdNZHZZLUI0SFpuRWE4XzhlUzNaMVhRVU5TbFFOT2FYdVBJRjgzWllWSzAyY1VVd3M1ZU0tYUpIT1BXS3ctTFVR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發現金藍將加碼？葉元之提三招破綠營「用你的錢買你的票」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83eDZNYThtX2t2U2F0dFI1d2JZLWxlVzNXWlozQ0xMZ1E2bXNTRVZOY0NnMExTeExGemFPT1B6a09GdWFnRlNheE90NlZJd3FjeHB6YjhzOFlLeVMtbmxOVzRwUFVVOTQ2UjA0UHJR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "嘉市購物節狂洗3億發票、賴總統普發1萬元 小歐盟開嗆",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iN2VJY1BvdGJkVlptVC1fa2FiTi1VVXpEQV9uWjE4dGpYQjYzRFRCTzhFZGswaUhkVWZybVZPVDFEZXR0eTJxS0k5VFBPMTZ2cVhUTDZNQ2FtTUtxU3FwMWJQZk1hd0MzU1YtR0NR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "昔罵債留子孫 今喊全民共享 藍酸綠：普發1萬有裝政黨辨識晶片？",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RdkNEZE1OUWI0QmRYSXdrLXNJUGhCX3VYXzV0NzdZbkpRS0dpRzdxdlhQZld5U0F6YVM3ZDhscXlCU3I5eDJxTXFmeFM0UFZWeDZqcmJTT3Zpa1RrdnRlUlZCazFGNHMtSHRNUjln?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴喊明年發1萬 王鴻薇揭上半年「稅收多1兆」：支持普發2萬",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11TWdLRzFNRHdBem9EbzJMVl9MOWtjd3Y0cmh3ajh2UXhoRUNaUnJSTGdwT2lzNGRmMG53eC11dGZMTGJwa00yX2pNNmJPNG51MU9nT2VrTXdwdjdzaVR2UjJTVXFSM2Z4MVd5S2xB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發現金1萬 綠委喊支持：一起分享成長果實",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tbzNKSm1ZalZsZEM3d0hOdnp6UTVUQ21CMjF6M2VYUVJLZ2RjSEZKNXNiVkRQOVhaNVZLcFBrZlZST1dFVVFLUFJYZ3dHUGFnc2lHUmU0c0xVcURkaE9fZGxJV251VE5WSGZiNExB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "九合一倒數3個月！賴清德宣布明年普發1萬 藍質疑「救選情」，你同意嗎？",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TdlcybjllZi15NDhGRUs4SjB0UkozWkdlNEpuOExnc3dNRGFMMlI3QzRTeFdraVk1LXNNNkpCbmVyTVAtM3RjVmRseDNlbmU2RkN6bU9yZlY3REVpRjZvVzNn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "普發現金「民進黨每次都雙標」 張麗善喊話：弱勢應多領點",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0dldUWVlSWG1UQ1E2TkcwOUFxdlZJdkhEcjh5dThQMnU5U0h1OFVjOU5wMW5qUDBXZ1dLQm1Ielh0a3U2aXhjZ3YzSGQwSGRxTWpnblNrQmxPckx3Skt6RXBSUktkNnZwTkdVVmZn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "普發現金是中共窮台政策？沈伯洋喊「標準沒變過」發聲了- 政治",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tY0RBNks5ZkpXUGUtdEFnSnQxN2hfS2NXRmVYVlBjVEluN01wOVBjMHdVZkpMM2dQc2EzcWJfdUxHS0lvU0J1RHF0OWFrekdrcXZoMGdBcFh3OFAwNmJJa2V5UFpuSGdQa0ZWX0Vn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "賴清德突自打臉普發現金 韋淳祐狂酸：真人聲偽？",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdkc3dmtrRDg2NUZIcWtIX18wX3RTZjlTMmxSVjJkWVVxNDA5Q0xIQlpGOU5FejVJeEZEeU1SZkVVbjhydm05dXZ0U2g1bklFUk5qTmhDOFJPeWhWZmRPRjI1UlQwbElEaHlvOUJB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "轟普發現金「剽竊藍軍政見」 賴士葆酸綠今年多「4個字」就沒事？",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTWRuMzJwck9EcGFUOGtNcDRVZXlpM29OUFdqeTdEaGJEbGZCLTZWRWQ4OHI2dHkxWWVzZ1dfM0dzRUVTNVVVRlA0TDlnZThPS3FtRmxzaDZtWHNVNGp0U0F1ZmdlMHJ6a1VWWmF3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-17",
+      "title": "時評》普發現金收買人心- 中時社論- 言論",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pZWNSTHBVVVVoZDNDS2QyR2pZS0E3SWRoZ2ROUTZHd2M2US00eXZjdXc3NzhKdldkXzFvRnlrVmdhMkdmOWhhNG1vRnByWEpSUkZxRFREY0huLU1aYXdUa2VfSk1XeUU?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "台灣前進為普發現金一萬元批賴清德：房子不蓋只剩發錢",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTXRvb1RYRERJaHI4TkxqaDhvXzJHZjBfMUlzNEtfTmVYSHp3cmFqcDRVMkdwOVlvQlpPYjBmdVZaOGZ4NmdwVTVMbWpuOEFBckJpZlZlZHljb05KSTZqR0tfRkRhdkt3Vm9IQ3Rn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "普發現金 收買人心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VelNQdzAwUFNoYVAwVEljaVlfcDVvcDVXem1KOEt0dXpGQnZuQVVBZVdVaVR3RFRTT1dIX3M0UnlUMXpNR0ttRXVBUXZFcEd4T096RmhWcGJibWFwOGh2eW1XS3VDMmxGd09n?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "過年前有望領到普發現金1萬元？ 民進黨團曝一關鍵因素",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OSDJvV1JydUs1U3NHa0Z6OFYxRTNsWE5tQ1J0WGFSSlRYUXFGcE5teDJ6RFd5MWpEMVZocUhMMHFKeWQzajd6MmtZMUR5R1Q1WnUxZzNVbktyZlU0dV9iY1RuZnNxdmZGaUFjOS13?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "新聞分析》普發現金收三重政治效果- 財經要聞- 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TeUFDUEF1YXZVUEtQcmd3Q2tBTnJ1RnVadG1HbnpnZXNINlFuQXZPV3lhMGM0SWVRN1BVbWx0ZWNLMWs2QUxZa2lYVmxQSzAyenh3Sktqd1c0cFdsVWE2LVg1TU1OWURoRS1Z?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "中時電子報",
+      "date": "2026-08-18",
+      "title": "AI紅利全民共享 明年普發現金1萬",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ajlsSHN0dHFRT0ZVYXF0T0ZUa0h1a3NVVmN2Q2R5VHYtbVJFQm1KMU0zM1ZXUko0TGR2YnBEdmNWbnpseWVxTzhiRmlLUXhWRTdHVmcxUzR0UEdyUDc5Tm1acTNLSm1PYk13?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "影／經濟成長率創39年新高 賴總統宣布：明年普發現金1萬元",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01X29GdHNXSzFvM21OcEEySGdISy0tUUJXYmRjZF95WEh6RElGOXRhY2JCdG53NHJjNUszeEE3VVhObldpdllEaURuNXdWVFcwR2E00gFYQVVfeXFMT2dzTklobE8tSVAzeVlGZ2dXMjlSSTRnZklJLTJReEdNOV9XRUlkVWZtd2steFhuVG40NWM3NThGaHEzbThvWmhoMXFxeGdFQjQ2MmhTaFB5dw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德宣布明年普發一萬元 李四川：請蘇巧慧解釋為何昨是今非?",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yYUl2YjRDWFpURVliQWxqb0RPRHFWdGZ1R3ZTUnMycFdiTDNnZ05GUEV4a1VDUTBQY2RqR0NSX0xqRVR2amk2T1RndmRhSTFzbUl3TW0yRUQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "認同明年普發1萬元現金陳亭妃強調民進黨說到做到",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbTlqY2NRMG5nS1k5RXpfMmdxYUNxYVU3MmE5NHdjeXZvWjYwYWJ5OEo2RUhlUWMxbEhrZnZNZWdtRXF1a3dYSFBES1hsTEM4MmpmQkxwMGM?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "何欣純喊加碼普發現金江啟臣：單一縣市普發有剝奪感",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJU0tDQmhvVjdlN2pJSlRjYS1zRmxjRE1JNVdXUnRnR01PNWI1VmlYM0t4emRnc3NqZE5RRUF4bnVNZGcyMklsZ1lnT0tFczVFRGY4QTlR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "綠營拿普發1萬恐嚇在野別擋總預算？許宇甄：依預算法可先行動支",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UeWlCWnNpLTVmVWhuMG5haUtEbTNkaXJFdXdMNUozbFB1LVFtQ3Bud0MwN0dpaDE4UGFsV1Y5R0hSUEtOVU5EZFgtUnA2cmd0SUhtY2ZkWnU?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "民進黨團：盼明年過年前拿到普發一萬紅包看總預算能不能通過",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZMG9BNHZoaUNVejZSYlAxczFqelRyZ2FMVmR0QTlaUmoxVVRHUHRfSGY0Y2hhdnlnM0ZzZTY2d2dqRUUzRXFBLW9yYlI4NWwyNTdYUXJsUVY?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "綠提案北市府普發2萬回擊蔣萬安北市府：別魚目混珠、政治操作",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43eU0tQ0tjdG1sbkQ4YWIyaXNNc2FsSk1pTUhyTUZja0dDVXA4ci12UnJrNlFVNEFLdFItZ04xNzRQNF9CeGR4VGl6bHRwUzhEaWpIc1N3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊話普發2萬！綠營議員酸「別只出一張嘴」 提案北市加碼發2萬",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLW00ME5iVDhqN2t3QVM0ZHRjYVFUSHJna0pvWGhreE9FcS1lUUFvc3hHTTM2dmMzb3Frc0ZHSHFGQlphRkNxT0YyYm1OVnI1N3dacExDcmhwUElzYkJ3emdxblhqOTVwbTVQTmhwUWFFSHhfSTNiLWpBaTlETjJEbw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "不是亂喊的！蔣萬安稱賴總統應普發2萬...殷瑋秀數據：中央錢多滿多的",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWVU4SlJmX09RY2NnaF9zVWdZQTNPbmliTTBJYnhDdXJuaE1NUXdUckZnUWR4c3ZyS0xqQjlJcVJCSTFnNkJFVjZiY3ZqVTNmV1hiQXhn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "普發1萬元包裹明年度總預算民眾黨團：從嚴審查不會放水",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96R0w1OVhiYmUyNTVXd0JqVGs0WU5COXBSdXhSMlpZTE5VR0Uwa1VmUmtuczFxZ1cwd1NWWWx5UHRoR3ZkSHRXMDRPX245elJwMHRGel9fOXQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "不副署兒少未來帳戶卻普發1萬廖偉翔轟賴政府：違憲濫權救選票",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pXzllaHNlYlRkZDk4UlNUdU5JLTlfSWdyWVNxWDdWX0hMdmMwTTVuM25Vd3BWVWFDSjdMTC0yMnhPRjFvbHF2Q3llT2kzcnVrbC05REdR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "影／蔣萬安喊中央加碼普發 吳思瑤：北市賸餘為何不先發？",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxS0xJcW1TYnlIdkRoV3hYUU1SbkJjRkh1aVBmVUp5QUxoT2t2OTFIVkpfWUw0NFZnR042bmZYQl9lOFl2a05Zb1E3SXpWQ0w4ZVA2US1R?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "全民普發1萬元遭在野批評 立委劉建國籲朝野團結再造紅利於民",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12bmVnNWViTHlPTV9LTVozYnhfaHN6X3Rsa0hEc1dmSXpOOG9UOWE4c3RBSFdSS19zT3A0SGhTS292SFFVazA1Y1VNRTJsUFVDTHg00gFYQVVfeXFMTnFqT0FSMk9venpVZjBfZm1kMHI4a0Y1NzU3UFZBbzJHWXJheF9RNEo2Z1NOclFab19JZjZOdktOemZET3FSOFJvaV8wOUhiV0FBZ2Q3X0Y1Nw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "賴總統宣布普發1萬元盧秀燕：剩餘的錢政府應跟民眾多對話溝通",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHJsLVR4djVwQk9wS3R4elExWXpEei1VY3QzNWQ2SmhBWExyRWFHTl91T1p1dVpNcDVlMHVETi1wM25MYXF6amV6U003VTBIUE1aYzhFWVJxX3BraUdzZVQ0VTRKVW1BWE9ERm9OclQ0U2ZwX0owRGlIUGlsUXlZcg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "賴總統宣布普發1萬釋昭慧：又要來個無差別大撒幣了",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnbndXZEE0WHVpQm5QbWhIMmtieTJSOGVxV3E4bnprY1FENFVINmh6Ny0zYm9zcjAwNlZNcjRHQnhMaG9LZHdrV0xjRDNWaFpYYXhGbzRB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "民進黨團曝：賴總統沙盤推演普發一萬3月就開始醞釀",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xaHpGcXVnODFUZGFPRlh0Q2NoMmt2enZoSGRlQ1Z6TEVyN2Q5ei16eU5xV1N4R3JfQUJvYjRmdnFuUVRaUFI5OUdtQjJIVTNwZ21KbU9B?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊中央普發2萬綠：北市賸餘577億可自行加碼| 政治 | 要聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00UWdxeENQTi0tMVBuTml4cEtzOEs1OHlOLVN0aG1TdEM1UW9ETDlRMm5kQldyMGx2Ym1BS29lcFlEaGNIYXRubTVpVTZRTGlw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德明年普發每人1萬遭批雙標侯友宜：預算編列須經立院嚴格把關",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMbEVYUjNMelJPV2VTXzIzbXo0Zk1NRm9ZYVozdkhXdGlYTjdnMnJ3dlNwdTl6c1RDV0FGUEtzVmVpMUw3NUFZLUZrMndrcmR6eDJQQjBycW0?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "影／沈伯洋三政策搶青年票談普發1萬元：沒舉債、完全合憲",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FdjNmaXd5Nm83dVptMHdXcWpSLV9WYUJxVlZjVDZtUU1QR041OEhHSl9GSlpfTFIybmM3YjBJbVBabk1CTTduSXZ3LXNRY2RNcGgzZEdB?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "普發1萬內需股有戲？專家喊「今天應有反應」 盤面卻向下反應網笑了",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdjAtVVpDSUJrNXhzSnUyekxsb21xVWVCeWVXaGl0T2plX3NuR3AwOEh6QUxnVENxVkdZaFhMZXFxanNZbXFncENEbjN0S3ZMdmfSAVdBVV95cUxNcmt6dWJ2ZXNZTVl3bGU4TE41WVRIcFBINERjZk9XczZ6YXd1MmVRVHZlcEpoVk5aQjkxWlpWVGRFZGZxcFJIdVhUZ0hraWtLMGtZVFlWaDQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "民進黨：蔣萬安亂喊普發2萬 拿北市賸餘577億元加碼補？",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Qa2xPRjd0TFVxRHRLMUJDTzBxZmxPZFhxZG1GZHhrbEpzTW5SRmF4X3ROZVl5Wks5RFZlYUt3d1pCaTQxVXp4NXJzdWNvdHZlU3Z3dkhn?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "不副署兒童帳戶卻普發1萬 廖偉翔：民進黨只為選票一擲千金",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kcFA3bklVZHhJMmJQRVJtaTk5TmdnQmxOaWdNeFRpanRhWUk1X3dOUXpWRVk2WVlrcm4wSEpaOENxblV5bzJFWGxhcWZpQ1J20gFWQVVfeXFMUHE0RnRtcU9pNkt5RXBSbFhScmhsWmk3QkZLRWNDLTE5N2puRzlmYlMyVkpWOUllYTVxdFRzN2lPbGN1dUlONDA3a01DV1A5Y1lzWmlwOXc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "賴總統喊全民共享AI紅利明年普發1萬現金",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSVNScGxPZ2l6d05jVU9WWW85WDJRTm41QjhyV05wXzBGQ2ZlaklCdkFXcjFsLXdxN3djbllYNWRMM0w3dU9WNEUwVnRsTy1rNGdGUm53?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安反諷：應普發2萬元",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVNU9leDBxb2JXOTZER0tETGwyeFdLeEZZY01CbU9MSTMzZUpHNUx4MnM5UU9CTWlOS0d4VG1FOWNOSTd3NzIwbE5OcFFSaFQzR01jX0d3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "表態不支持賴總統普發1萬元 吳欣岱3理由：真正擔心是這一年多的反覆",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQk5tX2JwR3BDRnJaNkRyVVJNLWxFMjEtRXl5ZGtSMlczRm1EVjVNQ21rVi1LVHFyajRBcVBRTXNoZVF3aGkzWFpoSmZROUhpU3dyRHFn0gFWQVVfeXFMT0ZCTm1fYnBHcENGclo2RHJVUk0tbEUyMS1FeXlka1IyVzNGbURWNU1DbWtWLUtUcXJqNEFxUFFNc2hlUXdoaTNYWmhKZlE5SGlTd3JEcWc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴總統宣布明年普發1萬國民黨團支持：應推稅收超收回饋機制法制化",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8waXhnWGZhWVNTZm5SSm9neng4bnNCSzN4dXo1MGQ1WFVSWEk4bThNbTk5YTVmSEx4Ny1oTnNjZHY0bmZIRTJnR3FrWUQ2amVIbmZ4Rno2VlI?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "明年普發1萬錢從哪來？謝金河用數字揭執政黨出手底氣！加碼獻策「這群人」送1張台積電| 雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1icUJqampFUktYNnhwU3AzVzl3aUQ4YVVvb1l1M2tiWE1PT280YWkwaU94U0trZzZLME1LOGVuTkhNdlV4Z2x6TVdkWkdoangx?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "普發1萬元游智彬痛批灑幣救選情、綠營雙標告發賴清德「政策買票」 | 政治 | 要聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TUk0zLUtuOWJJMzJTVTBIWkZPWVJiMVM2VDZRajdrNlZ1OXdwOVNGRERJblZSb0RpaWtjOWw3NjhUQ3RtYTdldXdpb3RZVHBk?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "普發1萬立場大轉彎？李四川競辦點名蘇巧慧「綠能你不能」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42eU83YnpzRmJYbE1sbXJzanlnWEQ0b0tNUzZJUUlDMWF1Znp4NTNOcl92aF9QX2VqMTB0bURuSnFReWRJQ1A4TVRmZldhck9JTUUwLW5PWFk?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "總統宣布普發1萬 鄭照新：樂觀其成「先把捷運補助40億還給台中人」",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nVVpjQm1ZSjY4TzYydXFUcXhSR1FBcTMtTWIyM1FQTG9vak5rSG0waWJyYmNueHhKXzJUNTZNSWd3SG5XXzViWmMxakxuM1pWd21UYUt3?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "政府收證交稅高達6千億…普發1萬元怎麼夠！吳宗憲力挺蔣萬安普發2萬",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XQjZkSUczMkM3aWs5Qy1QbUZqMkNIZUl6WVZhLWg0UElyeEtoZ1hiRWxLRjJtbHNPVnhaX3JmUkc2OGJVZ3VjcVJkZXhXdkVIel85ZGdR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "談普發1萬…新北財政局長：發錢今天有感投資未來更重要",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NQ0RDSU5jNjVYR2tlUG1QeEVjVFk4NkNUVkFGRTNRRDBEZGVTM0NjVEE1UTE0VkhrVnZRZ3dkdGM2OER4emNTTjFrSTUwaDEzWTdDUXdR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "明年普發1萬侯友宜：總預算編列應有優先順序| 大台北| 地方",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVmo2djZzWnBfcERzQ3FIWXM5eVB0RmVKSzNMN283UjkxcmRMd05sdE8tdWFuUGNpY3ZxdGx4U3hSVGUzSWFmeXRzYTNCZ3Qx?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "影／賴總統宣布普發1萬元…蔣萬安用賴昔1句話打臉：應該普發2萬元",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zb2hOUnJ2ZWxZQVFUd2stLW9FS0tQWkxLQ1FlOVl5dGVkY3RzemJxa1VNbHpGVHFEc2ZBc3kxeGtFVzFDZjg2a3RWUURKWC1kZkVZ0gFYQVVfeXFMTXlHbzI2SDZtRFljbFFnVVFCdjY4Ym4td2pkMzlJc19QaWZtY0F5OVB3MXFZVmdablBiY3NpeDktaFlZcTRoWlowcnZqSXZzc1JmR1ZnX2xZSg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "整理包／普發現金再加一 歷年五次發錢紀錄一次看",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95NmFxMEM5OE9Tcmg0OUFMWlU3STBXTHZFS21zdVA5bHpPdWZHQTFpTkwzT2ZXNkx4blctMFNva1YtR3JUeHFLNENNN2JpVndiTWN30gFYQVVfeXFMT19hX1ExYzlHcjN6SjFjcm9BOGl4OVBpdWhVbEN1eml3a1djRDlkcW9JUXpMcl9CNUxIZGZhMnNVb0swb1h6UGxxRDV5WkZRa1hsMmlCNHIyag?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "影／賴總統宣布普發一萬 蔣萬安：應該要發兩萬",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qbV82c2xZb3gwRS0xcGZtTHBZOFI2OGRmQWZIRDFBSm0tLUw3aXQ4dW8tNW9MWkhkRWlVekp0WWQyTVR3dmZTNHp5ZEVxc2ZOODJr0gFYQVVfeXFMTy1qcmxtemdOTkpnUklFNDZ4d1hMcGQxRVp0VWlsNnZjUFRWcndibC1heHhiSGJQM3VpSWltcEd4TlhveDZ6Q2kzNDR3bkdGTktNYjlBT2taRQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴總統普發1萬 李彥秀：民進黨為2028備戰的「政策銀彈」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xd29LYy1aTWNUV3BGTi1iMzl3ejdPZTdCWWpoeUg5QnFNS1ZjY3ZBbTBveG5XVTZka0F0QUVOZHBIRkl3QndXMTA1cXFyZ0lYQkdTdWNWOGs?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴總統宣布普發1萬元…蔣萬安用賴昔1句話打臉：應該普發2萬元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMQmxBMnpXNnNTVnU5WlJiamFYT1pyT25lUHZJMUhLdjIwVjVZUGhVVC1oeW9pM21JSDh4LVNRR2xXWHBfUkhjR05MREpmUVhxaEhmNGpYZ2k?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "經濟日報社論／普發萬元 別只算眼前政治帳",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TcnlGWHdMVUlubzViZURuNWg2OFp6ZzZ4d0VUVGwtdkRLTUlZd3pxUUVzUGJWTXIzV0VaMVpFaWYtNzJoeENiOHNiTHRHR2FO0gFWQVVfeXFMUFd0QVN0UHVucm9nNHMzN0F1VG9MSmJMVF85MXk4ZE81VVhmT3pmOVgyLXduV2lHYUZha1plTTBhNGFyVXFySHhOMlF0YlpSVVNWVTZVS1E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "普發1萬 能拉抬綠營選情？",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52LWQ2bUs5OFJUVHdtYmM2YklCUFlyQnIwanZCU2VJN0hkRFFkNnE1U01CQkdNcm9FTDdYcDREYy1jVnRVQm1FRl9zOElGUlM0WlZtbDdLMnY5U25ROTMxdnhwQmNjM09SSWxnaE54aTdZdw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴總統喊明年普發1萬 童子瑋：他當選基隆市長後四大族群現金福利加碼",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0V3VsMWk3Z3JYVjJReFBwNUEwVUw3dktMSW9VN1pCT3QtUGRxYnd3cGROelJGXzRIVjFoZEJGOHhBMXNWc21vX2VZSkVmNkhXSDhF0gFYQVVfeXFMUGcycXRQd3BUZm10a2F6bllnc0hqVkF3dTVhcGhuQ3N0Yl9oVFlzcmxDQ0hOLUtWa3laSFhDUlFMU0huam5MT056aWI1aU50bU82YU53cElQMQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "陳其邁支持普發1萬 盼建設高雄為大南方新矽谷的核心樞紐",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWWGlrUWxzaFhQWE5QSnB5WVZoNmt1b2dCc0hxYzVzOUw4bHV5QnhPTHpvbC0tSkxnZVFxWFp5ZXpMcFdEYTBETjl5Mk1GT09IUjVR0gFYQVVfeXFMTmNmVkhFS2dOSS1uREtuQWlEZUZEU0IzSVUxVWgtYXNpSWxNMDBnOC1GcTBDdTNBR1M1NkMwM2t1UzJIbVlrMFBvd1hNX2phZ3o3OF9NZmRSaw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴總統明年普發1萬 蘇巧慧：證明經濟治理能力",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uUzRKaVM1M2Z3OExLUlV2dHZCQV9vU3lzQm5ScW9yZzBGWEFQSmZuel9JV3ZsV0NpaVlsTjc2YzJNdVZXMnpOa0RFb0tldExtY3pF0gFYQVVfeXFMUEdNbS03V04tTjFfQjZ0ckdhalZfck1BNDlWRnlaZkR4OVlyN1dnUzU2akZCdTVhd2tvWkpqMk9FaDAwdmpiX3czZ1Bnenp0ODE5ZEtvQnZkcQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "普發1萬張麗善樂見有錢花籲賴清德落實財劃法：別右手給、左手刪",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41ejFRMjhBWXhpVzBhQlEwbkJZWk00aWlUaXM5cDVvSG13d1cxNms4QkZEZWJ6OHY2VWZ2ckkwNkJmRmJsQUNoR0UxN2VJUTNWdHZCWkZR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴總統宣布明年普發現金1萬元 黃國昌嗆雙標：綠能你不能",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aSWlnb1dWd1lSa25takZNcUVMR0REMzJpWjgtUHdZVnlrUWtGbC1rcVVWSEQ1TXJpU21iZjlyc2RfNlN3ZnJyNGdhUkdiZ1dzZ2VV0gFYQVVfeXFMUEJ6TUVaWVI2NkZxTWYxRUUtVVNHOTJkWHN4clctdnUxTVVLSnVCbFJGZF8wWVZLOUE5N1lGOW1zdThBaE9XX2ItOExCREljQWdsWWVxNGthVg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬新北藍議員痛批雙標…應為民進黨過去抹黑道歉",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lVm9IWHRGXzU5ejBKNTRWX3BrV3lfNGlINldxRV8xc3pSbXRKRjl4QWRoTEQ5MkxKSjdzaTRmQlRGS3N3NW42TktFd2tsb044T2VxNHFPVmM?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "「買個菜就沒了」 蔣萬安反諷：應普發2萬元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YdTZtbmtlVTFjSEVpWndDM21zUkxfOWd5MkstNkRZU2pWaWZ2eU9rc1ZYNXZiRUlzMm5FVTFVTC1IeUZsN0dmV1dsVUpJU09i0gFWQVVfeXFMTzA5NFcwRWNFRmtaTnJzTGhjaENxX3M0a1E1N0xEdTBUQXFxbXdCMlVmUXdDS1FKSldxLXB6ZWNYQ2FoNTBBd3V4bjNrSV9jV3ZXZVJRZWc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "賴總統宣布普發1萬元盧秀燕：剩餘的錢政府應跟民眾多對話溝通| 政治 | 要聞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEYUNyNThyMTc1LUl0RXdYUWFUSzBWeTNFRnRvZXV5N1A4S1hZYVpTTmIzdk8zWTFDZG1FWnliaGhIQkdEX1pXOGNhV2g2eDBDQTNCdDdFLVlwXzlFd1hyTFN6dTNkQ0dmdDN0R2UxZnJIdw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "談普發1萬 新北財政局長：發錢今天有感 投資未來更重要",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YU29ld0FPV3A2amYyWXA5WXBOU1NEQTZtSV8zZUhzRFZ1WWhYeUhMeHFRTEZGVC1LSVpDUGVCSWRab0phZm03bnVBSWZpVDFxVV9ULUhR0gFWQVVfeXFMTVhTb2V3QU9XcDZqZjJZcDlZcE5TU0RBNm1JXzNlSHNEVnVZaFh5SEx4cVFMRkZULUtJWkNQZUJJZFpvSmFmbTdudUFJZmlUMXFVX1QtSFE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬新北藍議員痛批雙標應為民進黨過去抹黑道歉",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMGl3dDI5Yy1hdk52OVh1NGNDa05yUlFhdllHSE9abndqMkF3a0VNYm8wdU84X1BmelpzNVdYUGVCMzNoczJkMGNhb3lqX3AzbG9TQTA4ZGg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-18",
+      "title": "政府普發1萬元10大公教團體喊話補足退撫撥補：基金恐134年告罄| 文教新訊| 文教",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4cWpNOHJjT3JtajFmZjNNLUxncjJRM2hNUVlUV1NUTjFaQkhpQTEyVVBFdkgzaVNySF9iWmd2QXdORk50c3N0dERPa1ZHMVh0?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "明年要普發1萬元…卓揆：實質無舉債 AI紅利全民共享",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WVkYxMzh3ajhla0ZCNkFHdDBPMkM3X05JRWlFN0EzdXp0MTc4SHBTOGI5eFI5LVlTY3BHb1I5akwxWWNBZkZDOHNMdWppaFZ3NkJ4ck05ZGHSAVhBVV95cUxOVlZGMTM4d2o4ZWtGQjZBR3QwTzJDN19OSUVpRTdBM3V6dDE3OEhwUzhiOXhSOS1ZU2NwR29SOWpMMVljQWZGQzhzTHVqaWhWdzZCeHJNOWRh?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "聯合新聞網",
+      "date": "2026-08-17",
+      "title": "明年普發現金1萬 柯志恩酸「卓榮泰曾說1萬元只能買遙控飛機」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iOXNmak53cFY3T3ZFVVhnYmU1NUVlYTJWWl9CcmU4dkhRazNTTlFlOTA3MU9FS1I3YjEtN1NEVHpidDlTdkRQWjlxZnFVUXZqYldqWkVsSmI?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "明年何時普發萬元現金行政院給出時間點- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zall1ZDdpQW5tcURHbUVwZ01vckdRUTc1WlVoLWIzQmpSUDg2SmxHS29QWTVOM0FrREQyNzc2dDhEUkhwR01sMHliLU5LYWVYdGdwTUtDM1U4aldGVUxhbkNodUk3cGZhV2c?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "台灣經濟成長率持續上修賴總統宣布明年普發現金一萬元- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82NmFzOXZmbExWTlNiQzlrV3hweDRvZm50S0xRbzNJX0YtRE9WdnQtZ0xldzUyRVJBazQ3Mmg4SVVPOXJsUnpSYXJJZnVMQkRiMWJGUmJUN0JzN0ZXUlBuRElZVldjT2luVlE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "北市府稱普發1萬是吃老本 王閔生酸：天價遮陽傘就花得下去......",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LdXBqcjBCancwTzl5VmdQc0tTS0dUeXRGNEdrcl9CUkRXUlJJcE1fTXdhOWpfdW9keVhwZ0dudFNld3duWmpLSEdpWXI4NFhUWHcyemY3U3lhSEFzbGtMR084MlRYQV9KbHc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "普發1萬被酸拿香跟拜！ 黨政人士曝決策內幕：跟國民黨舉債完全不同- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zQmhCVll5M1pZMHJTd2pmNTNGVmttcFJjMnNmZUNicVhlTGJ3bThwLWMycHI3aWlRRVZ6NXVpTTZUYjBnQkFNRDU3LWJGSlhDMGt6b2xsa05zTlZiMmRSN3QwUmx1VXRCNVE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊普發2萬 汪浩列藍白反制5選項問網友：你猜他們做什麼？",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04ZHVCX0tBZGtvLUJUUjJ5V2lldnRuS3M2UUVYU2xlaWNaMmk3WG96SmdYcEhsejF2aGVpLVQ4LWkwUUQ4SEdNb3VHV0Z0U2JIdXBhMGdEVFRGZFlmYWhHcW55S1VOU3BGTFE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "何欣純今承諾普發現金 江啟臣表態：不如中央普發至少2萬",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrLVNLdldXc3RhamNZN0dUQnRaU1Jack9tVWw4Zkd4Mi1HOWVybGRtN3ZOZGs2dERMa2J0YVdvZFVSem42TDhKSWdoRDJSMEc0SkRTbDdUSER0N0VoS0ZiR1VoVlNfNW55d2c?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "北市府稱加碼普發是吃老本洪健益嗆蔣萬安：別老是你請客、別人買單- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53U2FYejZfV21fM2ZKSzF3N3pIcWxsbzlsRHQ1aDM1SVZVUHQ4b1VjMWZZYUNvcEstN3JHYVVJMHl3RlJka0ZwNVY3cERuRWV0MXFHS1JxSktBYnRVenlKQ0Q2OHd5akRUVkE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "賴總統要普發1萬柯志恩喊話有錢就把高雄補助款給好給滿- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOUx2MUE3WldabUtUOGhWaVVzTnR5MlZnZjJGX0hqZnU2VGRnNENpU0hzbDdkTHBaNExxWEFJOW1yNlNibHl6ZUhwa2dVdmZ6b1ZUdWVudU9zZ2YwR2pRalRrWllocmM0S1E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "你領過幾次？3600消費券到普發1萬 台灣6度發錢「這點大不同」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TbTRDdWJjd3lxaEl1UF80d0NlWmJnRkVGaTlieWR3eEExVTlEN1doZTNUSGRRRWoyNGVnLUVYbU5XVHc0ZFVoYzM2eEpRNDRjMUo1TkNxTk9qSmo1MG1ZcjE1Q19EUlN0UkE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "喊北市比照中央普發北市府：別魚目混珠、先看看中央的帳- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01N1VTRjZxbkxfSDBPTXY4Sm9WTm9Tck1YT2RWckszSlhOWm5lNFpQWURXQzZCSU1qa0hrNVBhU1o2clcyNU9aMG1rSF9EdTktbFpmUkpiUDdPbnp6bURJLUhwVWxWOVo1WFE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "藍白對普發1萬「氣急敗壞」 莊瑞雄酸：蔣萬安喊2萬可去菜市場賣菜- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84eEZBSG5nSlZWdlpKZXN6SkJWbzNnRVlkUnE0MF9MM0ZHUFZCZ09PWGVfXzJKdi1GY1o2ZW9KUEQyaFhDWWRMVXFTMFA4ZnFOYkZWVUFSb2JRMlZWd3pvNkJnRFY5NTV0LXc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安酸中央應普發兩萬 何欣純反問「台北發嗎」？「發多少」？",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ad3BjeWd0QlphXzhIaG5qNkhJMTVVYWNsSUQzMU91aUg3S2I2aHNUXzdLM1dZRE5ubHYxSkxmT0ZOWmdqRElZUVR5Sm9vT3JjblNXUlNTS0pzMjE1RXVZb1hNc3VsajIxLVE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "批普發1萬一夜洗白、雙標許宇甄：賴政府照抄還搞政治障眼法- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EOW9fTDk4Z2s4MkRXVkJveUMzSzA4S0pvbUZ2ZEVmMlMzTGk2N0ljSzM5VzZpUDBUR1dGNDI1UHVQUFd3NGNodUZLczc1MWJpQldFTFlKWVMwaTdydlJ2dWV0eklxdFlsSHc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬在野批雙標劉建國反擊「自相矛盾」喊話明年度預算勿再卡- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xMFc0XzhiZnZYcThXdXVuaDBuWXk2eHQxTE96QmtKZEtJNmJvMVAtY2phaWlGRXZ2OEY1aXZrbXY4LVdzVGkxbklTeXhDMzhZZUpNMEE3STc5U1JsMGdzaDJVaHluN2t4MUE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德送大禮「普發每人1萬元」陳培瑜讚：AI紅利全民共享- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sU0tvNm1FVnlrTV9jckp4a1h2STljVnF5YUkyR1RZU1RJUXFXUjhRc1pPMGwtbnotQkNZbm0wSzhHWFBkSExTRk93aG5iSERvVHY2enJfX3UzN2hNZnNhNk4yWXZaR3BqakE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "賴清德總統宣布明年普發1萬何欣純允諾當選實現台中首度普發現金- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQSFhSdHdyREdxQkI0WW5BUU1vclJ4V09md05oeFB1eUx5ZVRqdEtzQmtwdWNfM0RBODU0UDBjU3AtQ2JBaWZSM3RKdy1NZDU5NGNaN243Sm5RZ25fSEwtanpTdkNKOU5uSWc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬「讓藍白陷兩難」 溫朗東：審預算中國不開心不審全台灣人不開心- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KbzZXa1hVNzVMbTRPbGZzTERLZjRkamFfdVg1Y1NoZUFuU2l6bVpnVHpUSnZTeXpJTHg5T1FCYjFOZEJYdVVrNFJzTlRhelFVcTViZW1pMV9IaUJEMXR5S0ltcjV2X0NuZXc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "挺賴清德普發萬元利多林國漳：AI紅利全民共享、無須舉債- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3b3pTWTJNYVpsZXZnd2tiM21vTXNUNkxabnU2c2VzdjlDRzJQeXZWY0hDdGxucllUM2xuSGF0dG9IbHd4cUdNbkZlM1lJSTJNTkRPWlhLdmVmU0E5LWE5MjVCLUttcDFRRnc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊普發2萬許淑華酸：把喊價力氣叫同黨立委快審明年預算- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfek1FYWtUQ1Bid3J0RVMxLTh4OW9TSUhzUE5GdXBmNDhpTURGTGJKNzZueENOLVF4VXFQLWdrZWhyRWNITlVkZW1kNFU3ODktTl9odmIxNVBLalp4c0hXWFNUbkJMMTQ3SHc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安酸中央應普發2萬沈伯洋反擊：北市有賸餘可自己加碼- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxM1VYNmhJdlJmajJkNGNSaE9DQ1dTdUhxUjQzYi00b2ZBcnBSbVExaUdiWks5aXhoYXNKSFloUVkyVTdKbkg0ZkVJQmlESG9MS3lHb2hXbmhKOFRiQ2VwaE0tN2RfZ0V0Vnc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "總統宣布普發1萬蔣萬安喊2萬盧秀燕：還有5000多億- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ME9SVENZVFlSQUxSMjhkR2ExWkd6b1Vrazh6RkxidU1tSGJMUWlWek9tSVY2clNEMV9CcGhPSkE5TmNpMndrU0xnbS13OTRuV2RtTFJ5TFJVVGdjV3VlZGFkWHJacVB0aEE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬卻讓藍白跳腳黃帝穎提2點差異：凸顯藍白見不得台灣好- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNXNveEJiRElkODhEWFJkcEVjYUxwblJoNzBYQTNfdGR5cGpDZVZGZUNVTFVnSmpUUDNuakh5LUpFc29JU1V2STVhYnIxVnZzaXpLWk00a0N0LUJmdjc3NmkzcC0zZ3JScWc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安要中央普發2萬民進黨：北市賸餘577億可自行加碼- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41cVFJNTB5S180Y0t2amxaVXBTMEJYOHVkT0NEemVUVGlkaW5ZdHRmWDZ5UkpaSjRjeTBZaWpPcC1yc1dxcG5RT094N053U2NSWUJfdjhyYkZaRDduWTNsUmxXWFFnVkV6blE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "李四川陣營質疑蘇巧慧普發1萬變調林楚茵嗆：連Google都不會- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ibi1qdDMzTDJ1dkNJVkVSMDN1UXNhY2E4UTlVTDY1Nkc5OWVsQjMxR3d3VU1iWE5mNXVtOW1wUUx5YjBvZXNMTWZ5MlJBeEZfaEFLejFHQ25xTzNpLXk4Sk1aWFlOdUlLdWc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "賴清德宣布普發1萬元 謝金河：這次先出手是有底氣！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSTZKX29kZ191N282X2lVZzhVVEl6YktDM210R1EySW5IbEpETFNwWXZXMXM1dVVIYWVNaUlnckJta3hLQ0pkWGctWWM0V2xPYWtOT2dqSkpBOTRjMXVnY2gtRXpPZm92bUE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安酸中央普發應加碼到兩萬陳其邁虧「有錢人」想吃更好的鮑魚- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKNXQ5RFNmS09OcTNRdktkby02RzVTc29XMEl3NW4tQUYyMXFnd1gwazllUl9XbW54UnZyZ1hYWm9GTEdQaGtfZHVvcks1em1YenVDZEUwaW5OblMtZkFWNy04SUp0RU1XMHc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "去年曾發起「拒領普發1萬」運動 釋昭慧發聲了！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1laS10Tkszc1k3RzNlbXpHUHptb1kxZTg3TEo4X3ZfTGJqamctNUgzbXlsSmRjOFp4aUttTWZXMGQ2a2Z2MGdzb1JYV1VWVlBoNXFqOXlsXzFKQWhYdUc5VFlVSUFrbXRzR2c?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安酸中央應普發2萬 沈伯洋反擊：北市有賸餘可自己加碼",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVluYXJYYm0xYmJRbjI5YnVlSXZ5MkhTYm04ZWxoOHRxTVRVQUJJbTFOc3VPbXBDa1RhRThZQjFRcHlZeEl2d3czQVo2eEpMNWtxdUlXcDlta1Jlbk1UWnpDQjNpM0k1SXFJSGM1S3VMS0pzLUljTnRWZVIzMTU1NUw3Z1FxUQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "總統宣布普發1萬蔣萬安喊2萬 盧秀燕：還有5000多億",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWctMjU5b2RKZ1pYUTV5YTlON2RtbUNqR0dyMnBwMC1POW4wbUt2UmgwcW1BRmc4SUZuQ1FKRlhuSEM0cjlvbzhoYlQ2Mk5obENkM05EQTlBQWdLeDBBZ3EycFJ1bTItOVJIb1NnU240OTIxOU1zUjMtY2ZqaXNIZ3BYZnlxdw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "賴清德總統宣布明年普發1萬 何欣純允諾當選實現台中首度普發現金",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWR4S1l5Sl85TzVKV3hBN01tUnlqVmFPOVhUR19rbWw5SVNEcmlDOUxNLXFmZnVGbGgtejlYZkloZ2hnc1RaYWtXRjF5a19TQVJSTDNzSjdSbWdWSGV5bXZUcUFNb1RGRHhYajI1TkhMblJpY2pMSVJLLUpoT2tPWV9nSExRUQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "葉耀元：普發1萬若拿不到、延後拿都是藍白立委責任- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zeVdwYWhDYno1OUhJWjc1TVotbGNSZElPMW5FRDc5VTdTNG1hLTJLRmFkNUQ5T3M2YXVsLU9NbFBMT3hwMWZkWlFYTi1EVWFwWkVJYjR0R3RfU2FIV3hQY3Vrc2tIcHJyNlE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "證交稅上看6000億！吳宗憲主張普發2萬",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CMFRiWEUwNnVoY2gtOUxvcEl0SERXWGd4bXNralBUdDVOSW1jbE51ZmNLdHpCQUd2cnV2YTFLNXhUTld2czgxQTFwRVpXQ0UwWVBHOUVCby1RcjlUMHdCTDRkU21EV2R0VlE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "藍白對普發1萬「氣急敗壞」 莊瑞雄酸：蔣萬安喊2萬可去菜市場賣菜",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEN4OHhOT2F2NFUtMF9nVVdwMks0bkYtMUVTQ3VXd1R5U0NXbEQ1WkpySHozRTRmd09ZeWFhTklhWWdZTFFKOEVsVFRrWlBSc0dEa0dvWVVTLXJtYWFpTk5YT2w3STRpZ0hQdUN6ZGs1UnFDNmI3LUJQMHZwM1NfYVJIa3UtZw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "零舉債普發1萬！莊瑞雄：軍公教加薪到基本工資調升讓人民有感- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12REZldlJpNHZZRmo2bnFaVWZ3LTVxaWRzY2xPM1R5aDN4eE9IN1ZHZkpHOWE3Y2s1YXZlT01WVWFLWjVvVm55ZFpjMHljeWt2ZGdlLS1Scl83RXVkNktWT0ZacTRsUEwyTEE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "吳欣岱反對普發1萬元痛批藍綠拿全民納稅錢當紅包- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ualh4ejJyNWs2MC01U202elo3Y2d3alpEak9VRnA3SldQQk51aXdpSzY5MFRjamJXMUc4TzVPeWwzQ091WHdmb0IwakdSNDk1V3BuanFfWEc2MkVaX3ItZThkM0JmQXR2T0E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "明年總預算編列普發1萬 在野秒跳腳 周軒：別忘了藍白是多數喔！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54LUVQb0IxTGk2RFNINHR5dUU5eFFxTklxRkxxVGpxZHlZcXlYMXNhSzgtUHpoVVJYRkhlanJjMmZtT3JLZU5SYW03YzBGdmU1NlhMQWxsZWt4T0d5RHNyZTQ3a2NDTWRuSkE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統送普發1萬大禮張麗善：弱勢應加倍- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Vbjl6OHdGcTluU19fTzlzdXBwdWZTa2cwX1RTVzN0S2VMck0tdmF1ZmFMRXlTQVN6ZDJlNUs2enZwdTAySjNVTkF3cGhJUEdEeTdQN3BhaGI4SEl0Z1hOY20zSThTeVZFakE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統喊普發1萬新北藍營議員選將批政府髮夾彎作為已誠信掃地- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qVklnT3EwOWJMcnc2NXdwOGxLM1BXWUZxeXI0VTdFZjJxZ09VZ3gwbE00Z3VXdDNEUVlneHhRdGhjNzcxOGc3a01qM1psZTJ5QmkwUkFMNXVXbmVwTjBucGEteGwtSUtyeFE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布普發1萬許宇甄稱太小氣「至少2萬」、李彥秀籲法制化- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SZ1ZEYU5uQ05wR3ZGX29TbURLaV9nYlVmR0VvaHpZYzJoTFBWaTFFLV9BUC1uU0ZjckV3Uzg1M3BZMGRsdDE4S2FHLXpaRDRyd25MLXlEQmVsODFXVXc2T2NLOXdURS1LVGc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布全民普發1萬黃國昌立刻跳腳回應- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tWWh4c3dxb2FBMFp1RWdEaFMyRTVxX2FNVDhGMnUzOTBaaFRhemRHaUpSWEg5SnFHYnI5SHdWNFEtdlRtU01xb3l6T3k0T2U3VFBIUU93ejdEYmlGLW9uVTJORnFMWmpHSWc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "快評》普發萬元現金後 明年度總預算還會再延審嗎？",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdWRweWFDMFVXWWJQQW9zeHZqR1VsRFZnM1RKX2ZINlpKeXBfdHU5cERvbTBMd1ZDTHIzT1hPVDYxenJ1UGRhQ3dCZGlWT21mTERFMTFJMzRfWGVYckRpS2ZtZEU2c2xTb3c?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬賴瑞隆支持並捐作公益- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTcU1OTV9WY2UwYXp5Y3gwODdmNDZNV2tIb3lXOFJ4ZWpKc3pmOGoyN2dsN0FQaUt6T3lLcDljMllldEZXWmd0QjJaUDM5M0EzWG5SRW1TbFltaXJFX3FfZnFvWFcxemVDc0E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬陳其邁支持並呼籲國會儘速審查總預算- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FMHhaOFhDMmdWaFFjNnNmZy03cTYzYUNpdFFXQkVmVVdUZ1E2S0Z6MEx5R2pCV1I1MDhyM0lkQVR6ZjRiaE9jTkJyRmJNR2k0QUJJWnE5YkFlcldsYkZMQ2ZoZGpKR2lFQ2c?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布普發1萬國民黨團籲超收回饋法制化- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BQlJqYWtfazNPTTdhUG1Cc3ZLemE5NmxCUkhldEZnU3J3aFNPanBXZzFHLW1XVFVNMm13bGlVV3NHeGdOWkhNZFdhN2tRYWtmSl9YN0Ytb2cwQm5URW1VbGN2RnRxc1JSSkE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬在野批雙標 劉建國反擊「自相矛盾」喊話明年度預算勿再卡",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaV9tR1VsVjJjcUFrREFFM19JdWxwS1pnSHlmS2V1VkpDNC0yekhPdW9veGQ0RXphd0x2czJ0WmhRV1R2M1B6enp5TUthejNvd3lhRkJhdlZ4M3dvSmdncUVVRXRLSnlKdFluTzlERlF0Tjg5YkZtNXBTMVFobFFtZ2dJamJMdw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布明年普發1萬 柯志恩支持但質疑「現在是救選情？」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RWkJrT2FVS2k0V1ZLc1dZUnBZS3dxQXdUWk1LMHA0MFRuTFNjQTJrb01MUjdSX1VuV0pTOVNkUndIbXVGeVBVTUxvZ2M1MHFhV3FnOXZrYWkzOXd5dkJQV0NFSkcydDBjR3c?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬元黃世杰：桃園更要把握經濟發展契機- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZmZPUFB3T0hqSWdQV2x2LUF6WjVOcXZBWWhtUmg5aDRZWHpEUThiZEdCUWZtcVNnamlWOVhmRmhEbHM2Vnk3VHhWQWNkczctN1ZHcEdqNmx6ZlJiZk5yQnU4aHpBeUhLdlE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "蔣萬安酸喊普發2萬顏若芳批「去脈絡化抹黑」：2025藍白硬推與今不同- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qamdSUzIzNXlra3ZBOWZvR2RTdzRUN1ljZVB5SzZraXdTd3dzSnc2M3ZDOGF5YldJUm1BVnE1d2NwQmwzcGVUUUhFcC1nWnB6bXlBcmhyN1ZCT1JlSlcyRGlMMksybEI5Mmc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "蔣萬安酸賴清德普發1萬不夠喊2萬 洪健益:台北市敢不敢自己加碼？",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96TGoxdVJ6MUkzbXkxRTRVUW9GeWNqYTFodTFJRkdubVZJdjc5SW9GVVUyVnIxMDNuc1FLZWxPb0VNeDJwbGtJcGpXOFUybWtpaWw3SlI5cHZXUi1XcXI3X0JNaEs5TGwtMlE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "全民普發1萬元立委劉建國：AI紅利雲林不能缺席- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ibWJLZU1hQ3FMTmJONVdqOWtMOHNjSTBmZHdnRmFnLV9QdFphTWRmUDFqamNzeS1MWXNFUWdPQ2liSDdyRjZIVzRmQmo5U2phV0pyazdGclNfRV90TTJqaVBPOEVqakJfeGc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布普發1萬元！ 沈伯洋暗諷「我標準沒變過但看來有人很緊張」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wMU1HLTN1LTFCcjA1QTYzMGNiVm52eElrTzVkR2JTUDVsZ3U3VXJ4amdWbzVIWVdGcTVEZnRxdklXa3ZTeThNaWoxSEt6cDdFSFFCTXA0akF1NE16Qk1GMGpqOVJCZ2wxTUE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布普發1萬國民黨：選前拿香跟拜- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84eF85M1lRX2N2SWFVWEprbThXejBLRUpjdDltSFc5ZlJZM2hlSm9GUlZ1YjdoV0lYSUFweldUclIyTnNGWlJyUE5KZVg5ZTRxeW1LSlNkblNfQkdib2tnRjdkNVVvcmt1MGc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬元 蔣萬安酸應發2萬「買個菜錢就沒了」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcHVlem1jeXh4VEM0S1BpSW5GOGxzT3puQ1NMWlc3eEQzekw1ci1oZGR3R0QxOEZLaHgydG9HR005VFBnazRFQ2NQRFBwcm1nWUp0a1BscFlyMGRuWU1aU185Q01kZFYwUnc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "明年普發1萬蘇巧慧：政府發放5次全民共享金證明經濟治理能力最佳- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mSXJaVVRXS0F5RVB5aUpYMWU2OWdqR1pobE9qTWVMSldVeGszYXFFcUxKaEdyWnFCOWJIbjBpMV84VU5qZWhIemVRWm5Oa2plSTV1dUZQSm1CNEpaaUNjS0xGdXVIU1FXZEE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "明年普發現金1萬李四川：蘇巧慧應說明為何去年不可以- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdm9NVmpTekxXYzdrenV5NFJTS3BLV1RhWElCYWhLcV9vNGpOem9rWkV0Tjl5d2FRMFhNcDFfWHpvQmxVRkpwTHd6R3Vjb1k3S0ppaEhpamp4bXo0LVgzLVdaVFl0dC1wcmc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發1萬元 黃國昌酸雙標：第N次的「綠能你不能」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sV1JUcnpIMEdmUVpObmZ0RElzWkYyUFNIdDRSYjNrMll0VF92T2JseXduckh5dDlIYXVwZ2pGN3BlMWNkQ3Y3X2kxQnZtaXhYbmxCbjhJaVdGMGtkaHBVazZ2NVFIeE0wcUE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊普發2萬許淑華酸：把喊價力氣叫同黨立委快審明年預算- 臺北市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vbG13Yjd2eW9ZY2YyTG1oWlhmU3BBbG44THgtWm91S2lLeWl6Sk1fbmlEZFA0TkxRSmd0Y2ZoLVJfUFk4SmNWcmhPWG1CUnVWM3dhRkRheEdabmVKVVNCaTA1X1BJMkU?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布明年普發現金1萬元藍黨團：2個月前就提出- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqX2tSdnk0ZjQ3dnRhQ1VqRVVrckhQMVZEdEFTWm9DY2wtVklUazNkdktydlhOZnNiLXU0ai1la2thZGJCSktkdVlIYWU5WWxZeEs4Z3ZmYVR2eEhpd1VsbGJJQXZHX3h6d0E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統宣布普發1萬許宇甄稱太小氣「至少2萬」、李彥秀籲法制化- 臺北市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLVkh1V0VpZnU3WXZSS1VWaXRqOTg2QUVsS2VVdGx2bHJlWklHRFVZUktiOF9VVU4zYlZ5amF6WVdrcTdQNzhjQUdQTTM5YkM2OGRTMjZVRVNGaHVBanBCSm15S0tNS1E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "普發1萬被酸拿香跟拜！ 黨政人士曝決策內幕：跟國民黨舉債完全不同- 臺北市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EZW1CQWRWbFQ1cnl0VW82cXp1SkNpUXdud3BWOHNhWWlBajVxdm9VSDhUT083Q3hwOEVTczlZeGo5SWFkQ0czdW5lNUtGT3Y4T0t1aURPTnE5RG5ld0lKUHdMeDh3UVE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德「搶先」宣布普發現金 胡采蘋：終於想通不用比清高！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QV2dvcnZfb2RfSkFkOTd3QXJYSjd0ZC00NFlRVXh3X05TekNtWnRVV3FDbnh5Mk90Tnhtd1diT1BxaDE0M3I5cVh1NXMtcC1UdHlXQUV5MjNpSUJWMDB0SE9JRW5DSHJGWWc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴清德送大禮「普發每人1萬元」陳培瑜讚：AI紅利全民共享- 臺北市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjRVhwRVRFOVVGWlRYVkJQa1hOcWtBY2ZBakZlelpuY3UwWEdfbFNmYnJMZG5VdHY1WjRiWDNUN3hEa2xiY09FYjQzSm9lejZTTm1OczlQa3JBcjBOUXNiMXlrbGdGY1E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "黃偉哲支持普發現金1萬元盼全民共享經濟成果- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WOXhmbVFfVHJ5LXlpQUxpNzBWcWMxazFicFRGOF9wcFVWcEgzS1hGWElxdFdDOGxjZUFBSlg1aEJBa0hFMmhqd0JfSTJsNlFXdEtkWW03Z0Z2dEo3RmYzdkJqYlpVLWgzZUE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "總統要普發現金何欣純加碼黃國榮:中市普發現金要慎重因為中市府舉債- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUFpXTVo5RkpKeklsLXBmaWhlaFlrdjl4MnhLdzdnODE1QmFUOEdqNWxMU3FJU2tXUUNpRVVWVXFqc1gwUkdxQWh5MktGZUxKZzZlU2ItdHFoZHdWR1RXdTNNR2Z2aV81bVE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "台中市負債近800億 副市長黃國榮：普發現金「無法度」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ndEJxRXZ4Y2gzQUkyYnVibDhPLW5FVmdXT1k5eHpjVGlNdWhaSW9CcDdKTTMyQWtpcWNmeVZRZFp2cmUxcVNpV21veHh1OFBINHZxc050NURlYWdBRXZJcURDNXBKcmV2N0E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "王婉諭表態反對普發現金 大批鄉民慨歎：是用魔法對付魔法！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45SWVsMVVTUFVoWXc4R1VfU2V6S29MVXN3MVhRUmtkX2pWUXlULXdDOWpSUWJtb0w3MVlVVkdTcEtPZFUyM19NTVJ3aUhITXYxdEo1MU1DTUlHUkdhUXdMY2ltd1dTQzZrM0E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "批賴政府13萬戶社宅政策跳票 台灣前進：有錢普發一萬 沒錢蓋社宅？",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54RHE1ajRsUTBTaUY1UHNxSDNmTnZubm14dzBIbU9MNjc5V0ZoSVhaNW1sNVVwdEJkRi0tZTBKWENMUlJ3Z01iUDBPYUNOZWtVTklCT0R6VVBGR1cwT29FUEhNeU1oY1Q0cHc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "撥補勞保1300億、健保600億卓揆：普發現金不排擠施政- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIT0NFQTQzRVlTbnNvTEVNSC0yaG92TnpkTE0ta2pBQ3NTdGt2aVY4eUlOWUNVSEIza0t6cDNsVEZJRGkyenUwQ3p1YkRBT0RzZy11M0VLUmYzWHdfcWN2dURJbHNSdXRGOEE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "明年普發現金1萬澎湖縣政府爭取智慧轉型- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmQ3daUk1XZUlWWnR2aUpJWk9mRzJWWTR1TGNjNDFzQmpqOE5saDYxTlJNUnVBSElmc1BxTmVBR0hIX1Q0T1l6VjhtcUwxYm13X215UDlZdEMtendnbXFsUVl4NHp0TkI3WGc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "將提案北市加碼普發現金 洪健益：幫蔣萬安實現「2萬元才夠」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40SVh3UnhqeDVTU3N1ZWs0OUFEWkJ0UkRqVWlLbk53eWZIS1RhX0hLZ1VDRE1jSm15ZllkM2M5YjJhQ3ZlV1Bjd0RUck5qOTNvaWNzVTYtd0g3d2Y5NUhpTGhtU1hRcTN6enc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "發錢！經濟成長率續上修 賴宣布明年普發現金1萬元｜20260817自由短影音｜#short",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkk2czBzRUVPSnUwRk5mMld5aUtrS19BSW1lajRoQkE1X3llR1h2LXd6NVJhLUNKZkpHVmduazB0WHpMbUZ1LVo4OW1kTDlFVDNqRDhUOFlaVkczVUNPb0hJbUN4N1dHdU9FcmdHQlpOVFYzV00zNmRBRjE5UUFObDNPS0d2dw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "拍板普發現金1萬元！游智彬轟賴總統「中共同路人」 今又赴北檢告發- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lX1ZFTW1fUkxlLXZPRWhjS21ld2Uwamd3a2ZGZVRMUHpfTFFFRHpvcnprY0ZHT18yTE5FeG1IWEVvNjU5VTJnTDRGcURGZ1BqVGgtVDZjT2k1Qk5CLUx3SjZ0dmdGa2hRaGc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "賴總統送普發1萬大禮張麗善：弱勢應加倍- 雲林縣",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ya2J1M2JWdW9OSlRjV0J3b21ZWUNvOVlpVkRKUnlsbXRNc1RDS3lMdzliZmM0cHBEVnN3Uk9odnBZN2FSVjZFR19kb1FMYWdaa2lNQ0VtZGhEMEFjVGpYbmkwbHlSY0M4cGJpRQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "今年經濟成長可望創39年新高總統：明年普發現金一萬- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OUU9SbkRvY1BTQnRfb3pQbTJFdEgwc21IajhmdGJ2TVc1dXRsR1NZcGVOOTFraERoZnFsY2luMUlWMlgyc0dSUVROOVJRbGFiVFFVYzRnYURJVmxsQVpTZQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "普發1萬在野批雙標劉建國反擊「自相矛盾」喊話明年度預算勿再卡- 雲林縣",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xcHpKVVJIMTVvSDdvSDB2MUoyaDJfNU1qR1VWbFg3UUthQ29ISVF2a1hiREdqS3pOdGROVXRTWmVMZWFKV2lFdWRYZlJXdDNoREFyWkZ5T2l2TmsxeGxhcWpULUNIdW9Ib0xsXw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "喊北市比照中央普發北市府：別魚目混珠、先看看中央的帳- 臺北市",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sQUNvTFBHeHFFZ2VCd2ZSazFabjNLbVZxWlBjVTlxSUJ1c29BTG53YWY1ZUlfbU5QSnBkLU5lVEJQWi14NXpXbVNKTWlsRlA5enBNYVJOMDBxUEdDOVZBTl9SdkR6aE9GZGZhZQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "響應中央普發現金！童子瑋提基隆四大族群加碼政策- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RWnhPR2hsT0ZGWElVUXI3VktrRDBaODc5bnBDbXRyV3AtamZobnZGNjYwLVJlaDdMVXNLYnRmS21GeUd0UFNEWk05ZkxEb2VVUXhGQUR4cTV3d3dZcTlKb2xFQXk5NDVCNVE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "兒少帳戶遭政院不予副署廖偉翔批苛扣新生兒6萬卻普發1萬救選情- 政治",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GWUdZOTN3NkpHUFdzb0NRVE44WlpQZ1JDVnM2SWpyRUE1bk1OMEdteWlvQndmUkUwa1ZCZ1VQeTRYVkh5NTAyWV9HMEpzU0kzZGdxM1V0MlZqT2l2Z3lReFp1ZGJ5YnhpcGc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "蔣萬安酸中央普發應加碼到兩萬陳其邁虧「有錢人」想吃更好的鮑魚- 高雄市",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ydEJ6Y0o0ZVE5TFQ2SWtXY2kyaDdKbTRmQ2IzSVdkVE1XaFYzcEY2S0ZzODFYcEtMdm5fX2xwTTRGUDc2VW5ESXV6RndXalZGYXlvLXJJb1lMWmdINWt4VEFPTllPRC1zc0Y3Z1RHbjc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "挺賴清德普發萬元利多林國漳：AI紅利全民共享、無須舉債- 宜蘭縣",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ldExubFVaMU1IX3EtSzl3cEVoQzlUOHVyeVdLbTJyTTV2dzYwUUw3bUdsTzF0clNnTHJTUU5tdmM1dXJUTHhlWjdjX2RIMUFESVA3UUIyTGV1dmVVQXZPSTZ6bHByS0lxVW1z?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-18",
+      "title": "兒少帳戶遭政院不予副署 廖偉翔批苛扣新生兒6萬卻普發1萬救選情",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTW5lM1hrM0FHSk9zS3ZLSGdaV0RoanNpVTZWYTcwZWxLWVhnYk94YXl1dU9BN2FZNFRzcDMzZmJVcjZjb21zOGRmeEhmaHVMUFV0dkVmbm9TUGFGeDJxTGhkSGJBMGVIc0NJaUVwd1YxUmJIakZjaUhvSGg0YXN4cHZKTzdxQQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "自由時報電子報",
+      "date": "2026-08-17",
+      "title": "吳欣岱反對普發1萬元痛批藍綠拿全民納稅錢當紅包- 臺北市",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnc3NKTjdPSmdyOUx5NGsyWWE1TWxkU1JJVGNvQzJZbWd0RlNYSk42cjZvSmg3LVM5ZlJEQVVBTXRId2lOX0cwM1djdDJfaFdMT1pybmVNTU9oTnZ2Y1VvYjgyc0lMTjBNdFRXcw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "真的發錢了！賴總統宣布「普發一萬」 民進黨團火線回應",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xVFIyRGxmbXZTYk9nb3hJY2F5b2g5UnF0N05iYmlwOXBFUExOd3lYVVk2SmswcU9UVVZrQXdhS1J6UVR1Tk1Cb2Nsdk5aZkRiMGRBUTVmeUZsUVdQMlhBZg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布全民普發1萬！黃國昌「怒喊1句」遭迴力鏢 周軒祭1招反殺：大家領不到",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lM1AxdU9lT09WWFhabTFmQnl3a3hua2JXbzktTGd2Xy14VFRiWnZ6S1V5VndyVF9TeTZnaGhrNXkxYTRvMzNUejlOU2RIaWdIa1hBTlpicVN5YU05blV6WA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／賴總統發錢了！綠營大咖力挺普發1萬 火速響應「全捐做公益」",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81MGNCNE9XSTZSNUJ6X2xRZ3VLanRYelZOUGMyODAta2FYUjBZcW9QNy1CTFhxNUtpWVJQbktYZFlQQ0hfaEIzaXhRUWFxclpPNzRCNW91ei03a3J0VGFHeg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "響應賴清德普發一萬 沈伯洋：各城市可依三大原則加碼",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCbmNTall6NDg1ejZaSkNTSFNMbHh3dmNORlNQMVdyT0RmT3hUSHM2eFd0czVKS1lvUU96R0U1VG16UmtpWFVPR2lrVW5kVGVPSGtsUkpCRE9HVFd0TngyOA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "全民共享經濟成長成果 賴總統宣布：明年普發現金1萬元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Y2lPQy1OLTZpTTVHQkljQUR0bWQ2U0hZWWpoX3VwVE5Pd1JhWnUxNFRQUTRSLW0xRlVrYmZfVW9BU2RzS1VMYlJTQTJZeFVHMGNhT1oxR080cGFMcXZMeQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／賴總統宣布全民普發1萬！蘇巧慧喊話藍白做1事：讓民眾最快領取",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVFJBUWFReHJVU1diejJGV3hLeWFhUktKOURWRVBheVdmRzlXelFnbnB2bjJpREFiX2F4VWRqcEhYVFY3VjVINVhCT2tpRS1UVnNkWkZVcEVIX2hRb0NWWQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "賴總統宣布全民普發1萬 蔣萬安：我認為應要發2萬",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sMFJ3V0pZRXRjZzlIb1RFLWNpNFNJOE5RQktmLWswdTBWY2lULWFrUm5OZTBQYkVuenVqWU9vc2JoYmVEMmQtb3NSTXA2MjBBTGN5OEVLRHl6cmZaTlh4RA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／賴清德宣布普發1萬！莊競程震撼加碼：當選新竹市長每人領2萬",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RYk41SkZnckx2RGhiZjZadFRRLXdYRXZyX19OUWVPV1p4VjBlc2RhZWxibDc4Vk9lZERVa0l5RzRIUFA5dWhHdVNvX29NV2k4eGJueUprWk9XUmdELWpySw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／發錢了！賴總統宣布明年普發1萬 卓揆親上火線說明",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2blNMQnRhZUFxbVBBV3MydVBOOUdheDYxX0ZDdUtjRDk0NW1PR0tpSW1rczhvYzV6aEtHbElVampkX3RRWnluYXFkd19mZ0tsdFc5emNETDFUMF9LM1NNXw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "陳其邁酸爆了！談蔣萬安喊普發現金2萬：有錢人想吃鮑魚",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpWDBxNXBPVFVZUmp6Vy0xLXV6bG5LbHdwcnhyZUNmeWZvUFR4UUNKR29fV2U2T001VW1mMjgzOFNqemZ1YzhUbTNGaVcwdUJSWWNmTm5fWTBNclJQNmR4bg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／賴總統普發1萬！中職會長笑喊「出新周邊幫保管」 網暴動：快出",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VZERVNy1iVU52akNtNHVTQ1B1Zlo2NEJ4anpnMTB5M0N1cUl5VzEwQ3IzZ1VIX2lfcE9pb3gtVExqTWFoZURrZFZYb29PUDFack9pcldubjlud1JpNWdGZA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "普發一萬有底氣！謝金河再獻策：新生兒送1張台積電",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NdjlJUnNseWgwVkJONktsaF9fZEdnR01pY0cwaXdLaXNMc19ySTJDaEFTdHhRa1l3YzI5VmFncUVaMDNuenR3ZW4zcUtzVUNDYl9mM09LZW1IMFVDT0dPUA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "任內第二次! 賴清德宣布\"AI紅利全民共享\"明年普發1萬",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xX3ppa05fWlhkd3lRUENaX3FNZFdfaEFEY2NyMDRKV0hsLThwVThzb2xfZzlQNTh1MmUycy1pa05CVjVpRFdELXkxSGVtLW85bFZoZEJXdm5DcVpoN2ZGdw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "普發一萬先花哪? 民眾:玩光.買光.吃光.投資錢滾錢",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05ZzdRQVU4bC1mcGNZcERJOUIzMjRmLWVnODd3ckd2ZWhSMHJiWFRXSlpNcWk0WkpJTW82ZVE5cDF4enB3MEVyUHMxbWJkd25LcW1nYlpLZXdLdGN1cjhpYQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發一萬 陳其邁力挺：呼籲國會儘速審查總預算",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aems0TWlFTGZfS2NfUWhJUmFoeGlONnhXdU5aSXRHNlZkS0lnWXpwd0pPMzI0MFpNRGVzaVpIbEFzRHZfX2hKbENVYmUzWmxOZEVSN2hXSm5wUkFDM1lCZA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／賴總統宣布普發1萬！台灣像績優股 作家嗨喊：分股息啦",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IVktCSEdfbDZmb05TLXJOZ2hMWmRadDJRN2xONjdWcVRBdE5lV0Q0WnFsZ2k4NVc3Mm96RWE1dVJ0LXR3VDU3TWhpaDFIcTBsVDAyRnFPMWJwN0hLbXMxag?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／不只普發1萬！7縣市加碼現金「最高爽領9500元」 資格、時間一次看",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03dmpOa2JOZ0gzd25rd3ZMenNQWmNLdi1ISmdyVWRHaEhYUHdpU1ozUGh6eEJpTGJCamdMcFd4WF9aUFJmdHd4ZXFCUzFWWTl0cXdBc1BENWYyWDRNSk9TMQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "快新聞／賴總統發紅包了！全民普發1萬元 盧秀燕喊：樂觀其成",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZaV96QmJCRjdYTHA3clZGc20tVVlfa2d2bTVGd0EwZlhRcXFBcndBRU1tb0YyY1V0dzJlWWhHWEFCYUVHbWVTNkpIQk9XSUxwcmR2Q0JSN0hvbmgwbW1UOA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "北市「小金庫毋甘開」？中央普發１萬元！蔣萬安不加碼？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpdENGajNxQU1zQ1lHbENtaFVzbTJ0VjBObXZMeFBZUHNGTEkyNWUyY2RRYVZmU2xmR01HdmVlZm1Na25XWU5Cd1gyb2dLaUlGV1l1X3FFb2U0bGJHQ3g1cw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "【#台灣最前線】Live直播2026.08.17 明年普發一萬！藍地方不肯加碼？賴清德發紅包！在野敢杯葛預算？看電影插隊偷拍？翁曉玲被炎上！婚變風波延燒！趙建銘真出國了！",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OWjEtSWh2b1NYbTFtQkVzWXJfUVBWSklNeDEya1FCYTU3dWd4Q0ZOenJMcXN6Vl8zR2Q1ZGNadkhJX0VCLXNXWUVoSkcwc2dUWHd4MGl3azU1eGduLWNzZQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "賴總統宣布全民普發1萬！蔣萬安喊加碼發2萬 綠委狠酸他改做這行",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16VHlvMUhZSG00WV9adWFnblVINW5pTC1UcWZVMGwzLS1jTzlpY2MwZ3dsUDdwNnpaTU0xamVIQjkzaUg5SDdoUDcxWDBReDhEZ2ZBOXQ5YU5lSGk1N25Hcw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德普發1萬「藍白還擋預算」？汪潔民揭「大罷免迴力鏢」讚高招｜#頭家來開講",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuaWkySzlFN0F0YWpnM2FndEhBZGRkRlVMSFp4TXpTWWhiX0lWcjE2NFBHWldIS0laVllDd1VoODFPVEMxX1lOU2c3NW9qZGdjQ2JkdHFWTm5LT1hBXzBJdko2MjhSRm8?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "支持賴清德明年普發一萬共享經濟果實 陳其邁籲國會儘速審查總預算",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xamRjY0ZheDZQTGZwMjFaX0dnY29NU0dPRHBtZ2VaRENIQXZiZVRDYnZkdGhwd0s1YzltQWFWMWlNczV4VF9vT0p1VlNYREVacUxVTG9VckRKcDZWMXR2LQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "普發一萬先花哪? 民眾:玩光.買光.吃光.投資錢滾錢－民視新聞- 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ODc0OGF1ZWNUM0VieHpJc1QxRWdfY1RIUXo5OXppOXl5U29TN2oxYkY4RWlkRnI4S2VTTlFxaW5vSWRXRThOQUJhRlFKY0IwdURmN1FqTWE2MnZSLUhnNzUzeFczMHM?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德喊普發1萬藏「反攻訊號」！他揭「不接藍白考題」5出手關鍵",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVTkyYUVac2JuV09TRXZqSUhXY1BxRVpNT29EVFpKbHhMbU9HSjY5UE56aVFBUm9VcThrQUplRnF5bGQyREFnVFRPbjV3QmlfSmIyd2lWc1VxV2VGYk5xcA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "普發1萬⋯黃國昌批綠雙標！他揭執政黨「這權力」打臉",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHR080b2lFTE1pNE01alF5d01iRkhWX25hWGhFMWZIMnR3RUY3bW9hM0NqMjNFRFhpT2lPdV82VEwxdE45bmJpSkUzSUIyUjVMWVFZcHRVUTQ4UUMxUms0Vw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "支持賴清德宣布「普發一萬」 林國漳盛讚：經濟紅利切實照顧每位鄉親",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbFdSWnRnMVZXNVZSM3hlV2IyazVkSUtYZVQ3V0ltaDlBUmZadVRSRFZZZTQ1ZWx2akxVQUgtYWQtd1laeUpOUWtzNjFibll0dnpWYXBhX1ptLVRSbE1rLQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "共享AI紅利！賴總統宣布普發1萬！ 插隊解壓縮？翁曉玲遭轟沒文化？2026.08.17【台灣向前行Part1】",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTMmVocW41MS0xNV9FY1BHdkdYMV9wWE1NWnBvZFhvOHF4NXNscVdBTnU3R29ILWdhemVuMVhQMlBGNnMyNWNsbFhJTUZhQl9LUFpta0ZMZFhSUVpvUk9TTQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "▌普發一萬反制藍白卡總預算｜頭家來開講 ep301 精華｜民視讚夯.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ybmFIdEhvb0NxRTU5S1FzZzRZNmZwendJd1l3cjRmb2dOOXYyUFJjZ05MTDQtdkdBVlBXNE5VWm5yYnN0Q2pKZnJUU05Wdk00OXl1bHRjc3JNRW1RNXJLRnRQb2lPa3c?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／AI帶旺台灣經濟！賴總統宣布「普發一萬」 鍾佳濱力挺：全民共享成果",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FdWt2TjJYVVpiZjBpbWJjeWdZSVhKT0haOHVYVmlabUd2NTFESDVYRWVFMVVISnItM2pkTFpEUWFWTk9tVm50aU5uYk9seVVaUjlNQnVTVThoLXRNYk5QUw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德任內第2次「普發一萬」明年發放！「網狂@她」釋昭慧深夜463字回應曝",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPbnpLbk9JYlZ2ZUZKV0FBelhGMGxvNXhWcndUci14MC10b1RvUjNwcGhNZUViUHNoenZxRWZZLXB5TXBDbF9iUTBxN1NGc3JVTDB1dlA4OHdtNExJYXpwdw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "普發1萬元怎麼花？玩家這樣買最有感：從遊戲主機、顯卡到電競螢幕一次算給你看",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ud0M0UHB4RnM3TUJYaDZzdFloLUlrdmhlS0dhX3VoRnYxckF5Y2tmUW1SUkliZVFkeW1KbW9PbjVvNWZxanVKY3ZFN3RDaGIxdUV6aXpUZ0h2Q00yeEp5QQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布「明年普發一萬」媒體人讚：高招",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52cFF4RzFtOW9Vd2NObGlYYTV1Vy16cG43em1FOUNxSnhGZkVTczBST0RDTDFkUVN0b0MyWWNkdTI2czZxN25IWGxHZlNDaFNjWGp3OGp6dXJ1US1rNmxSRA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "任內第二次！賴總統宣布「AI紅利全民共享」 明年普發1萬－民視台語新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhbWR3SlpIcWZtU0s1d1VpRVJQODEycGtDYThvX3JrUk0wZWtsOURoOThBbVZmbUdKLTh3Y0xrc0RSc3dES1JxRlNrMDNjcGY0dmIwajg5eW1mcS1fcWxRLXFsZmdoS2M?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "快新聞／想當蔣總統？蔣萬安喊全民普發2萬 沈伯洋、吳思瑤開轟了",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbmxFTTJ5MmFiay05b0tOVHkyUmZaVDlfV1d6LVdsTzNqdGVvYllaSktHaElqNW5NSWZteS1zTE5QTHQwYmUyZUdLQWVxQ0dHUEtJMGJfU1Ruak1GcWJ3Nw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-18",
+      "title": "1萬元普發紅包又來了！ 賴清德宣布明年再發：AI紅利全民共享",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oenBsckFHQzZOOV9GM3NWRV9ZZ0ViNWdhQ0V1T3BkNWRfUkw0b3RlNE5VRDB1cGIycTFEUTdveHhrLTg0cjBuWVFmMXpiaWlYcXVXaWhybWFOTVVtQkhRdw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "快新聞／賴總統宣布普發1萬！財經網美大讚「終於想通」 理由全說了",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kSEs5SndFWVYwTktoMlZkTS0yUWp5Zk5hcTVmOGlaeFUyZXlpOGVWaU1qVEc5ZnhPMDIwYXJXM3dtUGNVT3J1TkNKbnhBN19xUXFtUHRoN2wwT0g1bV9sQw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "民視新聞網",
+      "date": "2026-08-17",
+      "title": "真的可以領錢了！全民普發1萬 賴總統揭明年五大重點任務",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MzFWUy1aTW1UMUNBX0tzQXdTS0dFSmRRczQ1Y0paTjNNbXdFSUNfdFRtcEJjWTNzejRXa0lIaHVGZFhNbGNLTjhsODVpbmxKLVJZYnVqZmpvRVZsM1h1LQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊「應該普發2萬」　陳其邁一句話酸爆：有錢人想吃更好 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCeGtRbm9NSGRscUdlYURqMlB4U09RSmR4a1RNOWlMTXRPcjNTSzdReVpqUWg1UkhZT3ZULTR6TF9CVlI4STBxY9IBTEFVX3lxTE56WmlVUkFIenZWUVFTQUtma1V4cnVkaV80eThhcTF3Q1Y0TkUzeG96b3lpUjFDU0t0YzNOZ3NIRGJ5YXRCSFpkNl93SjY?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德喊2027年普發1萬！網狂tag她　釋昭慧深夜發聲表態了 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBbUtjSlQtbGNvX1VTMUNVV3d4dnRjOU52cFVVbmhkUW8zdHRaaGFRRDdjTmRoMmJlU3ExN241cDNNaHJhQVJYZNIBTEFVX3lxTE1RRFZjdWZmTFhWeVUwNHc2NXBES3pGUEV3b28zcHdVbDdWNWRZVThiVmtWY1BUQTdrTHJYYUVORTVka2lPcERSQUU3ZmY?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊應普發2萬　綠議員出招了：幫你實現！我正式提案台北市加碼 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CM3poamxBU2lxSGRJck85eXk2TERBSnBQQkxockVxSHZrUUxLdmJGcWItWE5VUVBFbmpIYnVZVU5aTzh2d3c1RNIBTEFVX3lxTE1Bc19jMTJHRkN6NUlsN2tlVVIzSkltQ0lIR2lxWVZCdFFydnBDVUdsRzVoVFl4QXhUU1Q1M2ZOUWJZMk14UEdnalVCU3k?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "普發1萬「大紅包」最快何時領？行政院人士曝時程 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJTFNwQTBFRV9tQkVSeXhRVmJ4N193QUFSSEdIXzhFY1hSODEzOTE3cnBld09YcS02azZyUjZfWmhFUEFqdFZyQ9IBTEFVX3lxTFA1SkNMOHRKczVwU3BzMHRiNnJ5ZllYY2o5TVdUemNYNzNRdVV2bVBSZWc4VXhXOUIycHBGXzY3eTlNSFhmZG82RFI2TTQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德宣布普發1萬！黃國昌急跳腳開罵一句　他酸1招反殺：大家都領不到 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43NXVLbHI4Q3Rad2Q5czZtNHgyU2ZmWXdRQ1dDa3FmcHhWWXA0dUxLakpPaGh2ZkpxVmwwQWRfWUoyLVJTN0RoMdIBTEFVX3lxTE40LXNCQ3pHNFVOd1J3aHlnY2VDendnazFkenFhdWN5dkxQMGlMVG9SRjBjcjJHWk5EcWJKaDY5cWdHNVpCNVJzQXM0Tl8?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊賴清德應該普發2萬！議員提案要北市加碼　北市府：沒有條件 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WNDlUc0xHOGZLdlNxMUVfWnYzcmx6QUlfMFNUV1Jab3MxdURHamxmN0RXQzF0OHdleS1XbWNHUWtYbW9fd3p5VNIBTEFVX3lxTFBKSE9aNnpoYWJRRGttRFM3eUtBLVBWNzVuQlFMSzIzeGY4WXJkamU2VXlZOXFYazFZdktrTmhOSzJMZkoxZThCelRlZWE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德喊明年普發1萬！全台「7縣市」今年先發錢　最高6500元 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EanQ2M1IxQ1ZHU0NJc1FySWlObXlwWFFITTZXaFhqZ3V2aFpKeHczN3NJaGJ5dGY1MExreHBmMXZJM05vOFdsUNIBTEFVX3lxTE0zTmJOaU83WXFzRVJjUUNsUUFlQlRNTTdjMUN2YUwxSTBpWFJ0RFZYbFN3b2xyckRDX0NYUEJ5dFd0dkdkOVFkUEtwbXQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "普發一萬要來了！最快入帳時間曝 專家點名「1類股」:今天應會有反應 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1seTkwTUFIYTItZzB5a2xfcVcxWHNqWWhjX1F6bmhDM25CSm1lZUlDeS1YYXRiMWxYTDVPbERMeHkyNUFKTGJld1pYOA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "律師曝關鍵：為何去年普發一萬是錯的，賴清德今年決定可行？ - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5reXhuQ1BUMURaSzNCTlJpek9aOHl5a1gzZmswOHlPRjlXLVh6ejNGWDlheElyWUVkM0prR1M3U09JYWNVZFY4atIBTEFVX3lxTE1kQnJnVzhOVGFSQjBWdURhRjViVVhWUmJXcnNnbW52VkQ0RUItTi1acE1pVVBhbFBTRXk2ZHVxYkk1WDFJelY5V2J2aXY?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "明年全民普發1萬！卓揆指不會排擠施政：明年撥補勞保1300億、健保600億 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94NFpURm5nOXZsS2pHZWRGaUR3dmVsZDl3NEhuYUV2QTVfMjVFc09kZ2Qxa3hudnlfMm1leXFKbjdTU096dHBUa9IBTEFVX3lxTE1jb0c5Ul92VWpzMjNvSDB5YUsySjZiQU1waGpuZ25za3BVVmVURnF0Q0NWZUVVQkRjSmZnS0hCZmRJNV9xZzFrWEQ2RVA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊應普發二萬元！沈伯洋：北市預算若有剩餘　當然可以加碼 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13YThLME5BTnVFUzg2T1RXR3RqTGM1TTk4QVpFNk1fTkkyd3BLN3oyWHBoeHNLRjFkTk51MkNYMjFJZHk2M0EwOdIBTEFVX3lxTE50SXBDUGRQQjFYODM2WFNsRTNPTWl3UnlDdVZiNFFrVExYd1VBZ2dOY292bzZOTFlXLW5ZSzNhMWxEc0wzT3RldnFYc1g?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "國民黨喊普發2萬！嗆賴清德別為德不卒：今年先1萬、明年再1萬 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iV2xPZ1h6cnlfckNBRGxOODExTFpQem12YS1WeFBQc0tnVGJQNWZMaEkyZnVpbVJsU1NvT0FwNVRvbGhkZHZqU9IBTEFVX3lxTFBDQXVjM0FaRFl5aVlaajVTdmRhSTNncGxTN1U1blFIb1k1NTZTR01mU1MydTJqTHBwLUVOOGtCMlZDWGhOYjFHU2dZc1I?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "明年普發1萬！蔣萬安喊「應該發2萬」　許淑華籲蔣做1事：別嘴秋 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZVlM0OV9WdUZyVHZlRDFLZnBaRklvVTQ3ZkxMRTg3cUM0b1EyT1NDdFJ0anhJMm5HWkR2c2RQbUx5b3pFMWtvd9IBTEFVX3lxTE9ZVHo5dzRmUTB5T2dsMTY5TV81OUh6ZDJ1aDdsckVjdk9Vc0R0VzNwSmlaaUhvaWpQOVdDaEg4a29sMmZ1RDJTV2gxT1k?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "用總預算包普發一萬：賴政府重新奪回行政權議題設定主導權| 政治 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01WlhQZWVSWkM1OEdCWkVwOTBuSHBZTjgxSlg1eG9VR2NqV3JYVVBJRXVQTWNHajgtdnJSUi1kU3ZXalFmZVY2SQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "賴總統免舉債普發一萬　藍白為何崩潰跳腳？律師揭：見不得台灣好！ - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9scnBfSHZ6dGhlYXJoaFp0YUR0WVBlRU9qZzN3b2ZXbjV1QjRPWjhHUk5XQUJmOXpiN2xFQ0V4bC16Y19jcV9EedIBTEFVX3lxTE1rWUZQZ2NOZzJTRktfMkNib3piVTJfRXEySkppRVVPNEQzTDRWRVVJaFQzMDRqTzVmTUNSSkNPVHEzZjBuZE1lXzN4Rmo?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德宣布普發一萬　律師戳關鍵：本質上是116年度總預算通過的過路費 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wcG1WSDdkRkQzUFdla3VKSGhhYk1CM090M0pLTm5LZTR6M0laMGk1bnFST29pel9iMGdGa3N0dUdHc2lTN2FLX9IBTEFVX3lxTE9oYTF6b1lJYng5elV5b1VsMWY2eUZLT1BUeEdDSjA5NkhyaUpRUWpRVHZDT042Y3RKTFE1VnB0a0JlQ1YwUkdhUHNPXzU?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊普發2萬現金！許智傑批「慷中央之慨」博聲量：別只會出一張嘴 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jY2xxTE5fUGVyendpakdjNWZvSUhxeFlTSk9UUEg1X19GYU95UmNmYngwX3N6ZjFhN3UtYnBEWW51dVlseDVmUNIBTEFVX3lxTFBaZ2NGWGhmLXB6TEFSZVE3b2R5TEoxVkxmUVFwY1FIMEliaXRrVWdEN3hIaVlLMTR0RExMdzZEanUyTVBVNWR6M2p5ZUY?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊應普發2萬　民進黨：北市賸餘577億元，蔣市長要不要加碼補足？ - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5raHU1R3ZMX0ZZY2hwdmY5LVFXZDFQOXNKb1ZwbEVsZjhxUjRPM3c2cTk3SWtVblJBVFptT0dJUW5oQk1FZThETtIBTEFVX3lxTE54WjBkdDZwLW92bk9hT0RIZ1hxMG9tUGJxSm1yN0tUZF9vQTNTRWdzM3UzYWY3VHg2ZG9welR3SVJ2QVN6RzB4RlZsRkU?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "普發一萬會過嗎？學者點名「這群人」是關鍵　1情況恐延後領 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01THNIa1dwZnBwWmFiTExScTlYTGFDUmFYU0R5WU1YbHdPdzdBNkt6TlZrOHBWaUQ4aDRtTFF6Tnh6Z01vTTNrb9IBTEFVX3lxTFBMbTFRWEJyUEh5NS1TUWZJVzh0WjJ5Z2lJc2ZVWmJwdEY4cWo2N3I1ekNsTkpsdklGNGhSVllpeHlZNUV4TEdpcmJCZW4?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "總統拍板2027年「普發1萬」涉賄選？　藍參選人赴北檢告發 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aRzBZY3h5TUoxNUZWbWV1akVqSTVpZ092VlB0Y3ZDaXdOeVFPdmN2SmxyVU9xNVNaOTJaWUYyNVd2dC1DLXRHZdIBTEFVX3lxTE80NXBaMVlIRVVSLWFkNHJVLXh2bHE2Vmt4OHBwajBSSERwc3pvSS14ZENMR0ctTjBDWDU5VkUtS1hDbFBRZXl0UTlZdUY?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "賴清德擬全民普發一萬！侯友宜喊「這件事」先做到位：行有餘力才發現金 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TcWsyWEhDN3E2WEh0aW95RnhNVFZoUzdfbDhacjNMcnI0LUxfZ0VJbUdMaDd6ajh6eDJ2Wnp2eGZpaHZ4MngyWNIBTEFVX3lxTFBIcS0zSVc4SGswcGM4RWtnWkwzbnE3SEltWm1YblJzR2w3Ujl1d0xkcmgxaXpJR2JnRmF4eGVXT1dJU0o1dUNydHdBWWw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "歷年普發一次看！116年普發1萬和過去5次「這點」最不同 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GN1dSS1ZvLTQzM2F5dnBZeEZUQ0MzNnlOMDUwTnBaYnNWWklDSW9URXM0dDBEWHU1cWNWTHA1U3QyUnREdkEtN9IBTEFVX3lxTE9YVjlMbWRCRVhWLVlqOWRLQ3ByQWZEM1JhUGJ5ME82ejJPSW0yWkNyU2thWV9scjg5Umd0VU1WREJlN0JEaW5seFhwdHg?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德拍板明年普發1萬！蔡其昌「1句」球迷暴動：給你錢趕快出 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfRndzekhwLU9PUlFGcEFhdUtseHMwMUlRN2l1R012YTkwdkkyLS0wWVgzTXJpNlNIVkVIRHVJMkk2dURMbmZ3T9IBTEFVX3lxTE1OejIxVkVyeWF5T1A1bkNLRDJ0dWZVcFRwMmJaSy1SUUE0NHF1UzcybTRweFNZekw3SVpwQmgwcFBHaXB1Z2VjbHVfUWQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "除了全民普發一萬！賴清德再揭明年發展5重點：發放成長津貼、強化國防 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tdUJJWk1USTZDajlDS1FJQTdtVWtUREJsNngtYU01NXptMXdPbWM1VXFNSTg3S3A5aFdkMmFYY1lsZlpBcVFiVtIBTEFVX3lxTE5NbGVhZnAtOGpWbjFQZE5tOU5ta3kyenFPdWdpc2UtYTNOYkRZQjFoSEZnZWRicjBITUhDd0pUcTNNb21QZE1DNzI2dHA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "普發一萬何時入袋？莊瑞雄喊「明年總預算要過」：民眾期待過年前拿紅包 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85QUNNU2wtd1Fja01neEpzVkpad1BtdVlabUpsLVFrTEFaWlh0ZVBTX2xpTmZTSVhLMmcyb1R6MXBkR2d5azdUNtIBTEFVX3lxTFBYTVZnNXkxZFg5a0xPYVItNUJXUDBQelZkTm5kUlhqRVlFdjJzUjZSQ1dMZ2JBdnc1R19OTFR0S0E5N3ZaR0x2XzhJMFI?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "明年普發1萬 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aajByRUsydlBLaHRLemJrYUdyT2ZVZkItVFBoSTRmY0VrbkEyeVFBOUxrQTBiMGwwT3NaSVhoUERjZF9YcmdyRDFR?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年「普發1萬」　林楚茵：這就是和國民黨執政最大的不同 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85QTZKVDVUdzVCWkVHYS1OZHZ2Y0xoVlJjM3FlM25FbVl2WGl0TUROMU5ESF94Q196LWRPWWFnR2owdGZZWWJiYdIBTEFVX3lxTE1VYm5vMFlyQTNyUXlSU2txNFBJRzdlcFVORFgzeFc5S3FoMG5VQVZubTE3aDhScTNVMkEyRFdSTko0MW1TR1RqOUduVGs?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "示警普發一萬變「喊價爛戲」！張景森再批北宜高鐵：不如還錢給老百姓 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IdVU5U2h0NE5JWjZIVWhCY1hJSV9FdzVkaDdpLThOQ3o1VDNoVHFBM3E5VDhYNTQxX2tpV3JpNEJQaWkyRENVatIBTEFVX3lxTFBVak9DaUFZdy1hWlc3dEFVck5iN1FZTE1SOU44NFVERXdXQ2tBUUdFMUtDeV9pYTVTZ3BwSFlxWFdhM0l6c3BxNnFYY3Q?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "明年普發現金1萬元！徐巧芯挺蔣萬安喊「發兩萬」：既然要發就展現誠意 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uVFFpU2ZsS05PRXRnaVBrcU9FdHo4RllxemtOOUhyZmtvUzl1LWkwT1NrUkI3NFptZk5ORXVoMURRdldreXhaMtIBTEFVX3lxTFBhV1A5SHVpN0JWSzJvTmNsaHg1RHk3ajlwQUNqUG9Gek5IMnBQQTFRVEVHRWdjXzY5RWJhZ0VnbmRTOWNzdTVCMzhrako?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "一文看懂／賴清德宣布明年「普發1萬」　誰可領、怎麼領？重點一次看 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oMkVVak8xSjBIdTEybTdHUkdJOUFZWFJyb01xZ1BlSHotNU1QZjFmS09iWDU0MFd6MzFnNHVub2lyOTlhT2g0NtIBTEFVX3lxTE1aRmxzRkZEX1ZrcE9FUnczeXFIcWZZcUtGQjZ2NUw1YW8wZlNXWmdwZkpUd1ZJSU5fZ0NkT1gyZ1lKMWdmTVJieUpWdzc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "才要總統自掏腰包幫弱勢！賴清德宣布普發1萬　翁曉玲竟喊：精神分裂 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVV1RDSVUycmVsVkp2MEpBc05wUjVIY2JGaXlLa3BFTGVKTnJQdlhTelFLVW9jRnBwMmlfc3p2ckJfTmVJMFdKMtIBTEFVX3lxTFBFY2FKLXNyV1REbk9DYnZlMno4dWczMGhiWWI2ZFozbDNTblB3dTRUVEpfRWZVd0Jxd29aSXFtTjdWRDZEd2NqemNrQkU?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "明年普發現金一萬元！賴士葆曝「最快春節可發」：讓在野沒理由擋總預算 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLaDNtZV80Nm83cnRRMmtmWHhDejVtU1RfeWQ4XzhWTWYtMXliek5oeUFPMTNrSVNqbS0zYUJ6MlM0OTFqbXhtZdIBTEFVX3lxTE1aMWJPOHRKaXN6LUNxYjBpQ3Vrck91Wk1paFJkZlFENU1maGZydE9zY3l5Rl9rSXd1VTdqM21CM1A3YTE2VEdJNGFNeVE?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "普發1萬搞雙標？黨政人士曝「關鍵差異」：經濟成長果實全民共享 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6UEY1d2l0Z0hCODdfclQzb0VPbUVlNGVMazFvRzdCMHNpSDVaWjY1cVRBYldMUEZ5aTJlZkZOLUtsX3FOdFZLVdIBTEFVX3lxTE1MSzB5d1IzdzFoUzdYZGNEYUFMN1V3VU9ER3FQaUR4dXJUOW9nRU1FOUNwT2pUQU5EcmtNR2h2U1N6TnFISmZTM3NTXzc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "明年普發1萬時台股站上5萬5？ 分析一次看 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpdVc0TTRhbHZLSDk5QnZOdGZDSzFaZmp2U053LVJrMFN0d2V2ZVZJbUZrdTRNMm10dmNJSGhNX0dDV3MtcURSYWtDYw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "蔣萬安酸應普發2萬　吳思瑤：北市賸餘539億「足夠發給市民一人兩萬」 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3ZHlpM3l6aWQ5WDhucUxWTlhHNk1QVl8yUnZqNkpUdUxWcnYyTzNMMjM0X05RMEJiaGljMURtaW5iOWJ4WjR1UNIBTEFVX3lxTE1GY3d0c2pObV81RDE2Q1RMRC1zc3FHakxMRTg4SmhSc3I2YW5mT21PejFOZy1TeXNDaUlNbEZSOWdvYkJRTHhjWXR0R0w?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德拍板明年普發1萬！ 發放時程與方式財政部8／20揭曉 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGd3FSZXBYb0s2ZTN2LTMtUFJPeF91SlhBWVRieVd5ZXpTdnNENXl4T2JGX0VIbTY0Q2VjbG1pSlc4OGUxZGV1alFwOA?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德推AI紅利 全民共享普發1萬！「這國家」5月即拋類似分紅藍圖 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00NnhzMkVlenNiYzFVSmhhZHhlTHJQcnktc25xd05wT1JQclJtbTRTd1htUGhJZDNBZ1BjdlRfV0oycUFsVTQ0VWl2Yw?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "蔣萬安喊「應普發2萬元」 議員：台北市敢不敢自己加碼？不要只出一張嘴 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BUFByd1pWaG0xOWRuRFRxZUVOOXVGNXViRXNXWDRHRjVSNmkzOENmV1NNR2c1dnBNT2ZPbXdhODFsZXVvR2l3dNIBTEFVX3lxTE5ZaFo5LXRaYkNUa0EzQjEyODREQ28wZENHM3ZoYnFPUGJkVGpkRHdVbXdYTllBdTEtbkl5eUxoNnJRbUdLVE4tVExNblo?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "蔣萬安喊話「普發2萬元」！綠營大酸：建議別當市長，可以去菜市場賣菜 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PdXhlektvdTgyQmFuaEl0T3hQOEprWHdKeGgtVFVGajNQN1QyRFNWbVhqME1qWWtXTnJ2QVh2aG94bGxSZzdObtIBTEFVX3lxTE1mdHJCUmVQU2hUSExSOW82bWpOQVJQTzh3eDdHTllVLV9ZODM5RTFkb0ZrNzc0MlJWcVFLV01MTDlKb2dsN1RMdDRWdmo?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "明年再普發一萬！蘇巧慧：發放五次全民共享金　證明經濟治理能力最佳 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjbFJHSzZwbkRsenRGNkJVdEk3ZUhyRkxrMHJvUDlwRlRkSnJqeFdmVV8taTFfdVF6cGZpaDBiSkx1Z3QxdGN4YdIBTEFVX3lxTE03MDY0VVd2Y3U1QzlsUVg1c2EtZklnemEyT29HZm15WTdSa2VXakZKM3VpUHZjOE1EWl81eG1mYW5DVWZiRlRnbjlRc3E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "AI紅利台北也有拿到　簡舒培敲碗：蔣萬安普發2萬！不要蓋牌 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xS2tYOGprREJMS3NsOVFfLUhwQXhMVFdrWjdhWWtBQTJOTmNJRjdnZ3B2QVlIMGpXRFVKXzNHUzVOVXFYQ1AtZtIBTEFVX3lxTE5FdzlvX3p0dFVxVFh5NlRaRFhsYUlfNDZnZC0zX3ZPUHdsNlNrdGp0bU5RazhHZE9VdTBOMzV3c3o1MnJEZkJDNnowMlQ?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "蔣萬安酸賴清德應普發2萬　顏若芳翻北市府拒絕發錢：政治巨嬰！雙標 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iR3Y1bE5zdGEyd0ZBU3JPWmg0dEtaaFJKLTEzaUw0QVpVMnhWeVllZGJTQnJmMWZmalBwZFcyUkh6aTdpRTNOTtIBTEFVX3lxTE1KTU9IbTl1cldMRjBER0NzVzRHZ0dQYjZFYVZoSHZJYlhKT2xJN29uNUxtLUJMRFBuRVQ2VDV1OVVEeU1iMTZ0T1ZPS0E?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德拍板明年普發1萬　賴瑞隆宣布捐作公益：將這份支持轉化為溫暖 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92U1luLW1YMGN1TmNpVXlXQ1owQmppQUFJNml3YUdURlQ5SXF0NFNjcXl0bzZGWS1aY2s2dFY4TVZ0bElQM19faNIBTEFVX3lxTE5VQWN4c21QSVU3Z1Y5VE1wZEtHWjV0NkQyd1UwT2hqNHQ4LUZmVWpQdGRIa3M2UDc0M2Y3WnhVdWxoS0QwTmxBNE05UWk?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-18",
+      "title": "近四年內第三次發放現金！王婉諭曝這些理由：不管誰喊普發我都反對 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Ocmp4ZWtuVFF0clhDeEh3MVlFN2QtUDZ0akJRc3QxRVUzWHNSMDhhNk9JVGo3djFxZUdCWHAtenVLUmVkSWpIS9IBTEFVX3lxTFBHMmZ6WTVodm10RWl3OWtyX0x3NTFlNDBkQmRtUE9VVE1qRE80SHowV0Z3SlAyeGxibW4ySVJKaUhjWFNBUG4wNzJwYXI?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "藍白反對普發一萬元？國民黨稱賴清德「雙標」　民眾黨：這是不是窮台？ - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lT01oVjZUWlIxenlpUzNtZzExei01UEh0cEV3WHROT0c1SFFWZVV6R1lIUkV1T1dVOW00VlZzOXcweWlSM0NwZdIBTEFVX3lxTE9yVW1aaG5mc2xUVlBLUjZnc0VWU0hVQ1R5SWpsVVhCa01VQVNNYXNnaVF2cl9LQVNJTnp0aS1LbmdIVm5qS2c0enpTZWI?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "不只中央發1萬　莊競程宣布加碼：若當選推動「新竹市民普發1萬元」 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90VC1WWm5VZ1dpczd0dF9mbGJaLUpjQVJJdkRGb2d1enhYTThaRWp0VmdNelZuVk1GMENlYVhManNCUkhQOUZyStIBTEFVX3lxTE5GMllQRFpfVTU1Ri1iN25RcDYxVXhBajNfUk1peTRIMTV2RGF1d3NxZVNXZmVjYVA1Ukd0dXVDNUo0UTZLanlTcHZrMk0?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布明年普發現金1萬　蔣萬安酸：應該普發2萬！不然買個菜就沒了 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zRjRTb2h5VWlueDhqTXo1anlwYnNlelV3QmRvYlVNRnpGMkIweE9JRWhlVVRYQTl1MmVTYkk0TnR1ejA4SkY0Z9IBTEFVX3lxTE1DSFVyckthVW9JVGZGYTJZYy0zeDN1ajFfYXJzbzgyU2JjZ1Rnejh5NzdfZ013U0sxam5BanNTakp4Wl9UczhDVGx0RU4?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "快訊／經濟成長飆39年新高！賴清德拍板：明年全民普發1萬元現金 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xbnBfRnFLeDMwbkVhZFVfYTFSTU5HNWZCcDM1VWFKamN5bS1jUGp2LWNOR2oxSWM4QW1XWlVDYmpweWRfYXlKNtIBTEFVX3lxTE9vWFRQUmZuY0xKbG9wSWtRZGF1MGJKamc2V0hzQ3B5eElJaXNoNlc0TjUyb2xkdHNUc1pOV2lYcTRwcWZENENGa25HbVM?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "賴清德宣布普發現金1萬元　她喊：終於想通了！不用在那邊誰比誰清高 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12S1RFeGNQeWJmRlNfajhuVVBSWTVvX0xCajlCelRJRU1GSHhMLVI0ODFzLUxYZkxVVkgtbXNhU2UtT0FDU3hOVtIBTEFVX3lxTE9RNldhWXRWc2N0UFZOQk9KRmJmUGo4S3VwMkY1ZjQ2T01fM1NySVM4dUs1X1d1bTJsYmQ0emtJMTB5NTBoMHFLSzFkUTc?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "吳欣岱表態反對普發現金　痛批藍綠將納稅錢當「政黨紅包」 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ac3Nfc0ZVbDBwM01yWjRNY202cXNEcll3bDhJcXI3cWNEclJNYTI0MU9VSS00ZGM4dGhwdkdjZFo2UFBVUExycdIBTEFVX3lxTE1sclFrQkdsYWg3YmxwMlZmX09iRGZBUTI4UENxMXVUNy0wLWRrTVRiRzh2N1dZNVdsdWRIQVBjczI4WjJjLVRTcTJOd28?oc=5",
+      "url_kind": "Google News 導向原文"
+    },
+    {
+      "period": "2026 綠政府主動",
+      "outlet": "三立新聞網",
+      "date": "2026-08-17",
+      "title": "陳其邁支持普發現金1萬元　籲國會速審總預算案 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zeE4tclhvYjhZbmFtZmNKTTBBT2ZaZXc5VWxVRFFCMUdTMzhkcnlRZTh5YnBMUzlhZ1lxWVBrcm5PbzVWY2pSQdIBTEFVX3lxTE9xandsT09hM1RsQXhINVBCRDYzQlR0M1VwdTNoNC00REowSkJsNnpKSDM5UnZERFd2MHpDdEVLY1hVVnpkRU43QXhtUXg?oc=5",
+      "url_kind": "Google News 導向原文"
+    }
+  ]
+}

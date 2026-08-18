@@ -169,6 +169,10 @@ macOS Keychain（CWA API token）──> fetch_weather.py
 
 `data.axes` 定義比較維度（列），`data.subjects` 是各家媒體（欄），`subjects[].fields[axis.key]` 填內容。`tone` 可填 `neutral` / `supportive` / `critical` / `mixed`，顯示為色塊。`takeaway` 是你的結論。
 
+新聞比較模組若使用抓取或檢索樣本，必須另存逐則來源 manifest，至少包含 `outlet`、`date`、`title`、`url`，並在模組的 `source_manifest` 指向該檔案及標示筆數。聚合篇數不能取代逐則鏈結；沒有留存鏈結的頁面不可納入量化或質化結論。
+
+`build.py` 會對已發布且帶有「媒體比較」標籤的模組執行上述檢查。`source_manifest_legacy: true` 只用來標記規格訂定前、來源已無法完整回補的舊模組；不可用於新模組。
+
 ### type: `list`（並列清單）
 
 `data.columns[]`，每欄一個媒體，`items[].text` + `items[].meta`（分類標籤）。適合 YouTube 選題比較。
@@ -217,6 +221,8 @@ card-foot   note（左） | fetched_at + source（右）
 ≤1000px 時保留左側即時頻道與右側其他頻道兩欄，兩條其他資料流在右欄上下銜接；≤640px 時改為單欄，先顯示全部即時資料，再顯示其他頻道。模組的 `size` 欄位仍保留於 schema，但主畫面頻道內的卡片一律占滿所在欄寬；寬內容在詳細閱讀彈窗展開。
 
 卡片內容的基準行高為 `1.4`（頁面其他區域維持 `body` 的 `1.55`），以支援高資訊密度而不縮小文字。新增卡片專屬文字樣式時，除非可讀性另有需求，應沿用這個密度。
+
+視覺皮膚保留原始儀表板的中性淺灰背景、白色卡片與藍色重點色；明朝體只用於品牌、頻道與卡片標題，正文與數字仍維持高辨識度字體。這層 styling 不新增文案、版位或資料，不能改變三頻道瀑布流與簡要模式的資訊密度。
 
 ### 全站簡要呈現
 
@@ -368,6 +374,8 @@ NIDSS 已納入中央自動化，每日 08:10 檢查；只有完整週資料或�
 
 實務要點：
 
+- **逐則鏈結是必要資料，不是附註。** 每一則實際納入判讀的新聞都要保存媒體、日期、標題與可點擊網址；Google News 等中介索引只能在無法取得原始網址時使用，並須標明連結類型。卡片詳細閱讀要能依觀察期與媒體展開清單，讓讀者逐則回查。
+
 - **自由時報是唯一能精確清點的。** 有日期區間參數，`page` 分頁可窮舉，總數可信。
 - **聯合報只能取下限。** 搜尋頁與標籤頁各 20 筆、內容不完全重疊，去重後可得 20–25 筆。要精確得走聯合知識庫（`udndata.com`，付費）。報告裡務必寫成「≥N」。
 - **中央社不需分頁**，單次請求就涵蓋數月，直接依日期篩選即可。但它是通訊社，**稿件會被他報轉載**（本次聯合報至少 1 篇標題與中央社一字不差），用篇數比較會系統性低估其影響力——這點要寫進模組 `note`。
@@ -405,12 +413,13 @@ NIDSS 已納入中央自動化，每日 08:10 檢查；只有完整週資料或�
 | `cdc-flu-severe-weekly` | delta | ✅ 真實（NIDSS） | ⬜ 待核閱 | 🤖 同上。判讀時務必看「檢驗中病例數」 |
 | `lottery-jackpots` | lottery | ✅ 真實（台灣彩券 API） | ⬜ 待核閱 | 🤖 **抓取器擁有，勿手改**。日期字樣由前端即時計算 |
 | `fu-kunchi-absence` | compare | ✅ 真實（2026-08-12 實查） | ⬜ 待核閱 | 底稿見 `analysis/2026-08-12-fu-kunchi-agenda-setting.md` |
+| `universal-cash-media-framing` | compare | ✅ 真實（2025／2026 跨年實查） | ⬜ 待核閱 | 比較藍白在野推動與綠政府主動提案時的五家媒體框架；底稿見 `analysis/2026-08-18-universal-cash-media-framing.md` |
 | `weather-taipei` | delta | ✅ 真實（中央氣象署） | ⬜ 待核閱 | 🤖 **抓取器擁有，勿手改**。臺北測站逐時觀測＋中正區逐 3 小時預報 |
 | `twse-index` | delta | ✅ 真實（臺灣證券交易所 OpenAPI） | ⬜ 待核閱 | 🤖 **抓取器擁有，勿手改**。休市日保留最近交易日 |
 | `yt-topics-daily` | list | ❌ 假資料 | — | |
 | `editor-note` | note | — | ✅ 已核閱 | 平台自我說明，內容不隨資料變動 |
 
-五種 renderer 型別目前都有實際模組在用：`delta`×4、`compare`×1、`list`×1、`note`×1、`lottery`×1。`build.py` 會擋掉 `status` 非 `published` 的模組，目前沒有 draft。
+五種 renderer 型別目前都有實際模組在用：`delta`×4、`compare`×2、`list`×1、`note`×1、`lottery`×1。`build.py` 會擋掉 `status` 非 `published` 的模組，目前沒有 draft。
 
 ## Pending Tasks (待辦事項)
 
@@ -419,6 +428,8 @@ NIDSS 已納入中央自動化，每日 08:10 檢查；只有完整週資料或�
 - [ ] **決定疫情模組的比較基準**：目前主打「對前三週平均」（+50.0%），但「對前一週」是 +15.5%。要哪個當主要數字？
 - [ ] 疫情模組核閱後把 `review.reviewed` 改 `true`——但這是**每週要做一次**的動作，不是一次性的（見下方說明）
 - [ ] `fu-kunchi-absence` 核閱後把 `review.reviewed` 改 `true`
+- [ ] `universal-cash-media-framing` 核閱後把 `review.reviewed` 改 `true`
+- [ ] 回補 `fu-kunchi-absence` 的逐則新聞來源 manifest；目前舊底稿只有搜尋頁與部分代表稿連結，不符合新訂的逐則鏈結規格
 - [ ] 填入各台 YouTube 選題模組的真實影片標題
 - [ ] 考慮把疫情模組的 `series` 從 12 週拉長到 52 週（流感有明顯季節性，短序列看不出來）
 - [ ] 考慮把「累計死亡」做成第二個 metric（目前只寫在 `note` 裡）

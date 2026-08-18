@@ -26,10 +26,56 @@ TPE = timezone(timedelta(hours=8))
 VALID_TYPES = {"delta", "compare", "list", "note", "lottery"}
 VALID_STATUS = {"published", "draft", "archived"}
 REQUIRED = ["id", "title", "type", "updated"]
+NEWS_SOURCE_REQUIRED = ["outlet", "date", "title", "url"]
 
 
 class ModuleError(Exception):
     pass
+
+
+def validate_news_source_manifest(mod: dict) -> None:
+    """媒體比較的證據必須能逐則回查；舊模組只能顯式標記為待回補。"""
+    if mod["type"] != "compare" or "媒體比較" not in mod.get("tags", []):
+        return
+
+    manifest_ref = mod.get("source_manifest")
+    if not manifest_ref:
+        if mod.get("source_manifest_legacy") is True:
+            return
+        raise ModuleError("媒體比較模組缺少 source_manifest；不可只保存聚合篇數")
+
+    path_text = manifest_ref.get("path")
+    expected_count = manifest_ref.get("count")
+    if not path_text or not isinstance(expected_count, int) or expected_count < 1:
+        raise ModuleError("source_manifest 必須包含 path 與大於 0 的 count")
+
+    manifest_path = (ROOT / path_text).resolve()
+    try:
+        manifest_path.relative_to(ROOT.resolve())
+    except ValueError:
+        raise ModuleError("source_manifest.path 必須位於專案目錄內")
+    if not manifest_path.is_file():
+        raise ModuleError(f"找不到逐則來源檔：{path_text}")
+
+    try:
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        raise ModuleError(f"逐則來源檔 JSON 格式錯誤：{e}")
+
+    articles = manifest.get("articles")
+    if not isinstance(articles, list) or not articles:
+        raise ModuleError("逐則來源檔的 articles 必須是非空陣列")
+    if manifest.get("module_id") != mod["id"]:
+        raise ModuleError("逐則來源檔 module_id 與模組 id 不一致")
+    if manifest.get("count") != len(articles) or expected_count != len(articles):
+        raise ModuleError("source_manifest、來源檔 count 與 articles 實際筆數不一致")
+
+    for index, article in enumerate(articles, start=1):
+        missing = [field for field in NEWS_SOURCE_REQUIRED if not article.get(field)]
+        if missing:
+            raise ModuleError(f"逐則來源第 {index} 筆缺少欄位：{', '.join(missing)}")
+        if not str(article["url"]).startswith(("https://", "http://")):
+            raise ModuleError(f"逐則來源第 {index} 筆 url 不是 http(s) 網址")
 
 
 def validate(mod: dict, path: Path) -> dict:
@@ -59,6 +105,8 @@ def validate(mod: dict, path: Path) -> dict:
     mod.setdefault("pinned", False)
     mod.setdefault("order", 100)
     mod.setdefault("data", {})
+    if status == "published":
+        validate_news_source_manifest(mod)
     return mod
 
 
