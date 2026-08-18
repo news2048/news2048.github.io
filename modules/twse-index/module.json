@@ -1,0 +1,76 @@
+{
+  "id": "twse-index",
+  "title": "台股加權指數",
+  "subtitle": "8/17 收盤 vs 8/14 收盤",
+  "type": "delta",
+  "status": "published",
+  "updated": "2026-08-17",
+  "tags": [
+    "每日",
+    "股市"
+  ],
+  "size": "s",
+  "pinned": true,
+  "order": 20,
+  "sample": false,
+  "source": {
+    "name": "臺灣證券交易所 OpenAPI－集中市場每日市場成交資訊",
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/FMTQIK"
+  },
+  "review": {
+    "reviewed": false,
+    "by": "",
+    "at": ""
+  },
+  "note": "採臺灣市場慣例配色：紅漲綠跌。資料為證交所最近交易日收盤值；週末、休市日或開盤前執行時，日期會保留在最近交易日。成交金額由 API 原始元數換算為億元。",
+  "data": {
+    "unit": "",
+    "scheme": "market-tw",
+    "polarity": "neutral",
+    "metrics": [
+      {
+        "label": "加權指數",
+        "current": 45857.27,
+        "previous": 45811.01,
+        "current_label": "8/17 收盤",
+        "previous_label": "8/14 收盤",
+        "period_label": "前一交易日",
+        "mode": "percent",
+        "series": [
+          43360.66,
+          44611.6,
+          44396.7,
+          44225.91,
+          44928.76,
+          45120.72,
+          45518.07,
+          46021.48,
+          45811.01,
+          45857.27
+        ]
+      },
+      {
+        "label": "成交金額（億元）",
+        "current": 9810.55,
+        "previous": 11097.47,
+        "current_label": "8/17 收盤",
+        "previous_label": "8/14 收盤",
+        "period_label": "前一交易日",
+        "mode": "percent",
+        "series": [
+          10870.46,
+          12002.13,
+          9740.55,
+          8508.15,
+          8804.41,
+          9020.52,
+          8926.6,
+          11040.25,
+          11097.47,
+          9810.55
+        ]
+      }
+    ]
+  },
+  "fetched_at": "2026-08-18 06:11"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "yt-topics-daily",
+  "title": "各台 YouTube 今日選題",
+  "subtitle": "民視 × 三立 × TVBS × 中天",
+  "type": "list",
+  "status": "published",
+  "updated": "2026-08-12",
+  "tags": ["每日", "媒體比較", "YouTube"],
+  "size": "l",
+  "pinned": false,
+  "order": 60,
+  "sample": true,
+  "source": { "name": "各台 YouTube 頻道", "url": "" },
+  "review": { "reviewed": false, "by": "", "at": "" },
+  "note": "版型示範。建議固定抓各台當日前 5 支影片標題，人工分類後填入 meta 欄位。",
+  "data": {
+    "question": "同一天，各家電視台在 YouTube 上把資源放在哪些題目？",
+    "columns": [
+      {
+        "name": "民視新聞",
+        "url": "",
+        "items": [
+          { "text": "（待填入影片標題）", "meta": "政治" },
+          { "text": "（待填入影片標題）", "meta": "社會" },
+          { "text": "（待填入影片標題）", "meta": "民生" }
+        ]
+      },
+      {
+        "name": "三立新聞",
+        "url": "",
+        "items": [
+          { "text": "（待填入影片標題）", "meta": "政治" },
+          { "text": "（待填入影片標題）", "meta": "國際" },
+          { "text": "（待填入影片標題）", "meta": "社會" }
+        ]
+      },
+      {
+        "name": "TVBS 新聞",
+        "url": "",
+        "items": [
+          { "text": "（待填入影片標題）", "meta": "民生" },
+          { "text": "（待填入影片標題）", "meta": "社會" },
+          { "text": "（待填入影片標題）", "meta": "政治" }
+        ]
+      },
+      {
+        "name": "中天新聞",
+        "url": "",
+        "items": [
+          { "text": "（待填入影片標題）", "meta": "政治" },
+          { "text": "（待填入影片標題）", "meta": "娛樂" },
+          { "text": "（待填入影片標題）", "meta": "社會" }
+        ]
+      }
+    ],
+    "takeaway": "（待填入你的觀察結論。）"
+  }
+}

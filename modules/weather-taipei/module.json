@@ -1,0 +1,48 @@
+{
+  "id": "weather-taipei",
+  "title": "台北氣溫",
+  "subtitle": "臺北測站 8/18 14:00",
+  "type": "delta",
+  "status": "published",
+  "updated": "2026-08-18",
+  "tags": [
+    "每日",
+    "天氣"
+  ],
+  "size": "s",
+  "pinned": true,
+  "order": 10,
+  "sample": false,
+  "source": {
+    "name": "中央氣象署開放資料平臺",
+    "url": "https://opendata.cwa.gov.tw/"
+  },
+  "review": {
+    "reviewed": false,
+    "by": "",
+    "at": ""
+  },
+  "note": "氣溫與濕度取自臺北測站（466920）逐時觀測；溫差比較同一測站昨天相同整點。降雨資訊取自臺北市中正區逐 3 小時預報；顯示的是預報時段與機率，不代表該時段必然下雨。",
+  "data": {
+    "unit": "°C",
+    "scheme": "thermal",
+    "polarity": "neutral",
+    "observed_at": "2026-08-18T14:00:00+08:00",
+    "previous_observed_at": "2026-08-17T16:00:00+08:00",
+    "metrics": [
+      {
+        "label": "目前氣溫",
+        "current": 32.8,
+        "previous": 32.9,
+        "current_label": "目前",
+        "previous_label": "昨天 16:00",
+        "mode": "absolute"
+      }
+    ],
+    "context": [
+      "目前濕度 62%（多雲）",
+      "今日暫無含雨時段，未來時段最高降雨機率 20%"
+    ]
+  },
+  "fetched_at": "2026-08-18 15:07"
+}

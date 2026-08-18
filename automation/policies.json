@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "timezone": "Asia/Taipei",
+  "daily_check_time": "08:10",
+  "jobs": [
+    {
+      "id": "weather-daily",
+      "label": "臺北氣象",
+      "runner": "fetch_weather",
+      "module_ids": [
+        "weather-taipei"
+      ],
+      "schedule": {
+        "type": "iso_weekdays",
+        "days": [1, 2, 3, 4, 5, 6, 7],
+        "description": "每日 08:10，更新臺北測站觀測與中正區降雨預報"
+      }
+    },
+    {
+      "id": "lottery-results",
+      "label": "台彩累積獎金",
+      "runner": "fetch_lottery",
+      "module_ids": [
+        "lottery-jackpots"
+      ],
+      "schedule": {
+        "type": "iso_weekdays",
+        "days": [1, 2, 3, 4, 5, 6, 7],
+        "description": "每日 08:10 檢查；有新開獎結果才更新"
+      }
+    },
+    {
+      "id": "nidss-weekly",
+      "label": "NIDSS 疫情週報",
+      "runner": "fetch_nidss",
+      "module_ids": [
+        "cdc-covid-weekly",
+        "cdc-flu-severe-weekly"
+      ],
+      "schedule": {
+        "type": "iso_weekdays",
+        "days": [1, 2, 3, 4, 5, 6, 7],
+        "description": "每日 08:10 檢查；避開 NIDSS 清晨更新前的舊快照"
+      }
+    },
+    {
+      "id": "twse-daily",
+      "label": "台股加權指數",
+      "runner": "fetch_twse",
+      "module_ids": [
+        "twse-index"
+      ],
+      "schedule": {
+        "type": "iso_weekdays",
+        "days": [1, 2, 3, 4, 5, 6, 7],
+        "description": "每日 08:10 檢查；有新的交易日收盤資料才更新"
+      }
+    }
+  ],
+  "module_policies": {
+    "yt-topics-daily": {
+      "mode": "pending",
+      "cadence": "每日",
+      "reason": "目前仍是範例資料，且需要人工分類影片主題"
+    },
+    "fu-kunchi-absence": {
+      "mode": "one_time",
+      "cadence": "一次性",
+      "reason": "事件型媒體比較已結案；除非重新開啟研究，不自動更新"
+    },
+    "editor-note": {
+      "mode": "static",
+      "cadence": "靜態",
+      "reason": "平台說明不依外部資料變動"
+    }
+  }
+}

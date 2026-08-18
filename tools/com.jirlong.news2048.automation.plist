@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- 每天 06:00 啟動中央排程器；各模組是否執行由 automation/policies.json 決定。 -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.jirlong.news2048.automation</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/jirlong/Library/CloudStorage/Dropbox/Programming/news2048/tools/automation_daily.sh</string>
+  </array>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key><integer>6</integer>
+    <key>Minute</key><integer>0</integer>
+  </dict>
+
+  <key>ProcessType</key>
+  <string>Background</string>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/jirlong/Library/Logs/news2048-automation.launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/jirlong/Library/Logs/news2048-automation.launchd.err.log</string>
+</dict>
+</plist>

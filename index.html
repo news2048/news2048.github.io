@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>news2048</title>
+<meta name="description" content="以「變化量」為核心的新聞儀表板">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="assets/css/dashboard.css?v=20260814-weather-context">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="wrap head-inner">
+    <div class="brand">
+      <h1>news2048</h1>
+      <p class="tagline">今天跟昨天比，哪些數字動了</p>
+    </div>
+    <div class="build-info">
+      <span class="current-date" id="current-date">—</span>
+      <span id="build-time">—</span>
+      <span id="build-count"></span>
+      <a class="management-link" href="automation.html">自動化管理</a>
+    </div>
+  </div>
+</header>
+
+<nav class="filter-bar">
+  <div class="wrap filter-inner">
+    <div class="chips" id="tag-filters"></div>
+    <label class="toggle">
+      <input type="checkbox" id="hide-sample">
+      <span>隱藏範例資料</span>
+    </label>
+    <label class="toggle">
+      <input type="checkbox" id="compact-all" checked>
+      <span>簡要呈現</span>
+    </label>
+  </div>
+</nav>
+
+<main class="wrap">
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>沒有符合條件的模組。</p>
+</main>
+
+<div class="detail-modal" id="detail-modal" hidden>
+  <div class="detail-modal-backdrop" data-close-modal></div>
+  <section class="detail-modal-panel" role="dialog" aria-modal="true" aria-labelledby="detail-modal-title">
+    <div class="detail-modal-head">
+      <h2 id="detail-modal-title">詳細閱讀</h2>
+      <button class="detail-modal-close" type="button" aria-label="關閉詳細閱讀" data-close-modal>×</button>
+    </div>
+    <div class="detail-modal-content" id="detail-modal-content"></div>
+  </section>
+</div>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <p>模組資料存放於 <code>modules/&lt;id&gt;/module.json</code>，執行 <code>python3 tools/build.py</code> 後產生 <code>data/dashboard.json</code>。</p>
+  </div>
+</footer>
+
+<script src="assets/js/app.js?v=20260814-weather-context"></script>
+</body>
+</html>

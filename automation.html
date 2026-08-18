@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>自動化管理｜news2048</title>
+<meta name="description" content="news2048 模組自動更新政策與執行狀態">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="assets/css/dashboard.css?v=20260814-automation">
+<link rel="stylesheet" href="assets/css/automation.css?v=20260814-automation">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="wrap automation-head-inner">
+    <div class="brand">
+      <a class="back-link" href="index.html">← 回儀表板</a>
+      <h1>自動化管理</h1>
+      <p class="tagline">每天 08:10 檢查；逐項標示已更新、來源未變或失敗</p>
+    </div>
+    <div class="automation-head-meta">
+      <span id="automation-current-date">—</span>
+      <span id="automation-generated-at">狀態尚未載入</span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap automation-main">
+  <section class="automation-summary" aria-labelledby="summary-title">
+    <h2 id="summary-title" class="visually-hidden">執行摘要</h2>
+    <div class="summary-cell">
+      <span class="summary-label">最近執行</span>
+      <strong id="last-run-status">—</strong>
+      <span id="last-run-time">—</span>
+    </div>
+    <div class="summary-cell">
+      <span class="summary-label">今天應執行</span>
+      <strong id="due-job-count">—</strong>
+      <span>個 job</span>
+    </div>
+    <div class="summary-cell">
+      <span class="summary-label">本次資料變更</span>
+      <strong id="changed-module-count">—</strong>
+      <span>個模組</span>
+    </div>
+    <div class="summary-cell">
+      <span class="summary-label">待接自動化</span>
+      <strong id="pending-module-count">—</strong>
+      <span>個模組</span>
+    </div>
+  </section>
+
+  <section class="automation-section" aria-labelledby="today-plan-title">
+    <div class="section-heading">
+      <div>
+        <h2 id="today-plan-title">今日判斷</h2>
+        <p id="last-run-summary">載入中…</p>
+      </div>
+      <code>每日 08:10 Asia/Taipei</code>
+    </div>
+    <div class="automation-table-scroll">
+      <table class="automation-table">
+        <thead>
+          <tr><th>工作</th><th>管理模組</th><th>規則</th><th>今日</th><th>最近成功</th></tr>
+        </thead>
+        <tbody id="job-rows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="automation-section" aria-labelledby="module-policy-title">
+    <div class="section-heading">
+      <div>
+        <h2 id="module-policy-title">所有模組政策</h2>
+        <p>氣象、疾病、加權指數與彩券每日檢查；靜態、一次性與待接模組不會被修改。</p>
+      </div>
+    </div>
+    <div class="automation-table-scroll">
+      <table class="automation-table module-policy-table">
+        <thead>
+          <tr><th>模組</th><th>政策</th><th>頻率</th><th>今天的決定</th><th>資料時間</th></tr>
+        </thead>
+        <tbody id="module-rows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="automation-section log-section" aria-labelledby="execution-log-title">
+    <div class="section-heading">
+      <div>
+        <h2 id="execution-log-title">最近執行紀錄</h2>
+        <p id="log-file-path">—</p>
+      </div>
+      <code>bash tools/automation_daily.sh</code>
+    </div>
+    <pre id="execution-log">尚無執行紀錄。</pre>
+  </section>
+
+  <p class="automation-note">此頁為唯讀狀態頁。排程政策請修改 <code>automation/policies.json</code>；網頁不直接執行本機命令，以維持完全靜態架構。</p>
+  <div class="automation-error" id="automation-error" hidden></div>
+</main>
+
+<script src="assets/js/automation.js?v=20260814-automation"></script>
+</body>
+</html>

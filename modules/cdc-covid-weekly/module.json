@@ -1,0 +1,57 @@
+{
+  "id": "cdc-covid-weekly",
+  "title": "新冠併發重症",
+  "subtitle": "上週病例共 69 案，相較於前三週平均數 △8.33",
+  "type": "delta",
+  "status": "published",
+  "updated": "2026-08-18",
+  "tags": [
+    "每週",
+    "疫情"
+  ],
+  "size": "s",
+  "pinned": true,
+  "order": 30,
+  "sample": false,
+  "source": {
+    "name": "衛福部疾管署 傳染病統計資料查詢系統（NIDSS）",
+    "url": "https://nidss.cdc.gov.tw/nndss/Disease?id=19SC"
+  },
+  "review": {
+    "reviewed": false,
+    "by": "",
+    "at": ""
+  },
+  "note": "上週為 2026 年第 32 週；前三週平均 60.67 案。今年累計 379 案、累計死亡 47 例。本週（第 33 週）目前 6 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+  "data": {
+    "unit": "案",
+    "scheme": "semantic",
+    "polarity": "higher-is-bad",
+    "metrics": [
+      {
+        "label": "上週確診病例數（第 32 週）",
+        "current": 69,
+        "previous": 60.67,
+        "current_label": "第 32 週",
+        "previous_label": "前三週平均",
+        "period_label": "前一週",
+        "mode": "absolute",
+        "series": [
+          2,
+          3,
+          5,
+          3,
+          11,
+          15,
+          15,
+          32,
+          44,
+          60,
+          78,
+          69
+        ]
+      }
+    ]
+  },
+  "fetched_at": "2026-08-18 15:06"
+}

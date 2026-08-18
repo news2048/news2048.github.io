@@ -1,0 +1,24 @@
+{
+  "id": "editor-note",
+  "title": "編輯台說明",
+  "subtitle": "這個儀表板是什麼",
+  "type": "note",
+  "status": "published",
+  "updated": "2026-08-12",
+  "tags": ["說明"],
+  "size": "m",
+  "pinned": false,
+  "order": 90,
+  "source": { "name": "", "url": "" },
+  "review": { "reviewed": true, "by": "jirlong", "at": "2026-08-12" },
+  "note": "",
+  "data": {
+    "body": [
+      "news2048 是一個以「變化量」為核心的新聞儀表板。它不重複既有媒體的即時報導，而是回答一個更基本的問題：**今天跟昨天比，哪些數字動了、動了多少。**",
+      "每張卡片是一個獨立模組，資料存在 `modules/<id>/module.json`。指標型模組（天氣、股市、疫情）結構固定；議題型模組（媒體比較）則是人工檢視後才掛上來，卡片右上角會標示是否已經人工核閱。",
+      "帶有「範例資料」標籤的卡片表示內容尚未填入真實資料，僅供版型示範。"
+    ],
+    "image": "",
+    "image_caption": ""
+  }
+}

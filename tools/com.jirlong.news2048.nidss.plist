@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  每週一 10:07 打撈 NIDSS 新冠／流感併發重症數字。
+
+  為什麼是 10:07 而不是 10:00：整點是所有排程任務的塞車時段，
+  錯開幾分鐘對這個任務毫無影響。
+
+  Weekday 1 = 星期一。若當時 Mac 在睡眠，launchd 會在喚醒後補跑一次
+  （這正是我們要的行為：寧可晚幾小時，也不要整週漏掉）。
+
+  安裝：
+    cp tools/com.jirlong.news2048.nidss.plist ~/Library/LaunchAgents/
+    launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.jirlong.news2048.nidss.plist
+
+  立刻試跑一次：
+    launchctl kickstart -p gui/$(id -u)/com.jirlong.news2048.nidss
+
+  移除：
+    launchctl bootout gui/$(id -u)/com.jirlong.news2048.nidss
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.jirlong.news2048.nidss</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/jirlong/Library/CloudStorage/Dropbox/Programming/news2048/tools/nidss_weekly.sh</string>
+  </array>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key><integer>1</integer>
+    <key>Hour</key><integer>10</integer>
+    <key>Minute</key><integer>7</integer>
+  </dict>
+
+  <!-- 腳本自己寫 ~/Library/Logs/news2048-nidss.log，
+       這兩個只收 launchd 本身的錯誤（例如找不到 bash）。 -->
+  <key>StandardErrorPath</key>
+  <string>/tmp/news2048-nidss.launchd.err</string>
+  <key>StandardOutPath</key>
+  <string>/tmp/news2048-nidss.launchd.out</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>
