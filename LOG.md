@@ -70,4 +70,5 @@
 - [15:08] 將四類資料的每日 Codex Schedule 改為 08:10，避開 NIDSS 07:35 更新前的舊快照；補跑當日資料並修正氣象短期歷史快照的兩小時窗口與前日排程快照沿用邏輯（使用 skill: openai-docs）。
 - [15:09] 評估資料更新架構：建議保留靜態前端，以雲端排程依來源頻率重建並部署 JSON；在需要帳號、個人化或秒級資料前，不引入完整後端。
 - [15:14] 準備首次發布至 news2048 organization 的 GitHub Pages repository `news2048.github.io`；確認遠端僅有 README、Pages 已啟用且由 main 根目錄發布（使用 skill: github:yeet）。
+- [15:16] 完成 news2048 儀表板首次發布；GitHub Pages 建置成功，公開首頁與 8 個模組的 dashboard JSON 均已驗證可讀（使用 skill: github:yeet）。
 - [06:11] 執行每日資料更新：臺北氣象與台股加權指數有新資料；台彩與 NIDSS 疫情週報已檢查、來源未變；schema 驗證通過（8 個 published 模組）。
