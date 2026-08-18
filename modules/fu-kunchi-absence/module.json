@@ -11,6 +11,7 @@
   "order": 50,
   "sample": false,
   "source": { "name": "各報網站全文檢索（自由時報／聯合新聞網／中央社）", "url": "https://search.ltn.com.tw/list?keyword=%E5%82%85%E5%B4%90%E8%90%81&sort=date&type=all&start_time=20260811&end_time=20260812" },
+  "source_manifest_legacy": true,
   "review": { "reviewed": false, "by": "", "at": "" },
   "note": "觀察窗 2026-08-11～08-12，檢索詞「傅崐萁」，擷取於 8/12 20:30。量的計算陷阱：(1) 聯合報公開搜尋頁與標籤頁各只回傳 20 筆、/api/more 第 2 頁即回空，23 筆命中（22 篇本案）是兩頁去重後的實得下限，非真值；(2) 自由時報 80 筆命中中有 11 筆屬其他議題（慈濟疫苗案、葉霸案等），扣除後為 69；(3) 中央社為通訊社，稿件會被他報轉載（聯合報至少 1 篇標題與中央社完全相同），以篇數比較會系統性低估其影響力。完整分析見 analysis/2026-08-12-fu-kunchi-agenda-setting.md。",
   "data": {

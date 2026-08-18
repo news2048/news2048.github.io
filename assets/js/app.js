@@ -105,6 +105,7 @@
   ]);
   const ANALYSIS_FILES = {
     "fu-kunchi-absence": "analysis/2026-08-12-fu-kunchi-agenda-setting.md",
+    "universal-cash-media-framing": "analysis/2026-08-18-universal-cash-media-framing.md",
   };
 
   /** 小數位數：跟著原始資料的精度走，避免 44.67 的差被截成 +22.3。 */
@@ -410,6 +411,46 @@
     return box;
   }
 
+  function newsSourceDocument(manifest) {
+    const box = h("div", { class: "news-source-document" });
+    const articles = Array.isArray(manifest.articles) ? manifest.articles : [];
+    const grouped = new Map();
+
+    for (const article of articles) {
+      const period = article.period || "未分期";
+      const outlet = article.outlet || "未標示媒體";
+      if (!grouped.has(period)) grouped.set(period, new Map());
+      const outlets = grouped.get(period);
+      if (!outlets.has(outlet)) outlets.set(outlet, []);
+      outlets.get(outlet).push(article);
+    }
+
+    if (manifest.method) box.appendChild(h("p", {}, manifest.method));
+    for (const [period, outlets] of grouped) {
+      const periodCount = [...outlets.values()].reduce((sum, rows) => sum + rows.length, 0);
+      const periodDetails = h("details", {},
+        h("summary", {}, `${period}（${periodCount} 則）`));
+
+      for (const [outlet, rows] of outlets) {
+        const outletDetails = h("details", {},
+          h("summary", {}, `${outlet}（${rows.length} 則）`));
+        const list = h("ul", {});
+        for (const article of rows) {
+          const label = article.date ? `${article.date}｜${article.title}` : article.title;
+          list.appendChild(h("li", {},
+            article.url
+              ? h("a", { href: article.url, target: "_blank", rel: "noopener" }, label)
+              : label,
+            article.url_kind ? `（${article.url_kind}）` : null));
+        }
+        outletDetails.appendChild(list);
+        periodDetails.appendChild(outletDetails);
+      }
+      box.appendChild(periodDetails);
+    }
+    return box;
+  }
+
   function makeInteractive(article, mod) {
     article.classList.add("card-openable");
     article.tabIndex = 0;
@@ -612,20 +653,40 @@
     detailModal.querySelector(".detail-modal-close").focus();
 
     const analysisFile = ANALYSIS_FILES[mod.id];
-    if (!analysisFile) return;
-    const analysis = h("section", { class: "analysis-reading" },
-      h("h3", {}, "完整分析底稿"),
-      h("p", { class: "analysis-status" }, "載入分析底稿…"));
-    detailContent.appendChild(analysis);
-    fetch(analysisFile, { cache: "no-cache" })
-      .then((response) => {
-        if (!response.ok) throw new Error("HTTP " + response.status);
-        return response.text();
-      })
-      .then((text) => analysis.replaceChildren(h("h3", {}, "完整分析底稿"), markdownDocument(text)))
-      .catch(() => analysis.replaceChildren(
+    if (analysisFile) {
+      const analysis = h("section", { class: "analysis-reading" },
         h("h3", {}, "完整分析底稿"),
-        h("p", { class: "analysis-status" }, "分析底稿暫時無法載入。")));
+        h("p", { class: "analysis-status" }, "載入分析底稿…"));
+      detailContent.appendChild(analysis);
+      fetch(analysisFile, { cache: "no-cache" })
+        .then((response) => {
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          return response.text();
+        })
+        .then((text) => analysis.replaceChildren(h("h3", {}, "完整分析底稿"), markdownDocument(text)))
+        .catch(() => analysis.replaceChildren(
+          h("h3", {}, "完整分析底稿"),
+          h("p", { class: "analysis-status" }, "分析底稿暫時無法載入。")));
+    }
+
+    const sourceManifest = mod.source_manifest;
+    if (sourceManifest && sourceManifest.path) {
+      const sources = h("section", { class: "analysis-reading" },
+        h("h3", {}, `逐則新聞來源（${sourceManifest.count || "—"} 則）`),
+        h("p", { class: "analysis-status" }, "載入逐則鏈結…"));
+      detailContent.appendChild(sources);
+      fetch(sourceManifest.path, { cache: "no-cache" })
+        .then((response) => {
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          return response.json();
+        })
+        .then((manifest) => sources.replaceChildren(
+          h("h3", {}, `逐則新聞來源（${manifest.count || 0} 則）`),
+          newsSourceDocument(manifest)))
+        .catch(() => sources.replaceChildren(
+          h("h3", {}, "逐則新聞來源"),
+          h("p", { class: "analysis-status" }, "逐則新聞鏈結暫時無法載入。")));
+    }
   }
 
   function visible() {
