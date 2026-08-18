@@ -72,3 +72,4 @@
 - [15:14] 準備首次發布至 news2048 organization 的 GitHub Pages repository `news2048.github.io`；確認遠端僅有 README、Pages 已啟用且由 main 根目錄發布（使用 skill: github:yeet）。
 - [15:16] 完成 news2048 儀表板首次發布；GitHub Pages 建置成功，公開首頁與 8 個模組的 dashboard JSON 均已驗證可讀（使用 skill: github:yeet）。
 - [06:11] 執行每日資料更新：臺北氣象與台股加權指數有新資料；台彩與 NIDSS 疫情週報已檢查、來源未變；schema 驗證通過（8 個 published 模組）。
+- [15:23] 將主畫面改為三頻道瀑布流：自動更新的氣象、疾病、加權指數與彩券固定在左側，其他模組依實際高度補入右側較短欄；桌面、完整模式與手機版驗證均無重疊或溢出（使用 skill: frontend-design、webapp-testing）。

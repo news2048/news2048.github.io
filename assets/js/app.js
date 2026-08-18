@@ -96,6 +96,13 @@
   const COMPARISON_MARK = { up: "△", down: "▽", flat: "—" };
   const EPIDEMIC_MODULE_IDS = new Set(["cdc-covid-weekly", "cdc-flu-severe-weekly"]);
   const LOTTERY_MODULE_ID = "lottery-jackpots";
+  const AUTO_UPDATED_MODULE_IDS = new Set([
+    "weather-taipei",
+    "twse-index",
+    "cdc-covid-weekly",
+    "cdc-flu-severe-weekly",
+    "lottery-jackpots",
+  ]);
   const ANALYSIS_FILES = {
     "fu-kunchi-absence": "analysis/2026-08-12-fu-kunchi-agenda-setting.md",
   };
@@ -629,36 +636,70 @@
     });
   }
 
+  function channelLabel(title, count, className) {
+    return h("div", { class: `channel-label ${className}` },
+      h("span", { class: "channel-title" }, title),
+      h("span", { class: "channel-count" }, `${count} 個模組`));
+  }
+
+  function dashboardColumn(className, label) {
+    return h("section", {
+      class: `dashboard-column ${className}`,
+      "aria-label": label,
+    });
+  }
+
+  function renderModule(mod) {
+    return state.compactAll ? compactCard(mod) : card(mod);
+  }
+
+  function appendToShorterColumn(node, columns) {
+    const target = columns.reduce((shorter, column) =>
+      column.getBoundingClientRect().height < shorter.getBoundingClientRect().height
+        ? column
+        : shorter);
+    target.appendChild(node);
+  }
+
   function paint() {
     // 顯示模式或篩選條件改變時，舊的 detail view 不應與新 renderer 並存。
     if (!detailModal.hidden) closeDetail();
 
     const list = visible();
-    const nodes = [];
-    let epidemicStack = null;
     const renderedIds = new Set();
+    const liveModules = [];
+    const otherModules = [];
 
     for (const mod of list) {
       // dashboard.json 理論上不會重複 id；前端仍 fail closed，確保一個 id 只渲染一次。
       if (renderedIds.has(mod.id)) continue;
       renderedIds.add(mod.id);
 
-      if (state.compactAll && EPIDEMIC_MODULE_IDS.has(mod.id)) {
-        if (!epidemicStack) {
-          epidemicStack = h("section", {
-            class: "compact-epidemic-stack", "aria-label": "疫情精簡資訊卡",
-          });
-          nodes.push(epidemicStack);
-        }
-        epidemicStack.appendChild(compactEpidemicCard(mod));
-      } else if (state.compactAll) {
-        nodes.push(compactCard(mod));
-      } else {
-        nodes.push(card(mod));
-      }
+      (AUTO_UPDATED_MODULE_IDS.has(mod.id) ? liveModules : otherModules).push(mod);
     }
 
-    grid.replaceChildren(...nodes);
+    if (!list.length) {
+      grid.replaceChildren();
+      emptyMsg.hidden = false;
+      return;
+    }
+
+    const liveColumn = dashboardColumn("dashboard-column-live", "即時更新資料");
+    const otherColumnA = dashboardColumn("dashboard-column-other-a", "其他資料頻道一");
+    const otherColumnB = dashboardColumn("dashboard-column-other-b", "其他資料頻道二");
+    grid.replaceChildren(
+      channelLabel("即時更新", liveModules.length, "channel-label-live"),
+      channelLabel("其他頻道", otherModules.length, "channel-label-other"),
+      liveColumn,
+      otherColumnA,
+      otherColumnB,
+    );
+
+    for (const mod of liveModules) liveColumn.appendChild(renderModule(mod));
+    for (const mod of otherModules) {
+      appendToShorterColumn(renderModule(mod), [otherColumnA, otherColumnB]);
+    }
+
     emptyMsg.hidden = list.length > 0;
   }
 
@@ -682,7 +723,7 @@
   }
 
   function showError(title, detail) {
-    grid.replaceChildren(h("div", { class: "error", style: "grid-column: span 12" },
+    grid.replaceChildren(h("div", { class: "error", style: "grid-column: 1 / -1" },
       h("b", {}, title), h("p", {}, detail)));
   }
 
