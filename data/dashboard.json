@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19 00:36",
+  "generated_at": "2026-08-26 08:10",
   "count": 9,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 8/18 14:00",
+      "subtitle": "臺北測站 8/26 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-08-18",
+      "updated": "2026-08-26",
       "tags": [
         "每日",
         "天氣"
@@ -31,32 +31,32 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-08-18T14:00:00+08:00",
-        "previous_observed_at": "2026-08-17T16:00:00+08:00",
+        "observed_at": "2026-08-26T08:00:00+08:00",
+        "previous_observed_at": "2026-08-25T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 32.8,
-            "previous": 32.9,
+            "current": 27.7,
+            "previous": 28.2,
             "current_label": "目前",
-            "previous_label": "昨天 16:00",
+            "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 62%（多雲）",
-          "今日暫無含雨時段，未來時段最高降雨機率 20%"
+          "目前濕度 86%（-99）",
+          "今日暫無含雨時段，未來時段最高降雨機率 10%"
         ]
       },
-      "fetched_at": "2026-08-18 15:07"
+      "fetched_at": "2026-08-26 08:10"
     },
     {
       "id": "twse-index",
       "title": "台股加權指數",
-      "subtitle": "8/17 收盤 vs 8/14 收盤",
+      "subtitle": "8/25 收盤 vs 8/24 收盤",
       "type": "delta",
       "status": "published",
-      "updated": "2026-08-17",
+      "updated": "2026-08-25",
       "tags": [
         "每日",
         "股市"
@@ -82,57 +82,57 @@
         "metrics": [
           {
             "label": "加權指數",
-            "current": 45857.27,
-            "previous": 45811.01,
-            "current_label": "8/17 收盤",
-            "previous_label": "8/14 收盤",
+            "current": 45169.46,
+            "previous": 44762.32,
+            "current_label": "8/25 收盤",
+            "previous_label": "8/24 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
-              43360.66,
-              44611.6,
-              44396.7,
-              44225.91,
-              44928.76,
-              45120.72,
               45518.07,
               46021.48,
               45811.01,
-              45857.27
+              45857.27,
+              45308.68,
+              44719.35,
+              44933.74,
+              45224.29,
+              44762.32,
+              45169.46
             ]
           },
           {
             "label": "成交金額（億元）",
-            "current": 9810.55,
-            "previous": 11097.47,
-            "current_label": "8/17 收盤",
-            "previous_label": "8/14 收盤",
+            "current": 7242.58,
+            "previous": 6562.81,
+            "current_label": "8/25 收盤",
+            "previous_label": "8/24 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
-              10870.46,
-              12002.13,
-              9740.55,
-              8508.15,
-              8804.41,
-              9020.52,
               8926.6,
               11040.25,
               11097.47,
-              9810.55
+              9810.55,
+              10078.82,
+              8902.7,
+              8344.13,
+              7549.05,
+              6562.81,
+              7242.58
             ]
           }
         ]
       },
-      "fetched_at": "2026-08-18 06:11"
+      "fetched_at": "2026-08-26 08:10"
     },
     {
       "id": "cdc-covid-weekly",
       "title": "新冠併發重症",
-      "subtitle": "上週病例共 69 案，相較於前三週平均數 △8.33",
+      "subtitle": "上週病例共 56 案，相較於前三週平均數 ▽17",
       "type": "delta",
       "status": "published",
-      "updated": "2026-08-18",
+      "updated": "2026-08-26",
       "tags": [
         "每週",
         "疫情"
@@ -150,22 +150,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 32 週；前三週平均 60.67 案。今年累計 379 案、累計死亡 47 例。本週（第 33 週）目前 6 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 33 週；前三週平均 73 案。今年累計 453 案、累計死亡 71 例。本週（第 34 週）目前 12 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 32 週）",
-            "current": 69,
-            "previous": 60.67,
-            "current_label": "第 32 週",
+            "label": "上週確診病例數（第 33 週）",
+            "current": 56,
+            "previous": 73.0,
+            "current_label": "第 33 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              2,
               3,
               5,
               3,
@@ -175,21 +174,22 @@
               32,
               44,
               60,
-              78,
-              69
+              79,
+              80,
+              56
             ]
           }
         ]
       },
-      "fetched_at": "2026-08-18 15:06"
+      "fetched_at": "2026-08-26 08:10"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 55 案，相較於前三週平均數 ▽1.67",
+      "subtitle": "上週病例共 53 案，相較於前三週平均數 ▽12",
       "type": "delta",
       "status": "published",
-      "updated": "2026-08-18",
+      "updated": "2026-08-26",
       "tags": [
         "每週",
         "疫情"
@@ -207,22 +207,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 32 週；前三週平均 56.67 案。今年累計 658 案、累計死亡 117 例。本週（第 33 週）目前 1 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 33 週；前三週平均 65 案。今年累計 735 案、累計死亡 135 例。本週（第 34 週）目前 4 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 32 週）",
-            "current": 55,
-            "previous": 56.67,
-            "current_label": "第 32 週",
+            "label": "上週確診病例數（第 33 週）",
+            "current": 53,
+            "previous": 65.0,
+            "current_label": "第 33 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              8,
               10,
               7,
               12,
@@ -232,13 +231,14 @@
               51,
               51,
               54,
-              65,
-              55
+              66,
+              75,
+              53
             ]
           }
         ]
       },
-      "fetched_at": "2026-08-18 15:06"
+      "fetched_at": "2026-08-26 08:10"
     },
     {
       "id": "lottery-jackpots",
@@ -246,7 +246,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-08-18",
+      "updated": "2026-08-26",
       "tags": [
         "每日",
         "彩券"
@@ -270,26 +270,26 @@
           {
             "id": "super-lotto-638",
             "name": "威力彩",
-            "amount": 309116790,
+            "amount": 348665788,
             "amount_decimals": 1,
-            "latest_period": 115000066,
-            "latest_draw_date": "2026-08-17",
-            "next_draw_date": "2026-08-20",
+            "latest_period": 115000068,
+            "latest_draw_date": "2026-08-24",
+            "next_draw_date": "2026-08-27",
             "first_prize_winner_count": 0
           },
           {
             "id": "lotto-649",
             "name": "樂透彩",
-            "amount": 130683982,
+            "amount": 190527097,
             "amount_decimals": 0,
-            "latest_period": 115000079,
-            "latest_draw_date": "2026-08-14",
-            "next_draw_date": "2026-08-18",
+            "latest_period": 115000082,
+            "latest_draw_date": "2026-08-25",
+            "next_draw_date": "2026-08-28",
             "first_prize_winner_count": 0
           }
         ]
       },
-      "fetched_at": "2026-08-18 00:59"
+      "fetched_at": "2026-08-26 08:10"
     },
     {
       "id": "universal-cash-media-framing",
