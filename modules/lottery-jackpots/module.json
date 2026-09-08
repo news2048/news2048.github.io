@@ -4,7 +4,7 @@
   "subtitle": "威力彩 × 樂透彩",
   "type": "lottery",
   "status": "published",
-  "updated": "2026-09-05",
+  "updated": "2026-09-08",
   "tags": [
     "每日",
     "彩券"
@@ -22,18 +22,18 @@
     "by": "",
     "at": ""
   },
-  "note": "最新一期威力彩頭獎無人中獎。金額取自台灣彩券 LatestResult API 的 totalAmount，畫面以億元約數顯示，JSON 保留原始金額。開獎日依官方固定時程推算；威力彩每週一、四，樂透彩每週二、五。",
+  "note": "金額取自台灣彩券 LatestResult API 的 totalAmount，畫面以億元約數顯示，JSON 保留原始金額。開獎日依官方固定時程推算；威力彩每週一、四，樂透彩每週二、五。",
   "data": {
     "games": [
       {
         "id": "super-lotto-638",
         "name": "威力彩",
-        "amount": 406814081,
+        "amount": 441537270,
         "amount_decimals": 1,
-        "latest_period": 115000071,
-        "latest_draw_date": "2026-09-03",
-        "next_draw_date": "2026-09-07",
-        "first_prize_winner_count": 0
+        "latest_period": 115000072,
+        "latest_draw_date": "2026-09-07",
+        "next_draw_date": "2026-09-10",
+        "first_prize_winner_count": 1
       },
       {
         "id": "lotto-649",
@@ -47,5 +47,5 @@
       }
     ]
   },
-  "fetched_at": "2026-09-05 08:12"
+  "fetched_at": "2026-09-08 08:43"
 }
