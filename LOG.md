@@ -167,3 +167,7 @@
 
 - [08:28] 執行每日資料更新：台彩、NIDSS 新冠與流感併發重症、台股加權指數有新資料；臺北氣象失敗（找不到 CWA API token／Keychain `news2048-cwa-api-token`），保留既有氣象資料；build／schema 通過（9 個 published 模組）。
 - [08:28] 將本日更新的模組、儀表板產物與自動化狀態提交並推送至 GitHub `main`；未混入既有前端樣式變更。
+
+## 2026-09-09
+
+- [16:43] 補抓臺北氣象：Keychain `news2048-cwa-api-token` 已可讀取；目前氣溫 27°C（較昨日同時 26.6°C）；schema 驗證通過。
