@@ -469,6 +469,19 @@
     return article;
   }
 
+
+  function formatUpdatedStamp(mod) {
+    const raw = String((mod && (mod.fetched_at || mod.updated)) || "").trim();
+    const match = raw.match(/^(\d{4})-(\d{2})-(\d{2})(?:[ T](\d{2}):(\d{2}))?/);
+    if (!match) return "";
+    return `Updated ${match[2]}/${match[3]}${match[4] ? ` ${match[4]}:${match[5]}` : ""}`;
+  }
+
+  function updatedStamp(mod) {
+    const text = formatUpdatedStamp(mod);
+    return text ? h("span", { class: "updated-stamp" }, text) : null;
+  }
+
   /** 疫情卡片的管理檢視：不另存資料，直接從既有 delta schema 濃縮摘要。 */
   function compactEpidemicCard(mod) {
     const d = mod.data || {};
@@ -497,7 +510,9 @@
         h("span", { class: dirClass(stepDir, d.scheme, d.polarity) },
           `${ARROW[stepDir]} ${signed(stepDiff, stepDecimals)}`
           + (isFinite(stepPct) ? `（${signed(stepPct, 1)}%）` : "")),
-      ]);
+      ],
+      " ",
+      updatedStamp(mod));
 
     return makeInteractive(h("article", { class: "card compact-epidemic-card", "data-id": mod.id },
       h("div", { class: "compact-epidemic-body" },
@@ -535,6 +550,34 @@
     return plain.slice(0, maxLength).trimEnd() + "…";
   }
 
+  function compactWeatherSummary(mod) {
+    const d = mod.data || {};
+    const metric = (d.metrics || [])[0];
+    if (!metric) return compactDeltaSummary(mod);
+
+    const observed = String(d.observed_at || "");
+    const hm = observed.match(/T(\d{2}):(\d{2})/);
+    const nowLabel = hm ? `現在${hm[1]}:${hm[2]} ` : "";
+    const diff = metric.current - metric.previous;
+    const dir = direction(diff);
+    const pct = metric.previous ? (diff / Math.abs(metric.previous)) * 100 : NaN;
+    const decimals = Math.max(decimalsOf(metric.current), decimalsOf(metric.previous));
+    const baseline = String(metric.previous_label || "昨天").replace(/\s+\d{1,2}:\d{2}$/, "");
+    const extras = (Array.isArray(d.context) ? d.context : [])
+      .map((line) => String(line).replace(/^目前/, "").replace(/[。．.]+$/, ""))
+      .filter(Boolean);
+    const tail = extras.length ? `。${extras.join("。")}.` : ".";
+
+    return h("p", { class: "compact-card-summary" },
+      `${nowLabel}氣溫 ${fmt(metric.current)}${d.unit || ""}，較${baseline} `,
+      h("span", { class: dirClass(dir, d.scheme, d.polarity) },
+        `${ARROW[dir]} ${signed(diff, decimals)}`
+        + (isFinite(pct) ? `（${signed(pct, 1)}%）` : "")),
+      tail,
+      " ",
+      updatedStamp(mod));
+  }
+
   function compactDeltaSummary(mod) {
     const d = mod.data || {};
     const box = h("div", { class: "compact-card-lines" });
@@ -555,11 +598,18 @@
     for (const line of Array.isArray(d.context) ? d.context : []) {
       box.appendChild(h("p", { class: "compact-card-summary" }, line));
     }
+    if (mod.id === "twse-index") {
+      const last = box.lastElementChild;
+      const stamp = updatedStamp(mod);
+      if (stamp && last) last.append(" ", stamp);
+      else if (stamp) box.appendChild(h("p", { class: "compact-card-summary" }, stamp));
+    }
     return box;
   }
 
   function compactGenericBody(mod) {
     const d = mod.data || {};
+    if (mod.id === "weather-taipei") return compactWeatherSummary(mod);
     if (mod.type === "delta") return compactDeltaSummary(mod);
 
     let text = mod.subtitle || "";

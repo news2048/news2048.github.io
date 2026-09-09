@@ -20,8 +20,8 @@
   --good: #007a3d;
   --flat: #82888f;
 
-  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC",
-          "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --font: "Avenir Next", "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+  --font-title: "Iowan Old Style", Baskerville, "Songti TC", "Noto Serif TC", "PMingLiU", serif;
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
 }
 
@@ -74,7 +74,7 @@ a { color: var(--accent); }
 /* ---------- header ---------- */
 
 .site-head {
-  border-bottom: 2px solid var(--line-strong);
+  border-bottom: 4px double var(--line-strong);
   background: var(--surface);
 }
 
@@ -89,15 +89,18 @@ a { color: var(--accent); }
 
 .brand h1 {
   margin: 0;
-  font-size: 26px;
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-family: var(--font-title);
+  font-size: 29px;
+  font-weight: 800;
+  letter-spacing: 0.01em;
 }
 
 .tagline {
-  margin: 2px 0 0;
-  font-size: 13px;
+  margin: 0;
   color: var(--ink-3);
+  font-family: var(--font-title);
+  font-size: 12px;
+  letter-spacing: 0.08em;
 }
 
 .build-info {
@@ -112,9 +115,9 @@ a { color: var(--accent); }
 
 .build-info .current-date {
   color: var(--ink);
-  font-family: var(--font);
+  font-family: var(--font-title);
   font-size: 14px;
-  font-weight: 650;
+  font-weight: 700;
   margin-bottom: 2px;
 }
 
@@ -152,8 +155,10 @@ a { color: var(--accent); }
 
 .chip {
   font: inherit;
-  font-size: 13px;
-  padding: 3px 10px;
+  font-size: 12px;
+  font-weight: 650;
+  letter-spacing: 0.03em;
+  padding: 3px 9px;
   border: 1px solid var(--line);
   background: transparent;
   color: var(--ink-2);
@@ -198,7 +203,7 @@ a { color: var(--accent); }
   justify-content: space-between;
   min-width: 0;
   padding: 0 2px 7px;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 2px solid var(--line);
   color: var(--ink-2);
 }
 
@@ -215,9 +220,10 @@ a { color: var(--accent); }
 
 .channel-title {
   margin-right: auto;
+  font-family: var(--font-title);
   font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  font-weight: 800;
+  letter-spacing: 0.12em;
 }
 
 .channel-count {
@@ -278,7 +284,7 @@ a { color: var(--accent); }
 .card {
   background: var(--surface);
   border: 1px solid var(--line);
-  border-top: 3px solid var(--line-strong);
+  border-top: 2px solid var(--line-strong);
   display: flex;
   flex-direction: column;
   line-height: 1.4;
@@ -286,19 +292,19 @@ a { color: var(--accent); }
 
 .card-openable {
   cursor: pointer;
-  transition: transform 140ms ease, box-shadow 140ms ease, border-color 140ms ease;
+  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
 }
 
 .card-openable:hover,
 .card-openable:focus-visible {
   border-color: var(--ink-3);
-  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.12);
-  transform: translateY(-2px);
+  box-shadow: 3px 4px 0 rgba(0, 0, 0, 0.12);
+  transform: translateY(-1px);
   outline: none;
 }
 
 .card-head {
-  padding: 12px 14px 10px;
+  padding: 10px 12px 8px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -307,9 +313,10 @@ a { color: var(--accent); }
 .card-title {
   margin: 0;
   color: var(--ink) !important;
+  font-family: var(--font-title);
   font-size: 17px !important;
-  font-weight: 700;
-  letter-spacing: -0.01em;
+  font-weight: 800;
+  letter-spacing: 0.01em;
 }
 
 .card-subtitle {
@@ -340,7 +347,7 @@ a { color: var(--accent); }
 .badge.pending { border-style: dashed; border-color: var(--ink-3); }
 .badge.date { border: none; padding: 0; margin-left: auto; }
 
-.card-body { padding: 12px 14px; flex: 1; }
+.card-body { padding: 10px 12px; flex: 1; }
 
 .compact-epidemic-card {
   border-top-color: var(--accent);
@@ -353,6 +360,7 @@ a { color: var(--accent); }
 
 .compact-epidemic-card .card-title {
   color: var(--ink) !important;
+  font-family: var(--font-title);
   font-size: 15px !important;
   line-height: 1.4;
 }
@@ -380,6 +388,7 @@ a { color: var(--accent); }
 
 .compact-card .card-title {
   color: var(--ink) !important;
+  font-family: var(--font-title);
   font-size: 15px !important;
   line-height: 1.4;
 }
@@ -399,6 +408,31 @@ a { color: var(--accent); }
 .compact-card-summary span {
   font-family: var(--mono);
   font-variant-numeric: tabular-nums;
+}
+
+
+.updated-stamp {
+  color: #c5c7cb;
+  font-family: var(--font);
+  font-weight: 400;
+  font-variant-numeric: normal;
+  margin-left: 0.35em;
+  white-space: nowrap;
+}
+
+.compact-card-summary .updated-stamp,
+.compact-epidemic-summary .updated-stamp {
+  color: #c5c7cb;
+  font-family: var(--font);
+  font-variant-numeric: normal;
+}
+
+@media (prefers-color-scheme: dark) {
+  .updated-stamp,
+  .compact-card-summary .updated-stamp,
+  .compact-epidemic-summary .updated-stamp {
+    color: #8d939c;
+  }
 }
 
 .compact-lottery-body { padding: 11px 14px; }
@@ -432,7 +466,7 @@ a { color: var(--accent); }
 }
 
 .card-foot {
-  padding: 8px 14px 10px;
+  padding: 7px 12px 8px;
   border-top: 1px solid var(--line);
   font-size: 12px;
   color: var(--ink-3);
@@ -684,7 +718,7 @@ table.cmp tbody th {
 }
 
 .site-foot {
-  border-top: 1px solid var(--line);
+  border-top: 4px double var(--line);
   padding: 14px 0 30px;
   font-size: 12px;
   color: var(--ink-3);
@@ -726,8 +760,8 @@ table.cmp tbody th {
   max-height: min(840px, calc(100vh - 40px));
   overflow: auto;
   background: var(--bg);
-  border: 1px solid var(--line-strong);
-  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.28);
+  border: 2px solid var(--line-strong);
+  box-shadow: 8px 10px 0 rgba(0, 0, 0, 0.28);
 }
 
 .detail-modal-head {
@@ -742,7 +776,11 @@ table.cmp tbody th {
   align-items: center;
 }
 
-.detail-modal-head h2 { margin: 0; font-size: 17px; }
+.detail-modal-head h2 {
+  margin: 0;
+  font-family: var(--font-title);
+  font-size: 18px;
+}
 
 .detail-modal-close {
   width: 30px;
