@@ -559,6 +559,17 @@ a { color: var(--accent); }
 
 .metric-spark { margin-top: 6px; display: block; }
 
+.metric-bars {
+  margin-top: 10px;
+  display: block;
+  max-width: 100%;
+}
+
+.detail-modal-panel--narrow {
+  width: min(480px, 100%);
+}
+
+
 .dir-up    { color: var(--up-red); }
 .dir-down  { color: var(--down-green); }
 .dir-hot   { color: var(--hot); }
