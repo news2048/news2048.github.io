@@ -162,12 +162,64 @@
     return node;
   }
 
+  /** 疫情詳情用長條圖：固定比例、從 0 起算，週與週差異比較好讀。 */
+  function barchart(series, cls) {
+    const values = series.map((v) => Number(v)).filter((v) => isFinite(v));
+    if (values.length < 2) return null;
+
+    const n = values.length;
+    const barW = 18;
+    const gap = 8;
+    const padL = 8;
+    const padR = 8;
+    const padT = 18;
+    const padB = 8;
+    const W = padL + padR + n * barW + (n - 1) * gap;
+    const H = 140;
+    const max = Math.max(...values, 1);
+    const barH = (v) => Math.max(2, (v / max) * (H - padT - padB));
+    const x = (i) => padL + i * (barW + gap);
+    const y = (v) => H - padB - barH(v);
+
+    const node = svg("svg", {
+      class: "metric-bars " + cls,
+      width: String(W),
+      height: String(H),
+      viewBox: `0 0 ${W} ${H}`,
+      preserveAspectRatio: "xMidYMid meet",
+      role: "img",
+      "aria-label": "近期病例長條圖",
+    });
+    node.appendChild(svg("line", {
+      x1: padL - 2, x2: W - padR + 2, y1: H - padB, y2: H - padB,
+      stroke: "currentColor", "stroke-width": "1", opacity: "0.25",
+    }));
+    values.forEach((v, i) => {
+      const last = i === n - 1;
+      node.appendChild(svg("rect", {
+        x: x(i), y: y(v), width: barW, height: barH(v),
+        fill: "currentColor", opacity: last ? "1" : "0.45", rx: "1.5",
+      }));
+      if (last || n <= 12) {
+        node.appendChild(svg("text", {
+          x: x(i) + barW / 2, y: y(v) - 4,
+          "text-anchor": "middle",
+          "font-size": "9",
+          fill: "currentColor",
+          opacity: last ? "1" : "0.7",
+        })).textContent = String(Math.round(v));
+      }
+    });
+    return node;
+  }
+
   // ------------------------------------------------------------- renderers
 
   const renderers = {};
 
-  renderers.delta = function (d) {
+  renderers.delta = function (d, opts) {
     const box = h("div", {});
+    const useBars = opts && EPIDEMIC_MODULE_IDS.has(opts.moduleId);
     for (const m of d.metrics || []) {
       const diff = m.current - m.previous;
       const dir = direction(diff);
@@ -216,7 +268,7 @@
             `${m.previous_label || "前期"} ${fmt(m.previous)}`)),
         stepLine,
         hint ? h("div", { class: "metric-hint " + cls }, hint) : null,
-        n > 1 ? sparkline(m.series, cls) : null));
+        n > 1 ? (useBars ? barchart(m.series, cls) : sparkline(m.series, cls)) : null));
     }
     if (Array.isArray(d.context) && d.context.length) {
       const context = h("div", { class: "metric-context" });
@@ -635,7 +687,7 @@
   function card(mod, interactive = true, context = "grid") {
     const render = renderers[mod.type];
     const body = render
-      ? render(mod.data || {})
+      ? render(mod.data || {}, { moduleId: mod.id, context })
       : h("p", { class: "error" }, `未知的模組型別：${mod.type}`);
 
     const reviewed = mod.review && mod.review.reviewed;
@@ -691,6 +743,8 @@
   function closeDetail() {
     detailModal.hidden = true;
     detailContent.replaceChildren();
+    const panel = detailModal.querySelector(".detail-modal-panel");
+    if (panel) panel.classList.remove("detail-modal-panel--narrow");
     if (lastTrigger) lastTrigger.focus();
     lastTrigger = null;
   }
@@ -698,6 +752,10 @@
   function openDetail(mod) {
     lastTrigger = document.activeElement;
     detailTitle.textContent = mod.title;
+    const panel = detailModal.querySelector(".detail-modal-panel");
+    if (panel) {
+      panel.classList.toggle("detail-modal-panel--narrow", EPIDEMIC_MODULE_IDS.has(mod.id));
+    }
     detailContent.replaceChildren(card(mod, false, "detail"));
     detailModal.hidden = false;
     detailModal.querySelector(".detail-modal-close").focus();
