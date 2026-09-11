@@ -1,10 +1,10 @@
 {
   "id": "twse-index",
   "title": "台股加權指數",
-  "subtitle": "9/9 收盤 vs 9/8 收盤",
+  "subtitle": "9/10 收盤 vs 9/9 收盤",
   "type": "delta",
   "status": "published",
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "tags": [
     "每日",
     "股市"
@@ -30,10 +30,10 @@
     "metrics": [
       {
         "label": "加權指數",
-        "current": 47183.36,
-        "previous": 47105.78,
-        "current_label": "9/9 收盤",
-        "previous_label": "9/8 收盤",
+        "current": 46940.49,
+        "previous": 47183.36,
+        "current_label": "9/10 收盤",
+        "previous_label": "9/9 收盤",
         "period_label": "前一交易日",
         "mode": "percent",
         "series": [
@@ -43,15 +43,16 @@
           46551.13,
           47326.27,
           47105.78,
-          47183.36
+          47183.36,
+          46940.49
         ]
       },
       {
         "label": "成交金額（億元）",
-        "current": 8159.77,
-        "previous": 9226.58,
-        "current_label": "9/9 收盤",
-        "previous_label": "9/8 收盤",
+        "current": 7507.43,
+        "previous": 8159.77,
+        "current_label": "9/10 收盤",
+        "previous_label": "9/9 收盤",
         "period_label": "前一交易日",
         "mode": "percent",
         "series": [
@@ -61,10 +62,11 @@
           8582.45,
           9979.45,
           9226.58,
-          8159.77
+          8159.77,
+          7507.43
         ]
       }
     ]
   },
-  "fetched_at": "2026-09-10 08:35"
+  "fetched_at": "2026-09-11 08:24"
 }
