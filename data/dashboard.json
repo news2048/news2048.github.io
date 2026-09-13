@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-12 08:29",
+  "generated_at": "2026-09-13 08:31",
   "count": 9,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 9/12 08:00",
+      "subtitle": "臺北測站 9/13 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "tags": [
         "每日",
         "天氣"
@@ -31,24 +31,24 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-09-12T08:00:00+08:00",
-        "previous_observed_at": "2026-09-11T08:00:00+08:00",
+        "observed_at": "2026-09-13T08:00:00+08:00",
+        "previous_observed_at": "2026-09-12T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 27.4,
-            "previous": 25.1,
+            "current": 29.9,
+            "previous": 27.4,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 91%（陰）",
-          "09–12 時短暫陣雨，降雨機率 30%"
+          "目前濕度 73%（晴）",
+          "今日暫無含雨時段，未來時段最高降雨機率 20%"
         ]
       },
-      "fetched_at": "2026-09-12 08:29"
+      "fetched_at": "2026-09-13 08:31"
     },
     {
       "id": "twse-index",
@@ -127,10 +127,10 @@
     {
       "id": "cdc-covid-weekly",
       "title": "新冠併發重症",
-      "subtitle": "上週病例共 64 案，相較於前三週平均數 ▽7.67",
+      "subtitle": "上週病例共 38 案，相較於前三週平均數 ▽27.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "tags": [
         "每週",
         "疫情"
@@ -148,22 +148,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 35 週；前三週平均 71.67 案。今年累計 621 案、累計死亡 115 例。本週（第 36 週）目前 37 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 36 週；前三週平均 65.67 案。今年累計 622 案、累計死亡 118 例。本週（第 37 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 35 週）",
-            "current": 64,
-            "previous": 71.67,
-            "current_label": "第 35 週",
+            "label": "上週確診病例數（第 36 週）",
+            "current": 38,
+            "previous": 65.67,
+            "current_label": "第 36 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              3,
               11,
               15,
               15,
@@ -174,20 +173,21 @@
               82,
               62,
               71,
-              64
+              64,
+              38
             ]
           }
         ]
       },
-      "fetched_at": "2026-09-12 08:29"
+      "fetched_at": "2026-09-13 08:31"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 97 案，相較於前三週平均數 △16",
+      "subtitle": "上週病例共 51 案，相較於前三週平均數 ▽37",
       "type": "delta",
       "status": "published",
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "tags": [
         "每週",
         "疫情"
@@ -205,22 +205,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 35 週；前三週平均 81 案。今年累計 995 案、累計死亡 181 例。本週（第 36 週）目前 51 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 36 週；前三週平均 88 案。今年累計 995 案、累計死亡 185 例。本週（第 37 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 35 週）",
-            "current": 97,
-            "previous": 81.0,
-            "current_label": "第 35 週",
+            "label": "上週確診病例數（第 36 週）",
+            "current": 51,
+            "previous": 88.0,
+            "current_label": "第 36 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              12,
               20,
               31,
               41,
@@ -231,12 +230,13 @@
               76,
               67,
               100,
-              97
+              97,
+              51
             ]
           }
         ]
       },
-      "fetched_at": "2026-09-12 08:29"
+      "fetched_at": "2026-09-13 08:31"
     },
     {
       "id": "lottery-jackpots",
