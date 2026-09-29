@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-28 08:23",
+  "generated_at": "2026-09-29 08:23",
   "count": 9,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 9/28 08:00",
+      "subtitle": "臺北測站 9/29 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "tags": [
         "每日",
         "天氣"
@@ -31,13 +31,13 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-09-28T08:00:00+08:00",
-        "previous_observed_at": "2026-09-27T08:00:00+08:00",
+        "observed_at": "2026-09-29T08:00:00+08:00",
+        "previous_observed_at": "2026-09-28T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 28.1,
-            "previous": 28.4,
+            "current": 28.4,
+            "previous": 28.1,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
@@ -48,7 +48,7 @@
           "今日暫無含雨時段，未來時段最高降雨機率 0%"
         ]
       },
-      "fetched_at": "2026-09-28 08:23"
+      "fetched_at": "2026-09-29 08:23"
     },
     {
       "id": "twse-index",
@@ -132,7 +132,7 @@
       "subtitle": "上週病例共 24 案，相較於前三週平均數 ▽32.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "tags": [
         "每週",
         "疫情"
@@ -150,7 +150,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 38 週；前三週平均 56.33 案。今年累計 715 案、累計死亡 140 例。本週（第 39 週）目前 2 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 38 週；前三週平均 56.33 案。今年累計 716 案、累計死亡 141 例。本週（第 39 週）目前 3 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -181,15 +181,15 @@
           }
         ]
       },
-      "fetched_at": "2026-09-28 08:23"
+      "fetched_at": "2026-09-29 08:23"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 52 案，相較於前三週平均數 ▽66.33",
+      "subtitle": "上週病例共 54 案，相較於前三週平均數 ▽64.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "tags": [
         "每週",
         "疫情"
@@ -207,7 +207,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 38 週；前三週平均 118.33 案。今年累計 1254 案、累計死亡 245 例。本週（第 39 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 38 週；前三週平均 118.33 案。今年累計 1256 案、累計死亡 246 例。本週（第 39 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -215,7 +215,7 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 38 週）",
-            "current": 52,
+            "current": 54,
             "previous": 118.33,
             "current_label": "第 38 週",
             "previous_label": "前三週平均",
@@ -233,12 +233,12 @@
               106,
               135,
               114,
-              52
+              54
             ]
           }
         ]
       },
-      "fetched_at": "2026-09-28 08:23"
+      "fetched_at": "2026-09-29 08:23"
     },
     {
       "id": "lottery-jackpots",
@@ -246,7 +246,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-09-26",
+      "updated": "2026-09-29",
       "tags": [
         "每日",
         "彩券"
@@ -270,11 +270,11 @@
           {
             "id": "super-lotto-638",
             "name": "威力彩",
-            "amount": 88444195,
+            "amount": 108385349,
             "amount_decimals": 1,
-            "latest_period": 115000077,
-            "latest_draw_date": "2026-09-24",
-            "next_draw_date": "2026-09-28",
+            "latest_period": 115000078,
+            "latest_draw_date": "2026-09-28",
+            "next_draw_date": "2026-10-01",
             "first_prize_winner_count": 0
           },
           {
@@ -289,7 +289,7 @@
           }
         ]
       },
-      "fetched_at": "2026-09-26 08:28"
+      "fetched_at": "2026-09-29 08:23"
     },
     {
       "id": "universal-cash-media-framing",
