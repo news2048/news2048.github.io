@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-02 08:23",
+  "generated_at": "2026-10-05 02:10",
   "count": 9,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 10/2 08:00",
+      "subtitle": "臺北測站 10/5 02:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "tags": [
         "每日",
         "天氣"
@@ -31,32 +31,32 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-10-02T08:00:00+08:00",
-        "previous_observed_at": "2026-10-01T08:00:00+08:00",
+        "observed_at": "2026-10-05T02:00:00+08:00",
+        "previous_observed_at": "2026-10-04T03:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 28.2,
-            "previous": 28.6,
+            "current": 26.6,
+            "previous": 26.1,
             "current_label": "目前",
-            "previous_label": "昨天同時",
+            "previous_label": "昨天 03:00",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 80%（晴）",
-          "09–12 時短暫陣雨，降雨機率 30%"
+          "目前濕度 81%（-99）",
+          "03–06 時短暫陣雨，降雨機率 40%"
         ]
       },
-      "fetched_at": "2026-10-02 08:23"
+      "fetched_at": "2026-10-05 02:10"
     },
     {
       "id": "twse-index",
       "title": "台股加權指數",
-      "subtitle": "9/30 收盤 vs 9/29 收盤",
+      "subtitle": "10/2 收盤 vs 10/1 收盤",
       "type": "delta",
       "status": "published",
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "tags": [
         "每日",
         "股市"
@@ -82,57 +82,41 @@
         "metrics": [
           {
             "label": "加權指數",
-            "current": 47940.13,
-            "previous": 47631.96,
-            "current_label": "9/30 收盤",
-            "previous_label": "9/29 收盤",
+            "current": 48475.74,
+            "previous": 48353.49,
+            "current_label": "10/2 收盤",
+            "previous_label": "10/1 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
-              45511.49,
-              45848.9,
-              46288.0,
-              47180.75,
-              47718.84,
-              47800.17,
-              48157.29,
-              48024.6,
-              47631.96,
-              47940.13
+              48353.49,
+              48475.74
             ]
           },
           {
             "label": "成交金額（億元）",
-            "current": 9214.93,
-            "previous": 8361.45,
-            "current_label": "9/30 收盤",
-            "previous_label": "9/29 收盤",
+            "current": 9382.22,
+            "previous": 8740.46,
+            "current_label": "10/2 收盤",
+            "previous_label": "10/1 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
-              6347.07,
-              6759.7,
-              8666.19,
-              11423.22,
-              8668.18,
-              10787.76,
-              8946.51,
-              7755.91,
-              8361.45,
-              9214.93
+              8740.46,
+              9382.22
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-01 08:26"
+      "fetched_at": "2026-10-05 02:10"
     },
     {
       "id": "cdc-covid-weekly",
       "title": "新冠併發重症",
-      "subtitle": "上週病例共 33 案，相較於前三週平均數 ▽24",
+      "subtitle": "上週病例共 20 案，相較於前三週平均數 ▽26.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "tags": [
         "每週",
         "疫情"
@@ -150,22 +134,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 38 週；前三週平均 57 案。今年累計 738 案、累計死亡 150 例。本週（第 39 週）目前 14 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 39 週；前三週平均 46.33 案。今年累計 744 案、累計死亡 156 例。本週（第 40 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 38 週）",
-            "current": 33,
-            "previous": 57.0,
-            "current_label": "第 38 週",
+            "label": "上週確診病例數（第 39 週）",
+            "current": 20,
+            "previous": 46.33,
+            "current_label": "第 39 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              15,
               32,
               44,
               60,
@@ -176,20 +159,21 @@
               65,
               54,
               52,
-              33
+              33,
+              20
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-02 08:23"
+      "fetched_at": "2026-10-05 02:10"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 140 案，相較於前三週平均數 △18.33",
+      "subtitle": "上週病例共 56 案，相較於前三週平均數 ▽83",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "tags": [
         "每週",
         "疫情"
@@ -207,22 +191,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 38 週；前三週平均 121.67 案。今年累計 1382 案、累計死亡 277 例。本週（第 39 週）目前 30 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 39 週；前三週平均 139 案。今年累計 1426 案、累計死亡 288 例。本週（第 40 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 38 週）",
-            "current": 140,
-            "previous": 121.67,
-            "current_label": "第 38 週",
+            "label": "上週確診病例數（第 39 週）",
+            "current": 56,
+            "previous": 139.0,
+            "current_label": "第 39 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              41,
               51,
               51,
               55,
@@ -232,13 +215,14 @@
               100,
               106,
               135,
-              124,
-              140
+              125,
+              157,
+              56
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-02 08:23"
+      "fetched_at": "2026-10-05 02:10"
     },
     {
       "id": "lottery-jackpots",
@@ -246,7 +230,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "tags": [
         "每日",
         "彩券"
@@ -280,16 +264,16 @@
           {
             "id": "lotto-649",
             "name": "樂透彩",
-            "amount": 255224532,
+            "amount": 288455900,
             "amount_decimals": 0,
-            "latest_period": 115000092,
-            "latest_draw_date": "2026-09-29",
-            "next_draw_date": "2026-10-02",
+            "latest_period": 115000093,
+            "latest_draw_date": "2026-10-02",
+            "next_draw_date": "2026-10-06",
             "first_prize_winner_count": 0
           }
         ]
       },
-      "fetched_at": "2026-10-02 08:23"
+      "fetched_at": "2026-10-05 02:10"
     },
     {
       "id": "universal-cash-media-framing",
