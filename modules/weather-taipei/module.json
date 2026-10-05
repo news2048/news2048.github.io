@@ -1,7 +1,7 @@
 {
   "id": "weather-taipei",
   "title": "台北氣溫",
-  "subtitle": "臺北測站 10/5 02:00",
+  "subtitle": "臺北測站 10/5 08:00",
   "type": "delta",
   "status": "published",
   "updated": "2026-10-05",
@@ -27,22 +27,22 @@
     "unit": "°C",
     "scheme": "thermal",
     "polarity": "neutral",
-    "observed_at": "2026-10-05T02:00:00+08:00",
-    "previous_observed_at": "2026-10-04T03:00:00+08:00",
+    "observed_at": "2026-10-05T08:00:00+08:00",
+    "previous_observed_at": "2026-10-04T09:00:00+08:00",
     "metrics": [
       {
         "label": "目前氣溫",
-        "current": 26.6,
-        "previous": 26.1,
+        "current": 27.5,
+        "previous": 29.6,
         "current_label": "目前",
-        "previous_label": "昨天 03:00",
+        "previous_label": "昨天 09:00",
         "mode": "absolute"
       }
     ],
     "context": [
-      "目前濕度 81%（-99）",
-      "03–06 時短暫陣雨，降雨機率 40%"
+      "目前濕度 76%（多雲）",
+      "06–09 時短暫陣雨，降雨機率 60%"
     ]
   },
-  "fetched_at": "2026-10-05 02:10"
+  "fetched_at": "2026-10-05 08:25"
 }
