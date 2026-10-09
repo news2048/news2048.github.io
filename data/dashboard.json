@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-08 08:24",
+  "generated_at": "2026-10-09 16:48",
   "count": 9,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 10/8 08:00",
+      "subtitle": "臺北測站 10/9 16:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "tags": [
         "每日",
         "天氣"
@@ -31,32 +31,32 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-10-08T08:00:00+08:00",
-        "previous_observed_at": "2026-10-07T08:00:00+08:00",
+        "observed_at": "2026-10-09T16:00:00+08:00",
+        "previous_observed_at": "2026-10-08T17:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 25,
-            "previous": 23.3,
+            "current": 27.2,
+            "previous": 25.3,
             "current_label": "目前",
-            "previous_label": "昨天同時",
+            "previous_label": "昨天 17:00",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 62%（陰）",
-          "今日暫無含雨時段，未來時段最高降雨機率 10%"
+          "目前濕度 64%（多雲）",
+          "今日暫無含雨時段，未來時段最高降雨機率 20%"
         ]
       },
-      "fetched_at": "2026-10-08 08:24"
+      "fetched_at": "2026-10-09 16:48"
     },
     {
       "id": "twse-index",
       "title": "台股加權指數",
-      "subtitle": "10/7 收盤 vs 10/6 收盤",
+      "subtitle": "10/8 收盤 vs 10/7 收盤",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "tags": [
         "每日",
         "股市"
@@ -82,10 +82,10 @@
         "metrics": [
           {
             "label": "加權指數",
-            "current": 49806.37,
-            "previous": 49822.55,
-            "current_label": "10/7 收盤",
-            "previous_label": "10/6 收盤",
+            "current": 49313.44,
+            "previous": 49806.37,
+            "current_label": "10/8 收盤",
+            "previous_label": "10/7 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
@@ -93,15 +93,16 @@
               48475.74,
               49712.04,
               49822.55,
-              49806.37
+              49806.37,
+              49313.44
             ]
           },
           {
             "label": "成交金額（億元）",
-            "current": 9862.8,
-            "previous": 10262.05,
-            "current_label": "10/7 收盤",
-            "previous_label": "10/6 收盤",
+            "current": 9245.09,
+            "previous": 9862.8,
+            "current_label": "10/8 收盤",
+            "previous_label": "10/7 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
@@ -109,12 +110,13 @@
               9382.22,
               12110.41,
               10262.05,
-              9862.8
+              9862.8,
+              9245.09
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-08 08:24"
+      "fetched_at": "2026-10-09 16:48"
     },
     {
       "id": "cdc-covid-weekly",
@@ -122,7 +124,7 @@
       "subtitle": "上週病例共 30 案，相較於前三週平均數 ▽16.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "tags": [
         "每週",
         "疫情"
@@ -140,7 +142,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 39 週；前三週平均 46.67 案。今年累計 765 案、累計死亡 167 例。本週（第 40 週）目前 10 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 39 週；前三週平均 46.67 案。今年累計 765 案、累計死亡 169 例。本週（第 40 週）目前 10 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -171,15 +173,15 @@
           }
         ]
       },
-      "fetched_at": "2026-10-08 08:24"
+      "fetched_at": "2026-10-09 16:48"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 140 案，相較於前三週平均數 ▽1.67",
+      "subtitle": "上週病例共 145 案，相較於前三週平均數 △2.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "tags": [
         "每週",
         "疫情"
@@ -197,7 +199,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 39 週；前三週平均 141.67 案。今年累計 1548 案、累計死亡 314 例。本週（第 40 週）目前 29 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 39 週；前三週平均 142.33 案。今年累計 1571 案、累計死亡 317 例。本週（第 40 週）目前 45 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -205,8 +207,8 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 39 週）",
-            "current": 140,
-            "previous": 141.67,
+            "current": 145,
+            "previous": 142.33,
             "current_label": "第 39 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
@@ -222,13 +224,13 @@
               107,
               135,
               128,
-              162,
-              140
+              164,
+              145
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-08 08:24"
+      "fetched_at": "2026-10-09 16:48"
     },
     {
       "id": "lottery-jackpots",
@@ -236,7 +238,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "tags": [
         "每日",
         "彩券"
@@ -260,11 +262,11 @@
           {
             "id": "super-lotto-638",
             "name": "威力彩",
-            "amount": 148037982,
+            "amount": 167379861,
             "amount_decimals": 1,
-            "latest_period": 115000080,
-            "latest_draw_date": "2026-10-05",
-            "next_draw_date": "2026-10-08",
+            "latest_period": 115000081,
+            "latest_draw_date": "2026-10-08",
+            "next_draw_date": "2026-10-12",
             "first_prize_winner_count": 0
           },
           {
@@ -279,7 +281,7 @@
           }
         ]
       },
-      "fetched_at": "2026-10-07 08:21"
+      "fetched_at": "2026-10-09 16:48"
     },
     {
       "id": "universal-cash-media-framing",
