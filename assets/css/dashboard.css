@@ -25,24 +25,9 @@
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #131417;
-    --surface: #1b1d21;
-    --ink: #e9eaec;
-    --ink-2: #b0b5bd;
-    --ink-3: #7c828b;
-    --line: #2e3238;
-    --line-strong: #4a5057;
-    --accent: #6c9bff;
-    --up-red: #ff5a6e;
-    --down-green: #35c07a;
-    --hot: #ff7a4d;
-    --cold: #5aa9e6;
-    --bad: #ff5a6e;
-    --good: #35c07a;
-  }
-}
+/* 全站固定淺色，不跟隨系統深色模式。 */
+:root { color-scheme: light; }
+
 
 * { box-sizing: border-box; }
 
@@ -442,14 +427,6 @@ a { color: var(--accent); }
   color: #c5c7cb;
   font-family: var(--font);
   font-variant-numeric: normal;
-}
-
-@media (prefers-color-scheme: dark) {
-  .updated-stamp,
-  .compact-card-summary .updated-stamp,
-  .compact-epidemic-summary .updated-stamp {
-    color: #8d939c;
-  }
 }
 
 .compact-lottery-body { padding: 11px 14px; }
