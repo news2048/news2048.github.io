@@ -106,6 +106,7 @@
   const ANALYSIS_FILES = {
     "fu-kunchi-absence": "analysis/2026-08-12-fu-kunchi-agenda-setting.md",
     "universal-cash-media-framing": "analysis/2026-08-18-universal-cash-media-framing.md",
+    "ximending-gay-bar-raid-media-framing": "analysis/2026-10-09-ximending-gay-bar-raid-media-framing.md",
   };
 
   /** 小數位數：跟著原始資料的精度走，避免 44.67 的差被截成 +22.3。 */
