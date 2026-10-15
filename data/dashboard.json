@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-14 08:27",
+  "generated_at": "2026-10-15 08:27",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 10/14 08:00",
+      "subtitle": "臺北測站 10/15 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "tags": [
         "每日",
         "天氣"
@@ -31,32 +31,32 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-10-14T08:00:00+08:00",
-        "previous_observed_at": "2026-10-13T09:00:00+08:00",
+        "observed_at": "2026-10-15T08:00:00+08:00",
+        "previous_observed_at": "2026-10-14T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 24.9,
-            "previous": 26.3,
+            "current": 25.3,
+            "previous": 24.9,
             "current_label": "目前",
-            "previous_label": "昨天 09:00",
+            "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 75%（多雲）",
-          "今日暫無含雨時段，未來時段最高降雨機率 20%"
+          "目前濕度 71%（多雲）",
+          "今日暫無含雨時段，未來時段最高降雨機率 10%"
         ]
       },
-      "fetched_at": "2026-10-14 08:27"
+      "fetched_at": "2026-10-15 08:27"
     },
     {
       "id": "twse-index",
       "title": "台股加權指數",
-      "subtitle": "10/13 收盤 vs 10/12 收盤",
+      "subtitle": "10/14 收盤 vs 10/13 收盤",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "tags": [
         "每日",
         "股市"
@@ -82,10 +82,10 @@
         "metrics": [
           {
             "label": "加權指數",
-            "current": 48341.31,
-            "previous": 49301.96,
-            "current_label": "10/13 收盤",
-            "previous_label": "10/12 收盤",
+            "current": 48625.83,
+            "previous": 48341.31,
+            "current_label": "10/14 收盤",
+            "previous_label": "10/13 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
@@ -96,15 +96,16 @@
               49806.37,
               49313.44,
               49301.96,
-              48341.31
+              48341.31,
+              48625.83
             ]
           },
           {
             "label": "成交金額（億元）",
-            "current": 12018.61,
-            "previous": 8945.22,
-            "current_label": "10/13 收盤",
-            "previous_label": "10/12 收盤",
+            "current": 9781.37,
+            "previous": 12018.61,
+            "current_label": "10/14 收盤",
+            "previous_label": "10/13 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
@@ -115,12 +116,13 @@
               9862.8,
               9245.09,
               8945.22,
-              12018.61
+              12018.61,
+              9781.37
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-14 08:27"
+      "fetched_at": "2026-10-15 08:27"
     },
     {
       "id": "cdc-covid-weekly",
@@ -128,7 +130,7 @@
       "subtitle": "上週病例共 18 案，相較於前三週平均數 ▽20.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "tags": [
         "每週",
         "疫情"
@@ -146,7 +148,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 40 週；前三週平均 38.67 案。今年累計 780 案、累計死亡 174 例。本週（第 41 週）目前 7 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 40 週；前三週平均 38.67 案。今年累計 784 案、累計死亡 176 例。本週（第 41 週）目前 11 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -177,15 +179,15 @@
           }
         ]
       },
-      "fetched_at": "2026-10-14 08:27"
+      "fetched_at": "2026-10-15 08:27"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 117 案，相較於前三週平均數 ▽31.67",
+      "subtitle": "上週病例共 133 案，相較於前三週平均數 ▽15.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "tags": [
         "每週",
         "疫情"
@@ -203,7 +205,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 40 週；前三週平均 148.67 案。今年累計 1662 案、累計死亡 345 例。本週（第 41 週）目前 10 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 40 週；前三週平均 148.67 案。今年累計 1689 案、累計死亡 357 例。本週（第 41 週）目前 21 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -211,7 +213,7 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 40 週）",
-            "current": 117,
+            "current": 133,
             "previous": 148.67,
             "current_label": "第 40 週",
             "previous_label": "前三週平均",
@@ -229,12 +231,12 @@
               128,
               165,
               153,
-              117
+              133
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-14 08:27"
+      "fetched_at": "2026-10-15 08:27"
     },
     {
       "id": "lottery-jackpots",

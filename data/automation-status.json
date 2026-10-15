@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-10-14 08:27:23",
+  "generated_at": "2026-10-15 08:27:35",
   "timezone": "Asia/Taipei",
   "daily_check_time": "08:10",
   "last_run": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "status": "success",
-    "summary": "完成 4 個應執行 job；5 個模組有新資料",
-    "started_at": "2026-10-14 08:27:21",
-    "finished_at": "2026-10-14 08:27:23",
-    "duration_seconds": 1.73,
+    "summary": "完成 4 個應執行 job；4 個模組有新資料",
+    "started_at": "2026-10-15 08:27:33",
+    "finished_at": "2026-10-15 08:27:35",
+    "duration_seconds": 2.04,
     "changed_modules": [
       "cdc-covid-weekly",
       "cdc-flu-severe-weekly",
-      "lottery-jackpots",
       "twse-index",
       "weather-taipei"
     ],
     "build": {
       "status": "success",
-      "duration_seconds": 0.04,
+      "duration_seconds": 0.03,
       "return_code": 0,
-      "output_tail": "✓ 已寫出 data/dashboard.json：10 個模組\n  📌 [delta   ] weather-taipei               2026-10-14\n  📌 [delta   ] twse-index                   2026-10-13\n  📌 [delta   ] cdc-covid-weekly             2026-10-14\n  📌 [delta   ] cdc-flu-severe-weekly        2026-10-14\n  📌 [lottery ] lottery-jackpots             2026-10-14\n     [compare ] ximending-gay-bar-raid-media-framing 2026-10-09\n     [compare ] universal-cash-media-framing 2026-08-18\n     [compare ] fu-kunchi-absence            2026-08-12\n     [list    ] yt-topics-daily              2026-08-12\n     [note    ] editor-note                  2026-08-12"
+      "output_tail": "✓ 已寫出 data/dashboard.json：10 個模組\n  📌 [delta   ] weather-taipei               2026-10-15\n  📌 [delta   ] twse-index                   2026-10-14\n  📌 [delta   ] cdc-covid-weekly             2026-10-15\n  📌 [delta   ] cdc-flu-severe-weekly        2026-10-15\n  📌 [lottery ] lottery-jackpots             2026-10-14\n     [compare ] ximending-gay-bar-raid-media-framing 2026-10-09\n     [compare ] universal-cash-media-framing 2026-08-18\n     [compare ] fu-kunchi-absence            2026-08-12\n     [list    ] yt-topics-daily              2026-08-12\n     [note    ] editor-note                  2026-08-12"
     }
   },
   "jobs": [
@@ -35,9 +34,9 @@
       "due_today": true,
       "forced": false,
       "status": "success",
-      "started_at": "2026-10-14 08:27:21",
-      "finished_at": "2026-10-14 08:27:22",
-      "duration_seconds": 0.51,
+      "started_at": "2026-10-15 08:27:33",
+      "finished_at": "2026-10-15 08:27:33",
+      "duration_seconds": 0.39,
       "changed_modules": [
         "weather-taipei"
       ],
@@ -57,14 +56,14 @@
       "due_today": true,
       "forced": false,
       "status": "success",
-      "started_at": "2026-10-14 08:27:22",
-      "finished_at": "2026-10-14 08:27:22",
-      "duration_seconds": 0.13,
-      "changed_modules": [
+      "started_at": "2026-10-15 08:27:33",
+      "finished_at": "2026-10-15 08:27:33",
+      "duration_seconds": 0.14,
+      "changed_modules": [],
+      "unchanged_modules": [
         "lottery-jackpots"
       ],
-      "unchanged_modules": [],
-      "message": "更新 1 個模組：lottery-jackpots",
+      "message": "來源內容未變，模組檔保持不動",
       "output_tail": "✓ 已更新 modules/lottery-jackpots/module.json",
       "return_code": 0
     },
@@ -80,16 +79,16 @@
       "due_today": true,
       "forced": false,
       "status": "success",
-      "started_at": "2026-10-14 08:27:22",
-      "finished_at": "2026-10-14 08:27:23",
-      "duration_seconds": 0.9,
+      "started_at": "2026-10-15 08:27:33",
+      "finished_at": "2026-10-15 08:27:35",
+      "duration_seconds": 1.32,
       "changed_modules": [
         "cdc-covid-weekly",
         "cdc-flu-severe-weekly"
       ],
       "unchanged_modules": [],
       "message": "更新 2 個模組：cdc-covid-weekly、cdc-flu-severe-weekly",
-      "output_tail": "✓ 新冠併發重症　上週病例共 18 案，相較於前三週平均數 ▽20.67\n    最近一例發病日 2026/10/12／前三週平均 38.67／近 12 週 [44, 60, 79, 82, 62, 71, 65, 54, 53, 33, 30, 18]\n✓ 流感併發重症　上週病例共 117 案，相較於前三週平均數 ▽31.67\n    最近一例發病日 2026/10/12／前三週平均 148.67／近 12 週 [51, 55, 66, 76, 67, 100, 107, 135, 128, 165, 153, 117]\n\n--- 可直接複製的一句話 ---\n新冠併發重症：上週病例共 18 案，相較於前三週平均數 ▽20.67\n流感併發重症：上週病例共 117 案，相較於前三週平均數 ▽31.67",
+      "output_tail": "✓ 新冠併發重症　上週病例共 18 案，相較於前三週平均數 ▽20.67\n    最近一例發病日 2026/10/14／前三週平均 38.67／近 12 週 [44, 60, 79, 82, 62, 71, 65, 54, 53, 33, 30, 18]\n✓ 流感併發重症　上週病例共 133 案，相較於前三週平均數 ▽15.67\n    最近一例發病日 2026/10/13／前三週平均 148.67／近 12 週 [51, 55, 66, 76, 67, 100, 107, 135, 128, 165, 153, 133]\n\n--- 可直接複製的一句話 ---\n新冠併發重症：上週病例共 18 案，相較於前三週平均數 ▽20.67\n流感併發重症：上週病例共 133 案，相較於前三週平均數 ▽15.67",
       "return_code": 0
     },
     {
@@ -103,55 +102,53 @@
       "due_today": true,
       "forced": false,
       "status": "success",
-      "started_at": "2026-10-14 08:27:23",
-      "finished_at": "2026-10-14 08:27:23",
-      "duration_seconds": 0.15,
+      "started_at": "2026-10-15 08:27:35",
+      "finished_at": "2026-10-15 08:27:35",
+      "duration_seconds": 0.16,
       "changed_modules": [
         "twse-index"
       ],
       "unchanged_modules": [],
       "message": "更新 1 個模組：twse-index",
-      "output_tail": "✓ 已更新 modules/twse-index/module.json（資料日 2026-10-13）",
+      "output_tail": "✓ 已更新 modules/twse-index/module.json（資料日 2026-10-14）",
       "return_code": 0
     }
   ],
   "job_history": {
     "lottery-results": {
-      "last_attempt_at": "2026-10-14 08:27:22",
+      "last_attempt_at": "2026-10-15 08:27:33",
       "last_status": "success",
-      "last_message": "更新 1 個模組：lottery-jackpots",
-      "last_changed_modules": [
-        "lottery-jackpots"
-      ],
-      "last_success_at": "2026-10-14 08:27:22"
+      "last_message": "來源內容未變，模組檔保持不動",
+      "last_changed_modules": [],
+      "last_success_at": "2026-10-15 08:27:33"
     },
     "weather-daily": {
-      "last_attempt_at": "2026-10-14 08:27:22",
+      "last_attempt_at": "2026-10-15 08:27:33",
       "last_status": "success",
       "last_message": "更新 1 個模組：weather-taipei",
       "last_changed_modules": [
         "weather-taipei"
       ],
-      "last_success_at": "2026-10-14 08:27:22"
+      "last_success_at": "2026-10-15 08:27:33"
     },
     "nidss-weekly": {
-      "last_attempt_at": "2026-10-14 08:27:23",
+      "last_attempt_at": "2026-10-15 08:27:35",
       "last_status": "success",
       "last_message": "更新 2 個模組：cdc-covid-weekly、cdc-flu-severe-weekly",
       "last_changed_modules": [
         "cdc-covid-weekly",
         "cdc-flu-severe-weekly"
       ],
-      "last_success_at": "2026-10-14 08:27:23"
+      "last_success_at": "2026-10-15 08:27:35"
     },
     "twse-daily": {
-      "last_attempt_at": "2026-10-14 08:27:23",
+      "last_attempt_at": "2026-10-15 08:27:35",
       "last_status": "success",
       "last_message": "更新 1 個模組：twse-index",
       "last_changed_modules": [
         "twse-index"
       ],
-      "last_success_at": "2026-10-14 08:27:23"
+      "last_success_at": "2026-10-15 08:27:35"
     }
   },
   "modules": [
@@ -166,9 +163,9 @@
       "reason": "由 NIDSS 疫情週報 job 管理",
       "job_id": "nidss-weekly",
       "decision": "已更新",
-      "updated": "2026-10-14",
-      "fetched_at": "2026-10-14 08:27",
-      "last_automation_success": "2026-10-14 08:27:23"
+      "updated": "2026-10-15",
+      "fetched_at": "2026-10-15 08:27",
+      "last_automation_success": "2026-10-15 08:27:35"
     },
     {
       "id": "cdc-flu-severe-weekly",
@@ -181,9 +178,9 @@
       "reason": "由 NIDSS 疫情週報 job 管理",
       "job_id": "nidss-weekly",
       "decision": "已更新",
-      "updated": "2026-10-14",
-      "fetched_at": "2026-10-14 08:27",
-      "last_automation_success": "2026-10-14 08:27:23"
+      "updated": "2026-10-15",
+      "fetched_at": "2026-10-15 08:27",
+      "last_automation_success": "2026-10-15 08:27:35"
     },
     {
       "id": "editor-note",
@@ -225,10 +222,10 @@
       "cadence": "每日 08:10 檢查；有新開獎結果才更新",
       "reason": "由 台彩累積獎金 job 管理",
       "job_id": "lottery-results",
-      "decision": "已更新",
+      "decision": "已檢查，來源未變",
       "updated": "2026-10-14",
       "fetched_at": "2026-10-14 08:27",
-      "last_automation_success": "2026-10-14 08:27:22"
+      "last_automation_success": "2026-10-15 08:27:33"
     },
     {
       "id": "twse-index",
@@ -241,9 +238,9 @@
       "reason": "由 台股加權指數 job 管理",
       "job_id": "twse-daily",
       "decision": "已更新",
-      "updated": "2026-10-13",
-      "fetched_at": "2026-10-14 08:27",
-      "last_automation_success": "2026-10-14 08:27:23"
+      "updated": "2026-10-14",
+      "fetched_at": "2026-10-15 08:27",
+      "last_automation_success": "2026-10-15 08:27:35"
     },
     {
       "id": "universal-cash-media-framing",
@@ -271,9 +268,9 @@
       "reason": "由 臺北氣象 job 管理",
       "job_id": "weather-daily",
       "decision": "已更新",
-      "updated": "2026-10-14",
-      "fetched_at": "2026-10-14 08:27",
-      "last_automation_success": "2026-10-14 08:27:22"
+      "updated": "2026-10-15",
+      "fetched_at": "2026-10-15 08:27",
+      "last_automation_success": "2026-10-15 08:27:33"
     },
     {
       "id": "ximending-gay-bar-raid-media-framing",
@@ -308,19 +305,19 @@
   ],
   "log_file": "/Users/jirlong/Library/Logs/news2048-automation.log",
   "log_tail": [
-    "[START] 2026-10-13 09:22:22 每日 08:10 自動化檢查（日期 2026-10-13）",
-    "[SUCCESS] 2026-10-13 09:22:24 臺北氣象：更新 1 個模組：weather-taipei（1.69 秒）",
-    "[SUCCESS] 2026-10-13 09:22:24 台彩累積獎金：來源內容未變，模組檔保持不動（0.14 秒）",
-    "[SUCCESS] 2026-10-13 09:22:25 NIDSS 疫情週報：更新 2 個模組：cdc-covid-weekly、cdc-flu-severe-weekly（0.85 秒）",
-    "[SUCCESS] 2026-10-13 09:22:27 台股加權指數：更新 1 個模組：twse-index（2.48 秒）",
-    "[SUCCESS] 2026-10-13 09:22:27 dashboard build 完成：4 個模組有新資料",
-    "[SUCCESS] 2026-10-13 09:22:27 完成 4 個應執行 job；4 個模組有新資料",
     "[START] 2026-10-14 08:27:21 每日 08:10 自動化檢查（日期 2026-10-14）",
     "[SUCCESS] 2026-10-14 08:27:22 臺北氣象：更新 1 個模組：weather-taipei（0.51 秒）",
     "[SUCCESS] 2026-10-14 08:27:22 台彩累積獎金：更新 1 個模組：lottery-jackpots（0.13 秒）",
     "[SUCCESS] 2026-10-14 08:27:23 NIDSS 疫情週報：更新 2 個模組：cdc-covid-weekly、cdc-flu-severe-weekly（0.9 秒）",
     "[SUCCESS] 2026-10-14 08:27:23 台股加權指數：更新 1 個模組：twse-index（0.15 秒）",
     "[SUCCESS] 2026-10-14 08:27:23 dashboard build 完成：5 個模組有新資料",
-    "[SUCCESS] 2026-10-14 08:27:23 完成 4 個應執行 job；5 個模組有新資料"
+    "[SUCCESS] 2026-10-14 08:27:23 完成 4 個應執行 job；5 個模組有新資料",
+    "[START] 2026-10-15 08:27:33 每日 08:10 自動化檢查（日期 2026-10-15）",
+    "[SUCCESS] 2026-10-15 08:27:33 臺北氣象：更新 1 個模組：weather-taipei（0.39 秒）",
+    "[SUCCESS] 2026-10-15 08:27:33 台彩累積獎金：來源內容未變，模組檔保持不動（0.14 秒）",
+    "[SUCCESS] 2026-10-15 08:27:35 NIDSS 疫情週報：更新 2 個模組：cdc-covid-weekly、cdc-flu-severe-weekly（1.32 秒）",
+    "[SUCCESS] 2026-10-15 08:27:35 台股加權指數：更新 1 個模組：twse-index（0.16 秒）",
+    "[SUCCESS] 2026-10-15 08:27:35 dashboard build 完成：4 個模組有新資料",
+    "[SUCCESS] 2026-10-15 08:27:35 完成 4 個應執行 job；4 個模組有新資料"
   ]
 }
