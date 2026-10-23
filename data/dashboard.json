@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-22 08:24",
+  "generated_at": "2026-10-23 08:27",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 10/22 08:00",
+      "subtitle": "臺北測站 10/23 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-22",
+      "updated": "2026-10-23",
       "tags": [
         "每日",
         "天氣"
@@ -31,32 +31,32 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-10-22T08:00:00+08:00",
-        "previous_observed_at": "2026-10-21T08:00:00+08:00",
+        "observed_at": "2026-10-23T08:00:00+08:00",
+        "previous_observed_at": "2026-10-22T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 23.7,
-            "previous": 28.7,
+            "current": 25.1,
+            "previous": 23.7,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 77%（陰）",
-          "06–09 時短暫陣雨，降雨機率 30%"
+          "目前濕度 87%（陰有雨）",
+          "06–09 時陣雨，降雨機率 100%"
         ]
       },
-      "fetched_at": "2026-10-22 08:24"
+      "fetched_at": "2026-10-23 08:27"
     },
     {
       "id": "twse-index",
       "title": "台股加權指數",
-      "subtitle": "10/21 收盤 vs 10/20 收盤",
+      "subtitle": "10/22 收盤 vs 10/21 收盤",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-21",
+      "updated": "2026-10-22",
       "tags": [
         "每日",
         "股市"
@@ -82,14 +82,13 @@
         "metrics": [
           {
             "label": "加權指數",
-            "current": 46887.77,
-            "previous": 46292.93,
-            "current_label": "10/21 收盤",
-            "previous_label": "10/20 收盤",
+            "current": 46041.43,
+            "previous": 46887.77,
+            "current_label": "10/22 收盤",
+            "previous_label": "10/21 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
-              49806.37,
               49313.44,
               49301.96,
               48341.31,
@@ -98,19 +97,19 @@
               47111.26,
               46822.08,
               46292.93,
-              46887.77
+              46887.77,
+              46041.43
             ]
           },
           {
             "label": "成交金額（億元）",
-            "current": 8746.14,
-            "previous": 8029.47,
-            "current_label": "10/21 收盤",
-            "previous_label": "10/20 收盤",
+            "current": 9334.37,
+            "previous": 8746.14,
+            "current_label": "10/22 收盤",
+            "previous_label": "10/21 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
-              9862.8,
               9245.09,
               8945.22,
               12018.61,
@@ -119,12 +118,13 @@
               9938.15,
               8667.12,
               8029.47,
-              8746.14
+              8746.14,
+              9334.37
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-22 08:24"
+      "fetched_at": "2026-10-23 08:27"
     },
     {
       "id": "cdc-covid-weekly",
@@ -132,7 +132,7 @@
       "subtitle": "上週病例共 25 案，相較於前三週平均數 ▽2.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-22",
+      "updated": "2026-10-23",
       "tags": [
         "每週",
         "疫情"
@@ -150,7 +150,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 41 週；前三週平均 27.67 案。今年累計 804 案、累計死亡 180 例。本週（第 42 週）目前 4 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 41 週；前三週平均 27.67 案。今年累計 806 案、累計死亡 181 例。本週（第 42 週）目前 6 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -181,15 +181,15 @@
           }
         ]
       },
-      "fetched_at": "2026-10-22 08:24"
+      "fetched_at": "2026-10-23 08:27"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 111 案，相較於前三週平均數 ▽48",
+      "subtitle": "上週病例共 116 案，相較於前三週平均數 ▽44",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-22",
+      "updated": "2026-10-23",
       "tags": [
         "每週",
         "疫情"
@@ -207,7 +207,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 41 週；前三週平均 159 案。今年累計 1824 案、累計死亡 392 例。本週（第 42 週）目前 19 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 41 週；前三週平均 160 案。今年累計 1849 案、累計死亡 395 例。本週（第 42 週）目前 36 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -215,8 +215,8 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 41 週）",
-            "current": 111,
-            "previous": 159.0,
+            "current": 116,
+            "previous": 160.0,
             "current_label": "第 41 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
@@ -232,13 +232,13 @@
               128,
               165,
               157,
-              155,
-              111
+              158,
+              116
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-22 08:24"
+      "fetched_at": "2026-10-23 08:27"
     },
     {
       "id": "lottery-jackpots",
@@ -246,7 +246,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-10-21",
+      "updated": "2026-10-23",
       "tags": [
         "每日",
         "彩券"
@@ -270,11 +270,11 @@
           {
             "id": "super-lotto-638",
             "name": "威力彩",
-            "amount": 221436088,
+            "amount": 236589902,
             "amount_decimals": 1,
-            "latest_period": 115000084,
-            "latest_draw_date": "2026-10-19",
-            "next_draw_date": "2026-10-22",
+            "latest_period": 115000085,
+            "latest_draw_date": "2026-10-22",
+            "next_draw_date": "2026-10-26",
             "first_prize_winner_count": 0
           },
           {
@@ -289,7 +289,7 @@
           }
         ]
       },
-      "fetched_at": "2026-10-21 08:21"
+      "fetched_at": "2026-10-23 08:27"
     },
     {
       "id": "ximending-gay-bar-raid-media-framing",
