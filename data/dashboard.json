@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23 08:27",
+  "generated_at": "2026-10-24 08:27",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 10/23 08:00",
+      "subtitle": "臺北測站 10/24 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "tags": [
         "每日",
         "天氣"
@@ -31,24 +31,24 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-10-23T08:00:00+08:00",
-        "previous_observed_at": "2026-10-22T08:00:00+08:00",
+        "observed_at": "2026-10-24T08:00:00+08:00",
+        "previous_observed_at": "2026-10-23T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 25.1,
-            "previous": 23.7,
+            "current": 24.3,
+            "previous": 25.1,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 87%（陰有雨）",
+          "目前濕度 92%（陰有靄）",
           "06–09 時陣雨，降雨機率 100%"
         ]
       },
-      "fetched_at": "2026-10-23 08:27"
+      "fetched_at": "2026-10-24 08:27"
     },
     {
       "id": "twse-index",
@@ -132,7 +132,7 @@
       "subtitle": "上週病例共 25 案，相較於前三週平均數 ▽2.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "tags": [
         "每週",
         "疫情"
@@ -150,7 +150,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 41 週；前三週平均 27.67 案。今年累計 806 案、累計死亡 181 例。本週（第 42 週）目前 6 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 41 週；前三週平均 27.67 案。今年累計 807 案、累計死亡 181 例。本週（第 42 週）目前 7 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -181,15 +181,15 @@
           }
         ]
       },
-      "fetched_at": "2026-10-23 08:27"
+      "fetched_at": "2026-10-24 08:27"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 116 案，相較於前三週平均數 ▽44",
+      "subtitle": "上週病例共 118 案，相較於前三週平均數 ▽42",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "tags": [
         "每週",
         "疫情"
@@ -207,7 +207,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 41 週；前三週平均 160 案。今年累計 1849 案、累計死亡 395 例。本週（第 42 週）目前 36 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 41 週；前三週平均 160 案。今年累計 1852 案、累計死亡 400 例。本週（第 42 週）目前 37 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -215,7 +215,7 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 41 週）",
-            "current": 116,
+            "current": 118,
             "previous": 160.0,
             "current_label": "第 41 週",
             "previous_label": "前三週平均",
@@ -233,12 +233,12 @@
               165,
               157,
               158,
-              116
+              118
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-23 08:27"
+      "fetched_at": "2026-10-24 08:27"
     },
     {
       "id": "lottery-jackpots",
@@ -246,7 +246,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "tags": [
         "每日",
         "彩券"
@@ -280,16 +280,16 @@
           {
             "id": "lotto-649",
             "name": "樂透彩",
-            "amount": 107469026,
+            "amount": 131903906,
             "amount_decimals": 0,
-            "latest_period": 115000098,
-            "latest_draw_date": "2026-10-20",
-            "next_draw_date": "2026-10-23",
+            "latest_period": 115000099,
+            "latest_draw_date": "2026-10-23",
+            "next_draw_date": "2026-10-27",
             "first_prize_winner_count": 0
           }
         ]
       },
-      "fetched_at": "2026-10-23 08:27"
+      "fetched_at": "2026-10-24 08:27"
     },
     {
       "id": "ximending-gay-bar-raid-media-framing",
