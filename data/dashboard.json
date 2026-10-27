@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-26 08:22",
+  "generated_at": "2026-10-27 08:20",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 10/26 08:00",
+      "subtitle": "臺北測站 10/27 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "tags": [
         "每日",
         "天氣"
@@ -31,24 +31,24 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-10-26T08:00:00+08:00",
-        "previous_observed_at": "2026-10-25T08:00:00+08:00",
+        "observed_at": "2026-10-27T08:00:00+08:00",
+        "previous_observed_at": "2026-10-26T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 23.4,
-            "previous": 23.1,
+            "current": 24.1,
+            "previous": 23.4,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 85%（陰）",
-          "今日暫無含雨時段，未來時段最高降雨機率 20%"
+          "目前濕度 66%（-99）",
+          "18–21 時短暫雨，降雨機率 30%"
         ]
       },
-      "fetched_at": "2026-10-26 08:22"
+      "fetched_at": "2026-10-27 08:20"
     },
     {
       "id": "twse-index",
@@ -186,10 +186,10 @@
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 43 案，相較於前三週平均數 ▽101.33",
+      "subtitle": "上週病例共 47 案，相較於前三週平均數 ▽97.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "tags": [
         "每週",
         "疫情"
@@ -207,7 +207,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 42 週；前三週平均 144.33 案。今年累計 1858 案、累計死亡 406 例。本週（第 43 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 42 週；前三週平均 144.67 案。今年累計 1863 案、累計死亡 408 例。本週（第 43 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -215,8 +215,8 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 42 週）",
-            "current": 43,
-            "previous": 144.33,
+            "current": 47,
+            "previous": 144.67,
             "current_label": "第 42 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
@@ -232,13 +232,13 @@
               165,
               157,
               158,
-              118,
-              43
+              119,
+              47
             ]
           }
         ]
       },
-      "fetched_at": "2026-10-26 08:22"
+      "fetched_at": "2026-10-27 08:20"
     },
     {
       "id": "lottery-jackpots",
@@ -246,7 +246,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-10-24",
+      "updated": "2026-10-27",
       "tags": [
         "每日",
         "彩券"
@@ -270,11 +270,11 @@
           {
             "id": "super-lotto-638",
             "name": "威力彩",
-            "amount": 236589902,
+            "amount": 227843626,
             "amount_decimals": 1,
-            "latest_period": 115000085,
-            "latest_draw_date": "2026-10-22",
-            "next_draw_date": "2026-10-26",
+            "latest_period": 115000086,
+            "latest_draw_date": "2026-10-26",
+            "next_draw_date": "2026-10-29",
             "first_prize_winner_count": 0
           },
           {
@@ -289,7 +289,7 @@
           }
         ]
       },
-      "fetched_at": "2026-10-24 08:27"
+      "fetched_at": "2026-10-27 08:20"
     },
     {
       "id": "ximending-gay-bar-raid-media-framing",
