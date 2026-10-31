@@ -1,10 +1,10 @@
 {
   "id": "twse-index",
   "title": "台股加權指數",
-  "subtitle": "10/28 收盤 vs 10/27 收盤",
+  "subtitle": "10/30 收盤 vs 10/29 收盤",
   "type": "delta",
   "status": "published",
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "tags": [
     "每日",
     "股市"
@@ -30,15 +30,13 @@
     "metrics": [
       {
         "label": "加權指數",
-        "current": 47035.58,
-        "previous": 46096.23,
-        "current_label": "10/28 收盤",
-        "previous_label": "10/27 收盤",
+        "current": 45211.83,
+        "previous": 46368.33,
+        "current_label": "10/30 收盤",
+        "previous_label": "10/29 收盤",
         "period_label": "前一交易日",
         "mode": "percent",
         "series": [
-          48341.31,
-          48625.83,
           46969.87,
           47111.26,
           46822.08,
@@ -46,20 +44,20 @@
           46887.77,
           46041.43,
           46096.23,
-          47035.58
+          47035.58,
+          46368.33,
+          45211.83
         ]
       },
       {
         "label": "成交金額（億元）",
-        "current": 7503.41,
-        "previous": 10316.84,
-        "current_label": "10/28 收盤",
-        "previous_label": "10/27 收盤",
+        "current": 9396.05,
+        "previous": 8238.13,
+        "current_label": "10/30 收盤",
+        "previous_label": "10/29 收盤",
         "period_label": "前一交易日",
         "mode": "percent",
         "series": [
-          12018.61,
-          9781.37,
           14357.55,
           9938.15,
           8667.12,
@@ -67,10 +65,12 @@
           8746.14,
           9334.37,
           10316.84,
-          7503.41
+          7503.41,
+          8238.13,
+          9396.05
         ]
       }
     ]
   },
-  "fetched_at": "2026-10-29 08:27"
+  "fetched_at": "2026-10-31 08:24"
 }
