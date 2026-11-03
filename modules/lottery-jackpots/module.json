@@ -4,7 +4,7 @@
   "subtitle": "威力彩 × 樂透彩",
   "type": "lottery",
   "status": "published",
-  "updated": "2026-10-31",
+  "updated": "2026-11-03",
   "tags": [
     "每日",
     "彩券"
@@ -28,11 +28,11 @@
       {
         "id": "super-lotto-638",
         "name": "威力彩",
-        "amount": 249131185,
+        "amount": 271242569,
         "amount_decimals": 1,
-        "latest_period": 115000087,
-        "latest_draw_date": "2026-10-29",
-        "next_draw_date": "2026-11-02",
+        "latest_period": 115000088,
+        "latest_draw_date": "2026-11-02",
+        "next_draw_date": "2026-11-05",
         "first_prize_winner_count": 0
       },
       {
@@ -47,5 +47,5 @@
       }
     ]
   },
-  "fetched_at": "2026-10-31 08:24"
+  "fetched_at": "2026-11-03 08:26"
 }
