@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-04 08:22",
+  "generated_at": "2026-11-05 08:23",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 11/4 08:00",
+      "subtitle": "臺北測站 11/5 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "tags": [
         "每日",
         "天氣"
@@ -31,13 +31,13 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-11-04T08:00:00+08:00",
-        "previous_observed_at": "2026-11-03T08:00:00+08:00",
+        "observed_at": "2026-11-05T08:00:00+08:00",
+        "previous_observed_at": "2026-11-04T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 24.4,
-            "previous": 23.9,
+            "current": 24.8,
+            "previous": 24.4,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
@@ -45,18 +45,18 @@
         ],
         "context": [
           "目前濕度 73%（晴）",
-          "今日暫無含雨時段，未來時段最高降雨機率 10%"
+          "今日暫無含雨時段，未來時段最高降雨機率 20%"
         ]
       },
-      "fetched_at": "2026-11-04 08:21"
+      "fetched_at": "2026-11-05 08:23"
     },
     {
       "id": "twse-index",
       "title": "台股加權指數",
-      "subtitle": "11/3 收盤 vs 11/2 收盤",
+      "subtitle": "11/4 收盤 vs 11/3 收盤",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-03",
+      "updated": "2026-11-04",
       "tags": [
         "每日",
         "股市"
@@ -82,33 +82,35 @@
         "metrics": [
           {
             "label": "加權指數",
-            "current": 43307.54,
-            "previous": 44920.14,
-            "current_label": "11/3 收盤",
-            "previous_label": "11/2 收盤",
+            "current": 42948.91,
+            "previous": 43307.54,
+            "current_label": "11/4 收盤",
+            "previous_label": "11/3 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
               44920.14,
-              43307.54
+              43307.54,
+              42948.91
             ]
           },
           {
             "label": "成交金額（億元）",
-            "current": 10020.36,
-            "previous": 7996.88,
-            "current_label": "11/3 收盤",
-            "previous_label": "11/2 收盤",
+            "current": 11769.3,
+            "previous": 10020.36,
+            "current_label": "11/4 收盤",
+            "previous_label": "11/3 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
               7996.88,
-              10020.36
+              10020.36,
+              11769.3
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-04 08:22"
+      "fetched_at": "2026-11-05 08:23"
     },
     {
       "id": "cdc-covid-weekly",
@@ -170,10 +172,10 @@
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 94 案，相較於前三週平均數 ▽41",
+      "subtitle": "上週病例共 102 案，相較於前三週平均數 ▽33.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "tags": [
         "每週",
         "疫情"
@@ -191,7 +193,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 43 週；前三週平均 135 案。今年累計 2046 案、累計死亡 464 例。本週（第 44 週）目前 6 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 43 週；前三週平均 135.33 案。今年累計 2063 案、累計死亡 472 例。本週（第 44 週）目前 14 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -199,8 +201,8 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 43 週）",
-            "current": 94,
-            "previous": 135.0,
+            "current": 102,
+            "previous": 135.33,
             "current_label": "第 43 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
@@ -216,13 +218,13 @@
               159,
               160,
               130,
-              115,
-              94
+              116,
+              102
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-04 08:22"
+      "fetched_at": "2026-11-05 08:23"
     },
     {
       "id": "lottery-jackpots",
