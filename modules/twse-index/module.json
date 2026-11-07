@@ -1,10 +1,10 @@
 {
   "id": "twse-index",
   "title": "台股加權指數",
-  "subtitle": "11/5 收盤 vs 11/4 收盤",
+  "subtitle": "11/6 收盤 vs 11/5 收盤",
   "type": "delta",
   "status": "published",
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "tags": [
     "每日",
     "股市"
@@ -30,35 +30,37 @@
     "metrics": [
       {
         "label": "加權指數",
-        "current": 41574.72,
-        "previous": 42948.91,
-        "current_label": "11/5 收盤",
-        "previous_label": "11/4 收盤",
+        "current": 39701.64,
+        "previous": 41574.72,
+        "current_label": "11/6 收盤",
+        "previous_label": "11/5 收盤",
         "period_label": "前一交易日",
         "mode": "percent",
         "series": [
           44920.14,
           43307.54,
           42948.91,
-          41574.72
+          41574.72,
+          39701.64
         ]
       },
       {
         "label": "成交金額（億元）",
-        "current": 9870.99,
-        "previous": 11769.3,
-        "current_label": "11/5 收盤",
-        "previous_label": "11/4 收盤",
+        "current": 13210.72,
+        "previous": 9870.99,
+        "current_label": "11/6 收盤",
+        "previous_label": "11/5 收盤",
         "period_label": "前一交易日",
         "mode": "percent",
         "series": [
           7996.88,
           10020.36,
           11769.3,
-          9870.99
+          9870.99,
+          13210.72
         ]
       }
     ]
   },
-  "fetched_at": "2026-11-06 19:35"
+  "fetched_at": "2026-11-07 08:29"
 }
