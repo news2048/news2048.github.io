@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-07 08:29",
+  "generated_at": "2026-11-08 08:24",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 11/7 08:00",
+      "subtitle": "臺北測站 11/8 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-07",
+      "updated": "2026-11-08",
       "tags": [
         "每日",
         "天氣"
@@ -31,24 +31,24 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-11-07T08:00:00+08:00",
-        "previous_observed_at": "2026-11-06T09:00:00+08:00",
+        "observed_at": "2026-11-08T08:00:00+08:00",
+        "previous_observed_at": "2026-11-07T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 23.9,
-            "previous": 24.6,
+            "current": 24.8,
+            "previous": 23.9,
             "current_label": "目前",
-            "previous_label": "昨天 09:00",
+            "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 80%（多雲）",
-          "09–12 時短暫雨，降雨機率 30%"
+          "目前濕度 71%（晴）",
+          "今日暫無含雨時段，未來時段最高降雨機率 20%"
         ]
       },
-      "fetched_at": "2026-11-07 08:29"
+      "fetched_at": "2026-11-08 08:24"
     },
     {
       "id": "twse-index",
@@ -119,10 +119,10 @@
     {
       "id": "cdc-covid-weekly",
       "title": "新冠併發重症",
-      "subtitle": "上週病例共 11 案，相較於前三週平均數 ▽6.67",
+      "subtitle": "上週病例共 1 案，相較於前三週平均數 ▽13.67",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-06",
+      "updated": "2026-11-08",
       "tags": [
         "每週",
         "疫情"
@@ -140,22 +140,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 43 週；前三週平均 17.67 案。今年累計 820 案、累計死亡 185 例。本週（第 44 週）目前 1 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 44 週；前三週平均 14.67 案。今年累計 820 案、累計死亡 185 例。本週（第 45 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 43 週）",
-            "current": 11,
-            "previous": 17.67,
-            "current_label": "第 43 週",
+            "label": "上週確診病例數（第 44 週）",
+            "current": 1,
+            "previous": 14.67,
+            "current_label": "第 44 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              82,
               62,
               71,
               65,
@@ -166,20 +165,21 @@
               20,
               25,
               8,
-              11
+              11,
+              1
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-06 19:35"
+      "fetched_at": "2026-11-08 08:24"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 106 案，相較於前三週平均數 ▽29.33",
+      "subtitle": "上週病例共 36 案，相較於前三週平均數 ▽81.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-07",
+      "updated": "2026-11-08",
       "tags": [
         "每週",
         "疫情"
@@ -197,22 +197,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 43 週；前三週平均 135.33 案。今年累計 2089 案、累計死亡 481 例。本週（第 44 週）目前 36 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 44 週；前三週平均 117.33 案。今年累計 2089 案、累計死亡 486 例。本週（第 45 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 43 週）",
-            "current": 106,
-            "previous": 135.33,
-            "current_label": "第 43 週",
+            "label": "上週確診病例數（第 44 週）",
+            "current": 36,
+            "previous": 117.33,
+            "current_label": "第 44 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              76,
               67,
               100,
               107,
@@ -223,12 +222,13 @@
               160,
               130,
               116,
-              106
+              106,
+              36
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-07 08:29"
+      "fetched_at": "2026-11-08 08:24"
     },
     {
       "id": "lottery-jackpots",
