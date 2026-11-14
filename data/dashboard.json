@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-13 08:28",
+  "generated_at": "2026-11-14 08:23",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 11/13 08:00",
+      "subtitle": "臺北測站 11/14 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-13",
+      "updated": "2026-11-14",
       "tags": [
         "每日",
         "天氣"
@@ -31,32 +31,32 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-11-13T08:00:00+08:00",
-        "previous_observed_at": "2026-11-12T08:00:00+08:00",
+        "observed_at": "2026-11-14T08:00:00+08:00",
+        "previous_observed_at": "2026-11-13T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 25.3,
-            "previous": 24,
+            "current": 23.2,
+            "previous": 25.3,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 69%（陰）",
-          "今日暫無含雨時段，未來時段最高降雨機率 0%"
+          "目前濕度 77%（陰）",
+          "15–18 時短暫陣雨，降雨機率 30%"
         ]
       },
-      "fetched_at": "2026-11-13 08:28"
+      "fetched_at": "2026-11-14 08:23"
     },
     {
       "id": "twse-index",
       "title": "台股加權指數",
-      "subtitle": "11/12 收盤 vs 11/11 收盤",
+      "subtitle": "11/13 收盤 vs 11/12 收盤",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-12",
+      "updated": "2026-11-13",
       "tags": [
         "每日",
         "股市"
@@ -82,10 +82,10 @@
         "metrics": [
           {
             "label": "加權指數",
-            "current": 43091.87,
-            "previous": 44257.15,
-            "current_label": "11/12 收盤",
-            "previous_label": "11/11 收盤",
+            "current": 43675.12,
+            "previous": 43091.87,
+            "current_label": "11/13 收盤",
+            "previous_label": "11/12 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
@@ -97,15 +97,16 @@
               41661.7,
               42711.92,
               44257.15,
-              43091.87
+              43091.87,
+              43675.12
             ]
           },
           {
             "label": "成交金額（億元）",
-            "current": 10568.42,
-            "previous": 8762.95,
-            "current_label": "11/12 收盤",
-            "previous_label": "11/11 收盤",
+            "current": 9515.8,
+            "previous": 10568.42,
+            "current_label": "11/13 收盤",
+            "previous_label": "11/12 收盤",
             "period_label": "前一交易日",
             "mode": "percent",
             "series": [
@@ -117,12 +118,13 @@
               8770.26,
               10340.12,
               8762.95,
-              10568.42
+              10568.42,
+              9515.8
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-13 08:28"
+      "fetched_at": "2026-11-14 08:23"
     },
     {
       "id": "cdc-covid-weekly",
@@ -184,10 +186,10 @@
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 80 案，相較於前三週平均數 ▽39.33",
+      "subtitle": "上週病例共 84 案，相較於前三週平均數 ▽35.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-13",
+      "updated": "2026-11-14",
       "tags": [
         "每週",
         "疫情"
@@ -205,7 +207,7 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 44 週；前三週平均 119.33 案。今年累計 2154 案、累計死亡 515 例。本週（第 45 週）目前 15 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 44 週；前三週平均 119.33 案。今年累計 2166 案、累計死亡 521 例。本週（第 45 週）目前 23 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
@@ -213,7 +215,7 @@
         "metrics": [
           {
             "label": "上週確診病例數（第 44 週）",
-            "current": 80,
+            "current": 84,
             "previous": 119.33,
             "current_label": "第 44 週",
             "previous_label": "前三週平均",
@@ -231,12 +233,12 @@
               130,
               116,
               112,
-              80
+              84
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-13 08:28"
+      "fetched_at": "2026-11-14 08:23"
     },
     {
       "id": "lottery-jackpots",
@@ -244,7 +246,7 @@
       "subtitle": "威力彩 × 樂透彩",
       "type": "lottery",
       "status": "published",
-      "updated": "2026-11-13",
+      "updated": "2026-11-14",
       "tags": [
         "每日",
         "彩券"
@@ -278,16 +280,16 @@
           {
             "id": "lotto-649",
             "name": "樂透彩",
-            "amount": 54986601,
+            "amount": 78165731,
             "amount_decimals": 0,
-            "latest_period": 115000104,
-            "latest_draw_date": "2026-11-10",
-            "next_draw_date": "2026-11-13",
+            "latest_period": 115000105,
+            "latest_draw_date": "2026-11-13",
+            "next_draw_date": "2026-11-17",
             "first_prize_winner_count": 0
           }
         ]
       },
-      "fetched_at": "2026-11-13 08:28"
+      "fetched_at": "2026-11-14 08:23"
     },
     {
       "id": "ximending-gay-bar-raid-media-framing",

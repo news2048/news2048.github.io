@@ -4,7 +4,7 @@
   "subtitle": "威力彩 × 樂透彩",
   "type": "lottery",
   "status": "published",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "tags": [
     "每日",
     "彩券"
@@ -38,14 +38,14 @@
       {
         "id": "lotto-649",
         "name": "樂透彩",
-        "amount": 54986601,
+        "amount": 78165731,
         "amount_decimals": 0,
-        "latest_period": 115000104,
-        "latest_draw_date": "2026-11-10",
-        "next_draw_date": "2026-11-13",
+        "latest_period": 115000105,
+        "latest_draw_date": "2026-11-13",
+        "next_draw_date": "2026-11-17",
         "first_prize_winner_count": 0
       }
     ]
   },
-  "fetched_at": "2026-11-13 08:28"
+  "fetched_at": "2026-11-14 08:23"
 }
