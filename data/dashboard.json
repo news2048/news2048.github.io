@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-21 08:24",
+  "generated_at": "2026-11-22 08:25",
   "count": 10,
   "modules": [
     {
       "id": "weather-taipei",
       "title": "台北氣溫",
-      "subtitle": "臺北測站 11/21 08:00",
+      "subtitle": "臺北測站 11/22 08:00",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "tags": [
         "每日",
         "天氣"
@@ -31,24 +31,24 @@
         "unit": "°C",
         "scheme": "thermal",
         "polarity": "neutral",
-        "observed_at": "2026-11-21T08:00:00+08:00",
-        "previous_observed_at": "2026-11-20T08:00:00+08:00",
+        "observed_at": "2026-11-22T08:00:00+08:00",
+        "previous_observed_at": "2026-11-21T08:00:00+08:00",
         "metrics": [
           {
             "label": "目前氣溫",
-            "current": 16.9,
-            "previous": 18.1,
+            "current": 18.3,
+            "previous": 16.9,
             "current_label": "目前",
             "previous_label": "昨天同時",
             "mode": "absolute"
           }
         ],
         "context": [
-          "目前濕度 53%（多雲）",
+          "目前濕度 57%（晴）",
           "今日暫無含雨時段，未來時段最高降雨機率 0%"
         ]
       },
-      "fetched_at": "2026-11-21 08:24"
+      "fetched_at": "2026-11-22 08:25"
     },
     {
       "id": "twse-index",
@@ -129,10 +129,10 @@
     {
       "id": "cdc-covid-weekly",
       "title": "新冠併發重症",
-      "subtitle": "上週病例共 3 案，相較於前三週平均數 ▽4",
+      "subtitle": "上週病例共 4 案，相較於前三週平均數 ▽1.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "tags": [
         "每週",
         "疫情"
@@ -150,22 +150,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 45 週；前三週平均 7 案。今年累計 828 案、累計死亡 187 例。本週（第 46 週）目前 4 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 46 週；前三週平均 5.33 案。今年累計 828 案、累計死亡 187 例。本週（第 47 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 45 週）",
-            "current": 3,
-            "previous": 7.0,
-            "current_label": "第 45 週",
+            "label": "上週確診病例數（第 46 週）",
+            "current": 4,
+            "previous": 5.33,
+            "current_label": "第 46 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              71,
               65,
               54,
               53,
@@ -176,20 +175,21 @@
               8,
               11,
               2,
-              3
+              3,
+              4
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-21 08:24"
+      "fetched_at": "2026-11-22 08:25"
     },
     {
       "id": "cdc-flu-severe-weekly",
       "title": "流感併發重症",
-      "subtitle": "上週病例共 57 案，相較於前三週平均數 ▽49.67",
+      "subtitle": "上週病例共 29 案，相較於前三週平均數 ▽58.33",
       "type": "delta",
       "status": "published",
-      "updated": "2026-11-21",
+      "updated": "2026-11-22",
       "tags": [
         "每週",
         "疫情"
@@ -207,22 +207,21 @@
         "by": "",
         "at": ""
       },
-      "note": "上週為 2026 年第 45 週；前三週平均 106.67 案。今年累計 2237 案、累計死亡 545 例。本週（第 46 週）目前 29 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
+      "note": "上週為 2026 年第 46 週；前三週平均 87.33 案。今年累計 2238 案、累計死亡 549 例。本週（第 47 週）目前 0 案，週未過完不宜比較。疾管署資料依發病日統計且會回溯校正，最近幾週數字通常偏低估。",
       "data": {
         "unit": "案",
         "scheme": "semantic",
         "polarity": "higher-is-bad",
         "metrics": [
           {
-            "label": "上週確診病例數（第 45 週）",
-            "current": 57,
-            "previous": 106.67,
-            "current_label": "第 45 週",
+            "label": "上週確診病例數（第 46 週）",
+            "current": 29,
+            "previous": 87.33,
+            "current_label": "第 46 週",
             "previous_label": "前三週平均",
             "period_label": "前一週",
             "mode": "absolute",
             "series": [
-              100,
               107,
               135,
               128,
@@ -233,12 +232,13 @@
               116,
               113,
               91,
-              57
+              58,
+              29
             ]
           }
         ]
       },
-      "fetched_at": "2026-11-21 08:24"
+      "fetched_at": "2026-11-22 08:25"
     },
     {
       "id": "lottery-jackpots",
